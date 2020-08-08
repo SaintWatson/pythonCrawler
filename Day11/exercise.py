@@ -10,12 +10,23 @@ def init():
 
 init()
 import re
-regex_1 = '[A-Z]{3}-[0-9]{3}\n'
-pattern = re.compile(regex_1)
+rule1 = '[A-Z]{3}-\d{3}\n'
+rule2 = '[A-Z]{2}-\d{4}\n'
+pattern1 = re.compile(rule1)
+pattern2 = re.compile(rule2)
+
 
 with open('license_data.txt', 'r') as f:
     LL = f.readlines()
+    AC1 = list()
+    AC2 = list()
     for string in LL:
-        if re.match(pattern, string):
-            print(string[:-1])
+        if re.match(rule1, string):
+            AC1.append(string)
+        elif re.match(rule2, string):
+            AC2.append(string)
             
+    for i, bike in enumerate(AC1):
+        print(f'[bike] #{i}: {bike}')
+    for i, car in enumerate(AC2):
+        print(f'[car] #{i}: {car}')             
