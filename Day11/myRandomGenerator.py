@@ -26,3 +26,10 @@ def make_data(n):
     with open('license_data.txt', 'w') as f:
         for i in range(n):
             f.writelines(random_license())
+def rand3():
+    rng = random.Random()
+    return str(rng.randint(0,999))
+def rand_IPv4():
+    temp = [rand3() for i in range(4)]
+    ip = '.'.join(temp)
+    return ip
