@@ -6,7 +6,8 @@ response = requests.get(url).text
 import re
 # IP address has four range: 0-99, 100-199, 200-249, 250-255
 # '\d{1,2}$|1\d\d|2[0-4][0-9]|25[0-5]' means a 0-255 number and it has 4 with seperated by period.
-regex = '((\d{1,2}|1\d\d|2[0-4][0-9]|25[0-5])\.){3}(\d{1,2}|1\d\d|2[0-4][0-9]|25[0-5])'
+byte = '(\d{1,2}|1\d\d|2[0-4][0-9]|25[0-5])'
+regex = f'{byte}\.{byte}\.{byte}\.{byte}'
 pattern = re.compile(regex)
 
 ips = pattern.finditer(response)
