@@ -1,5 +1,14 @@
-import requests
-url = 'https://www.ptt.cc/bbs/NBA/index.html'
+import requests, sys
+try:
+    bbs = sys.argv[1]
+except:
+    bbs = 'NBA'
+url = f'https://www.ptt.cc/bbs/{bbs}/index.html'
+ret = requests.get(url)
+status = ret.status_code
+if status != 200:
+    print("This board doesn't exist!")
+    exit()
 response = requests.get(url).text
 print('Receive the response...')
 
@@ -20,7 +29,7 @@ for i in range(articles):
 
 import time
 curTime = time.ctime().split()
-now = f'{curTime[1]}.{curTime[2]} {curTime[3]}'.replace(':','_')
+now = f'[{bbs}] {curTime[1]}.{curTime[2]} {curTime[3]}'.replace(':','_')
 
 import os
 dirname = 'result'
