@@ -44,3 +44,4 @@ with open(fullname, 'w', encoding='Big5') as csvfile:
     writer = csv.writer(csvfile)
     writer.writerows(article_list)
 print(f'Done!!! \nThe file {filename} has saved in the directory {dirname}.')
+
