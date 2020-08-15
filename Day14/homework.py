@@ -1,4 +1,4 @@
-import requests, sys, math, csv, time, os
+import requests, sys, math, csv, time, os, pandas
 from bs4 import BeautifulSoup
 
 def page_Field():
@@ -8,7 +8,6 @@ def page_Field():
     p_tags = soup.find_all('p')
     for tag in p_tags:
         if '目前顯示' in tag.text:
-            ret = tag.text
             try:
                 return int(tag.text.split('，')[0][1:-1]), math.ceil(int(tag.text.split('，')[0][1:-1])/10)
             except:
@@ -38,6 +37,7 @@ def score2star(score):
 movieN, pageN = page_Field()
 print(f'There are {movieN} movies need to handle...')
 finished = 0
+slow = True
 
 movie_list = [['中文名稱', '英文名稱', '期待度', '滿意度', '總分', '上映時間']]
 for i in range(pageN):
@@ -47,8 +47,8 @@ for i in range(pageN):
 
     for tag in tags:
         names = tag.find_all(class_='gabtn')
-        zh_name = names[0].text.strip()
-        en_name = names[1].text.strip()
+        zh_name = names[0].text.strip('\t\n ')
+        en_name = names[1].text.strip('\t\n ')
 
         leveltexts = tag.find_all(class_='leveltext')
         expectation = leveltexts[0].findChild().text
@@ -62,10 +62,10 @@ for i in range(pageN):
         movie_list.append([zh_name, en_name, expectation, satisfaction, star ,release_time])
 
         finished += 1
-        progressing(finished, movieN, True)
+        progressing(finished, movieN, slow)
 
 curTime = time.ctime().split()
-now = f'{curTime[1]}.{curTime[2]} {curTime[3]}'.replace(':','_')
+now = f'{curTime[1]}.{curTime[2]}-{curTime[3]}'.replace(':','_')
 filename = now + '.csv'
 dirname = 'result'
 if dirname not in os.listdir():
