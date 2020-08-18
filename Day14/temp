@@ -1,0 +1,4769 @@
+<!DOCTYPE html>
+<html lang="zh_TW">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1, user-minimum-scale=1, maximum-scale=1" name="viewport"/>
+  <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+  <meta content="501887343352051" property="fb:app_id"/>
+  <meta content="Yahoo奇摩電影" property="og:site_name"/>
+  <title>
+   上映中 - Yahoo奇摩電影
+  </title>
+  <meta content="上映中 - Yahoo奇摩電影" name="twitter:title"/>
+  <meta content="上映中 - Yahoo奇摩電影" property="og:title"/>
+  <link href="https://movies.yahoo.com.tw/movie_intheaters.html?page=1" rel="canonical"/>
+  <meta content="https://movies.yahoo.com.tw/movie_intheaters.html?page=1" property="og:url"/>
+  <meta content="Yahoo奇摩電影提供上映中的最新電影資訊，查詢時刻表、看最新預告片，讓你電影資訊不漏接" name="twitter:description"/>
+  <meta content="Yahoo奇摩電影提供上映中的最新電影資訊，查詢時刻表、看最新預告片，讓你電影資訊不漏接" name="description"/>
+  <meta content="Yahoo奇摩電影提供上映中的最新電影資訊，查詢時刻表、看最新預告片，讓你電影資訊不漏接" property="og:description"/>
+  <meta content="https://movies.yahoo.com.tw/build/images/ogImage.png" name="twitter:image"/>
+  <meta content="https://movies.yahoo.com.tw/build/images/ogImage.png" property="og:image"/>
+  <meta content="https://movies.yahoo.com.tw/build/images/ogImage.png" name="twitter:image:src"/>
+  <meta content="電影, yahoo奇摩電影, 時刻表, 新片, 預告片, 網友滿意榜, yahoo 電影, 劇照, 線上訂票, 票房, 台北票房, 全美票房, 排行榜, 戲院, 片名, 電視, 熱映中, 本週新片, 海報, 滿意度, 期待度" name="keywords"/>
+  <link href="/build/css/app.css?id=eadc5e22ade55ba173fe&amp;r=1555478321" rel="stylesheet"/>
+  <meta content="guce.yahoo.com.tw" name="oath:guce:consent-host">
+   <!-- Consent Manager Tag : Script -->
+   <script async="" src="https://consent.cmp.oath.com/cmp.js" type="text/javascript">
+   </script>
+   <!-- Consent Manager Tag : Stubbed (updated 2018-04-27T17:00) -->
+   <script type="text/javascript">
+    (function () {
+        var gdprAppliesGlobally = false;
+
+        function addFrame() {
+            if (!window.frames['__cmpLocator']) {
+                if (document.body && document.body.firstChild) {
+                    var body = document.body,
+                        iframe = document.createElement('iframe');
+
+                      iframe.style.display = 'none';
+			  iframe.height = iframe.width = 0;
+
+                    iframe.name = '__cmpLocator';
+                    body.insertBefore(iframe, body.firstChild);
+                } else {
+                    setTimeout(addFrame, 5);
+                }
+            }
+        }
+
+        addFrame();
+
+        function stubCMP() {
+            var b = arguments;
+            __cmp.a = __cmp.a || [];
+
+            if (!b.length) return __cmp.a;
+            else if (b[0] === 'ping') {
+                b[2]({
+                    "gdprAppliesGlobally": gdprAppliesGlobally,
+                    "cmpLoaded": false
+                }, true);
+            }
+            else {
+                __cmp.a.push([].slice.apply(b));
+            }
+        }
+
+        function cmpMsgHandler(event) {
+            var msgIsString = typeof event.data === "string";
+            var json = event.data;
+            if (msgIsString) {
+                try {
+                    json = JSON.parse(event.data);
+                } catch (e) {}
+            }
+            if (json.__cmpCall) {
+                var i = json.__cmpCall;
+                window.__cmp(i.command, i.parameter, function (retValue, success) {
+                    var returnMsg = {
+                        "__cmpReturn": {
+                            "returnValue": retValue,
+                            "success": success,
+                            "callId": i.callId
+                        }
+                    };
+                    event.source.postMessage(msgIsString ?
+                        JSON.stringify(returnMsg) : returnMsg, '*');
+                });
+            }
+        }
+
+        if (typeof (__cmp) !== 'function') {
+            window.__cmp = stubCMP;
+            __cmp.msgHandler = cmpMsgHandler;
+            if (window.addEventListener)
+                window.addEventListener('message', cmpMsgHandler, false);
+            else window.attachEvent('onmessage', cmpMsgHandler);
+        }
+    })();
+   </script>
+   <!-- End Consent Manager Tag : Stubbed -->
+   <script type="text/javascript">
+    window.__cmp('init');
+   </script>
+   <script src="https://s.yimg.com/nb/AdLib/adlib-prod.umd.min.js" type="text/javascript">
+   </script>
+  </meta>
+ </head>
+ <body id="">
+  <data data-login="false" data-login-href="https://movies.yahoo.com.tw/login">
+  </data>
+  <span data-id="794026717" id="ad-space-id">
+  </span>
+  <span data-id="3" id="pt-type">
+  </span>
+  <!--Website-->
+  <div id="maincontainer">
+   <header>
+    <div id="y-header">
+     <nav class="nav content">
+      <ul>
+       <li>
+        <a class="gabtn" data-ga="['頻道入口','頻道入口_Yahoo首頁','頁首_頻道入口']" href="https://tw.yahoo.com/">
+         <span class="icon_home">
+         </span>
+         首頁
+        </a>
+       </li>
+       <li>
+        <a class="gabtn" data-ga="['頻道入口','頻道入口_信箱','頁首_頻道入口']" href="https://tw.mail.yahoo.com/">
+         信箱
+        </a>
+       </li>
+       <li>
+        <a class="gabtn" data-ga="['頻道入口','頻道入口_新聞','頁首_頻道入口']" href="https://tw.news.yahoo.com/">
+         新聞
+        </a>
+       </li>
+       <li>
+        <a class="gabtn" data-ga="['頻道入口','頻道入口_股市','頁首_頻道入口']" href="https://tw.stock.yahoo.com/">
+         股市
+        </a>
+       </li>
+       <li>
+        <a class="gabtn" data-ga="['頻道入口','頻道入口_氣象','頁首_頻道入口']" href="https://tw.news.yahoo.com/weather-forecast/">
+         氣象
+        </a>
+       </li>
+       <li>
+        <a class="gabtn" data-ga="['頻道入口','頻道入口_運動','頁首_頻道入口']" href="https://tw.sports.yahoo.com/">
+         運動
+        </a>
+       </li>
+       <li>
+        <a class="gabtn" data-ga="['頻道入口','頻道入口_名人娛樂','頁首_頻道入口']" href="https://tw.news.yahoo.com/entertainment">
+         名人娛樂
+        </a>
+       </li>
+       <li>
+        <a class="gabtn" data-ga="['頻道入口','頻道入口_App下載','頁首_頻道入口']" href="http://tw.mobile.yahoo.com/">
+         App下載
+        </a>
+       </li>
+       <li>
+        <a class="gabtn" data-ga="['頻道入口','頻道入口_購物中心','頁首_頻道入口']" href="https://tw.buy.yahoo.com/">
+         購物中心
+        </a>
+       </li>
+       <li>
+        <a class="gabtn" data-ga="['頻道入口','頻道入口_商域','頁首_頻道入口']" href="https://tw.mall.yahoo.com/">
+         商城
+        </a>
+       </li>
+       <li>
+        <a class="gabtn" data-ga="['頻道入口','頻道入口_拍賣','頁首_頻道入口']" href="https://tw.bid.yahoo.com/">
+         拍賣
+        </a>
+       </li>
+       <li class="nav_more">
+        <a href="javascript:void(0)">
+         更多
+         <span class="icon_more">
+         </span>
+        </a>
+        <div class="dropdown_list">
+         <dl>
+          <dd>
+           <a class="gabtn" data-ga="['頻道入口','頻道入口_影音','頁首_頻道入口']" href="https://tw.video.yahoo.com/">
+            影音
+           </a>
+          </dd>
+          <dd>
+           <a class="gabtn" data-ga="['頻道入口','頻道入口_知識+','頁首_頻道入口']" href="https://tw.knowledge.yahoo.com/">
+            知識+
+           </a>
+          </dd>
+          <dd>
+           <a class="gabtn" data-ga="['頻道入口','頻道入口_汽車機車','頁首_頻道入口']" href="https://autos.yahoo.com.tw/">
+            汽車機車
+           </a>
+          </dd>
+          <dd>
+           <a class="gabtn" data-ga="['頻道入口','頻道入口_電影','頁首_頻道入口']" href="https://movies.yahoo.com.tw/">
+            電影
+           </a>
+          </dd>
+          <dd>
+           <a class="gabtn" data-ga="['頻道入口','頻道入口_字典','頁首_頻道入口']" href="https://tw.dictionary.yahoo.com/">
+            字典
+           </a>
+          </dd>
+          <dd>
+           <a class="gabtn" data-ga="['頻道入口','頻道入口_遊戲','頁首_頻道入口']" href="https://games.yahoo.com.tw/">
+            遊戲
+           </a>
+          </dd>
+          <dd>
+           <a class="gabtn" data-ga="['頻道入口','頻道入口_旅遊','頁首_頻道入口']" href="https://travel.yahoo.com.tw/">
+            旅遊
+           </a>
+          </dd>
+          <dd>
+           <a class="gabtn" data-ga="['頻道入口','頻道入口_理財','頁首_頻道入口']" href="https://tw.money.yahoo.com/">
+            理財
+           </a>
+          </dd>
+          <dd>
+           <a class="gabtn" data-ga="['頻道入口','頻道入口_房地產','頁首_頻道入口']" href="https://house.yahoo.com.tw/">
+            房地產
+           </a>
+          </dd>
+          <dd>
+           <a class="gabtn" data-ga="['頻道入口','頻道入口_時尚美妝','頁首_頻道入口']" href="https://style.yahoo.com.tw/">
+            時尚美妝
+           </a>
+          </dd>
+          <dd>
+           <a class="gabtn" data-ga="['頻道入口','頻道入口_折扣城','頁首_頻道入口']" href="https://tw.discount.yahoo.net/index.php?group=all">
+            折扣城
+           </a>
+          </dd>
+         </dl>
+        </div>
+       </li>
+      </ul>
+     </nav>
+    </div>
+    <div id="kv">
+     <div class="content">
+      <div class="_c" id="y_hous_serch">
+       <div id="y_serch_l">
+        <a class="gabtn" data-ga="['電影頻道logo','電影頻道logo_連結','頁首_電影頻道logo']" href="https://movies.yahoo.com.tw/index.html" id="ylogo">
+         <img alt="Yahoo Logo" src="/build/images/header_logo.png" srcset="/build/images/header_logo@2x.png 2x, /build/images/header_logo@3x.png 3x"/>
+        </a>
+        <form action="https://tw.search.yahoo.com/search" method="get" target="_blank">
+         <input autocomplete="off" id="serchinput" name="p" placeholder="搜尋" type="text"/>
+         <div class="inputex" style="visibility:hidden">
+         </div>
+         <button class="serch_movie gabtn" data-ga="['top search','top search_電影明星搜尋','']" data-input="['input','serchinput','']">
+          電影‧明星搜尋
+         </button>
+         <!--20170531-->
+         <button class="gabtn" data-ga="['top search','top search_網頁搜尋','']" data-input="['input','serchinput','']" type="submit">
+          網頁搜尋
+         </button>
+         <!--20170531-->
+         <input id="fr" name="fr" type="hidden" value="ush-movies"/>
+        </form>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- jurisdiction-type: WORLD -->
+    <div id="bg_main_menu">
+     <div class="content">
+      <ul id="mainmenu">
+       <li>
+        <a class="gabtn" data-ga="['選單','選單_首頁','頁首_選單']" href="https://movies.yahoo.com.tw/" target="">
+         <span>
+          首頁
+         </span>
+        </a>
+       </li>
+       <li>
+        <a class="gabtn" data-ga="['選單','選單_本週新片','頁首_選單']" href="https://movies.yahoo.com.tw/movie_thisweek.html" target="">
+         <span>
+          本週新片
+         </span>
+        </a>
+       </li>
+       <li class="select">
+        <a class="gabtn" data-ga="['選單','選單_上映中','頁首_選單']" href="https://movies.yahoo.com.tw/movie_intheaters.html" target="">
+         <span>
+          上映中
+         </span>
+        </a>
+       </li>
+       <li>
+        <a class="gabtn" data-ga="['選單','選單_即將上映','頁首_選單']" href="https://movies.yahoo.com.tw/movie_comingsoon.html" target="">
+         <span>
+          即將上映
+         </span>
+        </a>
+       </li>
+       <li>
+        <a class="gabtn" data-ga="['選單','選單_預告片','頁首_選單']" href="https://movies.yahoo.com.tw/trailer_index.html" target="">
+         <span>
+          預告片
+         </span>
+        </a>
+       </li>
+       <li>
+        <a class="gabtn" data-ga="['選單','選單_排行榜','頁首_選單']" href="https://movies.yahoo.com.tw/chart.html" target="">
+         <span>
+          排行榜
+         </span>
+        </a>
+       </li>
+       <li class="hassub">
+        <a class="gabtn" data-ga="['選單','選單_情報站','頁首_選單']" href="https://movies.yahoo.com.tw/article_index.html" target="">
+         <span>
+          情報站
+         </span>
+        </a>
+        <div class="submenu">
+         <dl class="submenu_inner">
+          <dt>
+           <a class="gabtn" data-ga="['選單','選單_情報站_電影新聞','頁首_選單']" href="https://movies.yahoo.com.tw/tagged/movieheadline" target="">
+            電影新聞
+           </a>
+          </dt>
+          <dt>
+           <a class="gabtn" data-ga="['選單','選單_情報站_專題報導','頁首_選單']" href="https://movies.yahoo.com.tw/tagged/spotlight" target="">
+            專題報導
+           </a>
+          </dt>
+          <dt>
+           <a class="gabtn" data-ga="['選單','選單_情報站_影評','頁首_選單']" href="https://movies.yahoo.com.tw/tagged/moviereview" target="">
+            影評
+           </a>
+          </dt>
+          <dt>
+           <a class="gabtn" data-ga="['選單','選單_情報站_精彩圖片','頁首_選單']" href="https://movies.yahoo.com.tw/tagged/slideshow" target="">
+            精彩圖片
+           </a>
+          </dt>
+          <dt>
+           <a class="gabtn" data-ga="['選單','選單_情報站_懶人卡','頁首_選單']" href="https://tw.youcard.yahoo.com/category/movie" target="_blank">
+            懶人卡
+           </a>
+          </dt>
+         </dl>
+        </div>
+       </li>
+       <li>
+        <a class="gabtn" data-ga="['選單','選單_電視時刻','頁首_選單']" href="https://movies.yahoo.com.tw/tv_index.html" target="">
+         <span>
+          電視時刻
+         </span>
+        </a>
+       </li>
+      </ul>
+      <dl id="sharebox">
+       <dt>
+        追蹤我們
+       </dt>
+       <dd class="gabtn" data-ga="['選單','選單_追蹤我們','頁首_選單']" onclick="javascript:window.open('https://www.facebook.com/Ymovie/');">
+       </dd>
+      </dl>
+     </div>
+    </div>
+   </header>
+   <!--主內容-->
+   <main>
+    <!--top_ad-->
+    <div class="maincontent ga_release">
+     <div class="boxAD" id="boxMAST">
+     </div>
+     <div class="content _c" id="top_serch">
+      <div data-topserch="0">
+       <div class="tab_serch _c">
+        <div class="tab_hot">
+         <a class="gabtn" data-ga="['search box','search box_熱門1','魔鬼對決']" href="https://movies.yahoo.com.tw/movieinfo_main/魔鬼對決-deliver-us-from-evil-10842" target="">
+          魔鬼對決
+         </a>
+         <a class="gabtn" data-ga="['search box','search box_熱門2','岡田准一']" href="https://movies.yahoo.com.tw/movieinfo_main/椿花散落-samurais-promise-10852" target="">
+          岡田准一
+         </a>
+         <a class="gabtn" data-ga="['search box','search box_熱門3','全面啟動']" href="https://movies.yahoo.com.tw/movieinfo_main/全面啟動10周年紀念版-inception-10867" target="">
+          全面啟動
+         </a>
+        </div>
+        <a class="btn_booking btn_toptxt gabtn" data-ga="['search box','search box_訂票客服中心','']" href="https://www.ezding.com.tw/page/faq/faq.html" target="_blank">
+         訂票客服中心
+        </a>
+        <a class="btn_all btn_toptxt gabtn" data-ga="['search box','search box_戲院總覽','']" href="https://movies.yahoo.com.tw/theater_list.html">
+         戲院總覽
+        </a>
+       </div>
+       <span data-url="https://movies.yahoo.com.tw" id="mainURL">
+       </span>
+       <span data-type="0" id="searchType">
+       </span>
+       <div class="tab_serchbar">
+        <div class="icon_serch">
+        </div>
+        <select id="movie_time" name="search_type">
+         <option value="0">
+          電影時刻
+         </option>
+         <option value="1">
+          電視時刻
+         </option>
+         <option value="2">
+          快速訂票
+         </option>
+         <option value="3">
+          電影/明星搜尋
+         </option>
+        </select>
+        <!--tab_serchbar  style0-->
+        <div class="top_change" data-change="0" style="">
+         <form action="https://movies.yahoo.com.tw/movietime_result.html" id="form_moviearea" method="get">
+          <span>
+           選擇
+           <br/>
+           片名
+          </span>
+          <select class="movie_name" id="sbox_mid" name="movie_id">
+           <option value="">
+            請選擇片名
+           </option>
+           <option data-name="全面啟動10周年紀念版" value="10867">
+            全面啟動10周年紀念版
+           </option>
+           <option data-name="天劫倒數" value="10850">
+            天劫倒數
+           </option>
+           <option data-name="魔鬼對決" value="10842">
+            魔鬼對決
+           </option>
+           <option data-name="皮行者" value="10794">
+            皮行者
+           </option>
+           <option data-name="逆者" value="10875">
+            逆者
+           </option>
+           <option data-name="巴亞拉魔幻冒險" value="10851">
+            巴亞拉魔幻冒險
+           </option>
+           <option data-name="隱藏的畫家" value="10841">
+            隱藏的畫家
+           </option>
+           <option data-name="地下社會" value="10840">
+            地下社會
+           </option>
+           <option data-name="Perfect World ~和你在一起的奇蹟~" value="10832">
+            Perfect World ~和你在一起的奇蹟~
+           </option>
+           <option data-name="心靈咖啡館的驅魔師" value="10830">
+            心靈咖啡館的驅魔師
+           </option>
+           <option data-name="6號鬼病床" value="10826">
+            6號鬼病床
+           </option>
+           <option data-name="家靈" value="10798">
+            家靈
+           </option>
+           <option data-name="陰眼" value="10795">
+            陰眼
+           </option>
+           <option data-name="哈囉少女" value="10780">
+            哈囉少女
+           </option>
+           <option data-name="怪胎" value="10733">
+            怪胎
+           </option>
+           <option data-name="原本以為只是手機掉了2：被囚禁的殺人魔" value="10713">
+            原本以為只是手機掉了2：被囚禁的殺人魔
+           </option>
+           <option data-name="拉麵狂" value="9861">
+            拉麵狂
+           </option>
+           <option data-name="記憶拼圖：20週年數位修復" value="10849">
+            記憶拼圖：20週年數位修復
+           </option>
+           <option data-name="追殺艾娃" value="10821">
+            追殺艾娃
+           </option>
+           <option data-name="魔鬼剋星2(1989)" value="10836">
+            魔鬼剋星2(1989)
+           </option>
+           <option data-name="阿紫" value="10828">
+            阿紫
+           </option>
+           <option data-name="雙面追緝" value="10824">
+            雙面追緝
+           </option>
+           <option data-name="愛回來的那7天" value="10820">
+            愛回來的那7天
+           </option>
+           <option data-name="我們仍未知道那天所看見的花名 劇場版" value="10818">
+            我們仍未知道那天所看見的花名 劇場版
+           </option>
+           <option data-name="ID4星際終結者" value="10807">
+            ID4星際終結者
+           </option>
+           <option data-name="北海小英雄" value="10806">
+            北海小英雄
+           </option>
+           <option data-name="守靈魘" value="10805">
+            守靈魘
+           </option>
+           <option data-name="失眠的北風吹來愛情" value="10790">
+            失眠的北風吹來愛情
+           </option>
+           <option data-name="派遣死神事件簿" value="10750">
+            派遣死神事件簿
+           </option>
+           <option data-name="日間演奏會散場時" value="10245">
+            日間演奏會散場時
+           </option>
+           <option data-name="鋼鐵雨：深潛行動" value="10838">
+            鋼鐵雨：深潛行動
+           </option>
+           <option data-name="超危險駕駛" value="10712">
+            超危險駕駛
+           </option>
+           <option data-name="《新天堂樂園》30週年數位修復版" value="10825">
+            《新天堂樂園》30週年數位修復版
+           </option>
+           <option data-name="淒厲人僧前傳" value="10822">
+            淒厲人僧前傳
+           </option>
+           <option data-name="盧貝松之聖女貞德： 數位修復版" value="10815">
+            盧貝松之聖女貞德： 數位修復版
+           </option>
+           <option data-name="野雀之詩" value="10808">
+            野雀之詩
+           </option>
+           <option data-name="曼哈頓戀舞曲" value="10802">
+            曼哈頓戀舞曲
+           </option>
+           <option data-name="戀夏時光" value="10797">
+            戀夏時光
+           </option>
+           <option data-name="星之彩" value="10793">
+            星之彩
+           </option>
+           <option data-name="屍人診所" value="10792">
+            屍人診所
+           </option>
+           <option data-name="致命窺弒" value="10753">
+            致命窺弒
+           </option>
+           <option data-name="魔王的女兒" value="10730">
+            魔王的女兒
+           </option>
+           <option data-name="翻供" value="10788">
+            翻供
+           </option>
+           <option data-name="不丹是教室" value="10789">
+            不丹是教室
+           </option>
+           <option data-name="藍色恐懼：數位修復版" value="10775">
+            藍色恐懼：數位修復版
+           </option>
+           <option data-name="綠光 經典數位修復" value="10686">
+            綠光 經典數位修復
+           </option>
+           <option data-name="屍速列車：感染半島" value="10608">
+            屍速列車：感染半島
+           </option>
+           <option data-name="打噴嚏" value="5350">
+            打噴嚏
+           </option>
+           <option data-name="里斯本的故事 25周年4K修復版" value="10779">
+            里斯本的故事 25周年4K修復版
+           </option>
+           <option data-name="沉默的羔羊" value="10745">
+            沉默的羔羊
+           </option>
+           <option data-name="角落小夥伴電影版：魔法繪本裡的新朋友" value="10647">
+            角落小夥伴電影版：魔法繪本裡的新朋友
+           </option>
+           <option data-name="捕魔網" value="10727">
+            捕魔網
+           </option>
+           <option data-name="阿基拉" value="10710">
+            阿基拉
+           </option>
+           <option data-name="失控特工" value="10734">
+            失控特工
+           </option>
+           <option data-name="銀翼殺手最終版" value="10732">
+            銀翼殺手最終版
+           </option>
+           <option data-name="決戰最前線" value="10699">
+            決戰最前線
+           </option>
+           <option data-name="深海擴散" value="10697">
+            深海擴散
+           </option>
+           <option data-name="親愛陌生人" value="10643">
+            親愛陌生人
+           </option>
+           <option data-name="婚姻大崩壞" value="10534">
+            婚姻大崩壞
+           </option>
+           <option data-name="愛美獎行動" value="10600">
+            愛美獎行動
+           </option>
+           <option data-name="雙面遊戲" value="10642">
+            雙面遊戲
+           </option>
+           <option data-name="謊畫情人" value="10577">
+            謊畫情人
+           </option>
+           <option data-name="靠北少女" value="10575">
+            靠北少女
+           </option>
+           <option data-name="1/2的魔法" value="10505">
+            1/2的魔法
+           </option>
+           <option data-name="末代皇帝" value="10640">
+            末代皇帝
+           </option>
+           <option data-name="奪命隧道" value="10599">
+            奪命隧道
+           </option>
+           <option data-name="海邊走走" value="10495">
+            海邊走走
+           </option>
+           <option data-name="陪你玩最大" value="10602">
+            陪你玩最大
+           </option>
+           <option data-name="壞教育" value="10617">
+            壞教育
+           </option>
+           <option data-name="美好拾光公司" value="10541">
+            美好拾光公司
+           </option>
+           <option data-name="海上鋼琴師4K數位修復" value="10613">
+            海上鋼琴師4K數位修復
+           </option>
+           <option data-name="鑰命監獄" value="10579">
+            鑰命監獄
+           </option>
+           <option data-name="女聲我最美" value="10528">
+            女聲我最美
+           </option>
+           <option data-name="間諜速成班" value="10538">
+            間諜速成班
+           </option>
+           <option data-name="魔髮精靈唱遊世界" value="10466">
+            魔髮精靈唱遊世界
+           </option>
+           <option data-name="迷雁返家路" value="10533">
+            迷雁返家路
+           </option>
+           <option data-name="最初的晚餐" value="10510">
+            最初的晚餐
+           </option>
+           <option data-name="刺激1995" value="10518">
+            刺激1995
+           </option>
+           <option data-name="血衛" value="10469">
+            血衛
+           </option>
+           <option data-name="女鬼橋" value="10437">
+            女鬼橋
+           </option>
+           <option data-name="音速小子" value="9246">
+            音速小子
+           </option>
+           <option data-name="紅鞋公主與七矮人" value="10417">
+            紅鞋公主與七矮人
+           </option>
+           <option data-name="1917" value="10189">
+            1917
+           </option>
+           <option data-name="杜立德" value="10316">
+            杜立德
+           </option>
+           <option data-name="變身特務" value="9008">
+            變身特務
+           </option>
+           <option data-name="巧虎電影：英雄遊樂園" value="10429">
+            巧虎電影：英雄遊樂園
+           </option>
+           <option data-name="鬼船瑪麗號" value="10265">
+            鬼船瑪麗號
+           </option>
+           <option data-name="AI終結戰" value="10057">
+            AI終結戰
+           </option>
+           <option data-name="鎖命危機" value="9251">
+            鎖命危機
+           </option>
+           <option data-name="地下社會." value="5759">
+            地下社會.
+           </option>
+           <option data-name="一首搖滾上月球" value="4887">
+            一首搖滾上月球
+           </option>
+           <option data-name="錢不夠用2" value="3026">
+            錢不夠用2
+           </option>
+          </select>
+          <span>
+           選擇
+           <br/>
+           地區
+          </span>
+          <select class="movie_area" id="sbox_aid" name="area_id">
+          </select>
+          <div class="btn_serch gabtn" data-ga="['search box','search box_電影時刻','']" data-input="['select','sbox_mid','sbox_aid']">
+           查詢
+          </div>
+         </form>
+        </div>
+        <!--tab_serchbar  style1-->
+        <div class="top_change" data-change="1" style="display:none;">
+         <form action="https://movies.yahoo.com.tw/tv_channels.html" id="form_catechannel" method="get" style="display:inline;">
+          <span>
+           選擇
+           <br/>
+           分類
+          </span>
+          <select class="movie_theater" id="sbox_cid" name="tv_category_id">
+           <option value="">
+            請選擇分類
+           </option>
+           <option data-name="西片" value="1">
+            西片
+           </option>
+           <option data-name="國片" value="2">
+            國片
+           </option>
+           <option data-name="戲劇" value="3">
+            戲劇
+           </option>
+           <option data-name="體育" value="4">
+            體育
+           </option>
+           <option data-name="綜合" value="5">
+            綜合
+           </option>
+           <option data-name="知性" value="6">
+            知性
+           </option>
+           <option data-name="日本" value="7">
+            日本
+           </option>
+           <option data-name="音樂" value="8">
+            音樂
+           </option>
+           <option data-name="卡通" value="9">
+            卡通
+           </option>
+           <option data-name="新聞" value="10">
+            新聞
+           </option>
+           <option data-name="財經" value="11">
+            財經
+           </option>
+           <option data-name="宗教" value="12">
+            宗教
+           </option>
+          </select>
+          <span>
+           選擇
+           <br/>
+           頻道
+          </span>
+          <select class="movie_name" id="sbox_chid" name="channel">
+          </select>
+          <div class="btn_serch gabtn" data-ga="['search box','search box_電視時刻','']" data-input="['select','sbox_cid','sbox_chid']">
+           查詢
+          </div>
+         </form>
+         <form action="https://movies.yahoo.com.tw/tvtime_result.html" id="form_channelname" method="get" style="display:inline;">
+          <input autocomplete="off" class="tvserch" id="tv_channel_name" name="tv_channel_name" onblur="this.placeholder='電視節目查詢'" onfocus="this.placeholder=''" onkeypress="chlSearchForm(event);" placeholder="電視節目查詢" type="text"/>
+          <div class="btn_serch gabtn" data-ga="['search box','search box_電視節目查詢','']" data-input="['input','sbox_cname','']">
+           查詢
+          </div>
+         </form>
+        </div>
+        <!--tab_serchbar  style2-->
+        <div class="top_change" data-change="2" style="display:none;">
+         <form action="https://www.ezding.com.tw/page/booking/index.html?channel=yahoo&amp;campaign_code=yahoopc" id="form_movieticket" method="get">
+          <span>
+           選擇
+           <br/>
+           戲院
+          </span>
+          <select class="movie_theater" id="sbox_tid" name="cinemaId">
+           <option value="">
+            請選擇戲院
+           </option>
+           <option value="40288eb0050f542401050f554e7e0674">
+            台北信義威秀影城
+           </option>
+           <option value="46efa950eafa11e38b12987bdb90dba4">
+            台北樂聲影城
+           </option>
+           <option value="470e99e70b5611eaa91e06ba2bcebcfa">
+            MUVIE CINEMAS台北松仁威秀
+           </option>
+           <option value="40288eb0050f542401050f5681782dc5">
+            喜樂時代影城南港店
+           </option>
+           <option value="e9c365f27f4e11e494ae8b4ddf78b93a">
+            台北in89豪華數位影城
+           </option>
+           <option value="4c163aba9c5311e494ae8b4ddf78b93a">
+            台北新民生戲院
+           </option>
+           <option value="40288eb0050f542401050f55532606b5">
+            喜滿客絕色影城
+           </option>
+           <option value="5f60dacd-45b3-102d-8d74-e400529c">
+            台北京站威秀影城
+           </option>
+           <option value="40288eb0050f542401050f551a8a48c3">
+            台北日新威秀影城
+           </option>
+           <option value="40288eb0050f31210ada0f55676b1bbc">
+            台北美麗華大直影城
+           </option>
+           <option value="f644412efbb811e58858f2128151146f">
+            台北真善美劇院
+           </option>
+           <option value="b020ba50fbc811e58858f2128151146f">
+            梅花數位影城
+           </option>
+           <option value="cf2b5aa8132f11e6b767a1b123456789">
+            台北新光影城
+           </option>
+           <option value="40288eb0050f542401050f5566201ba4">
+            台北華威天母影城
+           </option>
+           <option value="737ece862a0111e18e86000bdb90dba4">
+            板橋大遠百威秀影城
+           </option>
+           <option value="73544d843cd311e69bb83d0f96c001c2">
+            林口MITSUI OUTLET PARK威秀影城
+           </option>
+           <option value="c072c5c43fc011e9a245782bcb259cad">
+            喜樂時代影城永和店
+           </option>
+           <option value="5d4b59f567ac11e7a6b1061be09fe071">
+            桃園in89統領影城
+           </option>
+           <option value="c256b670b10811e8959e782bcb259cad">
+            桃園統領威秀影城
+           </option>
+           <option value="43e1c5fc8abc4cb7ae03d061f892d7ab">
+            桃園新光影城
+           </option>
+           <option value="4f9fbbac7a2d11e18e86000bdb90dba4">
+            新竹巨城威秀影城
+           </option>
+           <option value="40288eb0050f542401050f5573651ca2">
+            新竹大遠百威秀影城
+           </option>
+           <option value="883ddebefe9e11e49e5e8d16c6a1d23a">
+            頭份尚順威秀影城
+           </option>
+           <option value="40288eb0050f542401050f5576601cdc">
+            台中Tiger City威秀影城
+           </option>
+           <option value="84599c0a220d11e18e86000bdb90dba4">
+            台中大遠百威秀影城
+           </option>
+           <option value="5307fea6405811e392f7000bdb90dba4">
+            台中華威台中影城
+           </option>
+           <option value="9fa318f9c99f4f6987a46efc5e3f50f2">
+            台中新光影城
+           </option>
+           <option value="9f1b3df8f0a44110ab9412513c546d33">
+            台中新時代凱擘影城
+           </option>
+           <option value="7ff29bea908122e9060e893bcb360cad">
+            台中豐原in89豪華影城
+           </option>
+           <option value="370b0003943222e8a7b2172be10fe182">
+            台南FOCUS威秀影城
+           </option>
+           <option value="c3ab0cdc8cad11e494ae8b4ddf78b93a">
+            台南南紡威秀影城
+           </option>
+           <option value="a6f9c512bec5463183d3d7eaec37fb42">
+            台南新光影城
+           </option>
+           <option value="5d4b59f597ac11e7a6b1091be09fe001">
+            台南真善美劇院
+           </option>
+           <option value="40288eb0050f542401050f557dfc1d65">
+            台南大遠百威秀影城
+           </option>
+           <option value="40288eb0050f542401050f5581582dc5">
+            喜滿客夢時代影城
+           </option>
+           <option value="40288eb0050f542401050f5582141dac">
+            高雄大遠百威秀影城
+           </option>
+           <option value="44f76448bf2511e59a5d4b53bcb866d6">
+            高雄in89駁二電影院
+           </option>
+           <option value="2c28121ae2c711e292f7000bdb90dba4">
+            中影屏東影城
+           </option>
+           <option value="e8bf57d61edb11e9a245782bcb259cad">
+            花蓮新天堂樂園威秀影城
+           </option>
+           <option value="6ff18bea897011e8959e782bcb259cad">
+            澎湖in89豪華影城
+           </option>
+          </select>
+          <span>
+           選擇
+           <br/>
+           片名
+          </span>
+          <select class="movie_name" id="sbox_tmid" name="movieId">
+          </select>
+          <span>
+           選擇
+           <br/>
+           日期
+          </span>
+          <select class="movie_day" name="showDate">
+          </select>
+          <span>
+           選擇
+           <br/>
+           場次
+          </span>
+          <select class="movie_screenings" name="session">
+          </select>
+          <span>
+           選擇
+           <br/>
+           數量
+          </span>
+          <select class="movie_amount" name="ticketQuantity">
+          </select>
+          <div class="btn_serch gabtn" data-ga="['search box','search box_快速訂票','']" data-input="['select','sbox_tid','sbox_tmid']">
+           查詢
+          </div>
+         </form>
+        </div>
+        <!--tab_serchbar  style3-->
+        <div class="top_change" data-change="3" style="display:none;">
+         <form action="https://movies.yahoo.com.tw/moviesearch_result.html" id="form_starsearch" method="get">
+          <input autocomplete="off" class="starserch" id="starserch" name="keyword" onblur="this.placeholder='電影/ 明星搜尋'" onfocus="this.placeholder=''" placeholder="電影 / 明星搜尋" type="text"/>
+          <div class="inputex" style="visibility:hidden">
+          </div>
+          <div class="btn_serch gabtn" data-ga="['search box','search box_電影明星搜尋','']" data-input="['input','starserch','']">
+           查詢
+          </div>
+         </form>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="content _c" id="container">
+      <div id="content_r">
+       <!--AD 300X250-->
+       <!-- if $exist diff with 0 will removed from module section -->
+       <div class="top_ad_300_250 r_box" data-ad="LREC" id="boxLREC">
+       </div>
+       <!--AD 300X100-->
+       <div class="ad_300_250 r_box" data-ad="NP1" id="boxNP1">
+       </div>
+       <!--電影排行榜-->
+       <div class="r_box _c">
+        <div class="title">
+         <span>
+          電影排行榜
+         </span>
+        </div>
+        <div class="r_box_inner">
+         <ul class="tabbox_btn_r">
+          <li class="select" data-id="list1">
+           台北票房榜
+          </li>
+          <li data-id="list2">
+           全美票房榜
+          </li>
+          <li data-id="list3">
+           預告片榜
+          </li>
+         </ul>
+         <div class="ranking_inner_r">
+          <div class="tab-content">
+           <div class="tab-pane" id="list1">
+            <div class="ranking_top_info_r _c">
+             <div class="ranking_top_info_img_r">
+              <a class="gabtn" data-ga="['電影排行榜','電影排行榜_台北票房榜','屍速列車：感染半島']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%B1%8D%E9%80%9F%E5%88%97%E8%BB%8A-%E6%84%9F%E6%9F%93%E5%8D%8A%E5%B3%B6-peninsula-10608">
+               <img alt="" src="https://movies.yahoo.com.tw/x/r/w420/i/o/production/movies/July2020/pKBfthQIekNEK9Gn4hMu-993x1418.JPG"/>
+              </a>
+             </div>
+             <div class="ranking_top_info_inner_r">
+              <a class="gabtn" data-ga="['電影排行榜','電影排行榜_台北票房榜','屍速列車：感染半島']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%B1%8D%E9%80%9F%E5%88%97%E8%BB%8A-%E6%84%9F%E6%9F%93%E5%8D%8A%E5%B3%B6-peninsula-10608">
+               屍速列車：感染半島
+              </a>
+              <span class="text_truncate_4 text_truncate_dot">
+               <p>
+                ★2020坎城影展正式入選
+               </p>
+               <p>
+                ★延尚昊導演率《屍速列車》製作團隊斥資220億打造精彩續作
+               </p>
+               <p>
+                ★姜棟元偕影后李貞賢將設法帶眾人逃出喪屍浩劫
+               </p>
+               <p>
+                ★發生在《屍速列車》四年後的故事…
+               </p>
+               <p>
+               </p>
+               <p>
+                4年前，從那場前所未見的災難逃脫的政錫（姜棟元 飾），被指派了無法拒絕的任務，再度重返完全遭外界孤立的朝鮮半島。政錫的任務是必須在限時內確保被指定的貨車，並逃離已成為廢墟的半島。過程中，喪失理性的631部隊和比4年前規模更大、更令人畏懼的活屍大軍們，不斷襲擊政錫一群人。
+               </p>
+               <p>
+               </p>
+               <p>
+                就在危急瞬間，倖存於廢墟之地的敏晶（李貞賢 飾）一家人幫助政錫逃過危機，他們一同把握逃出半島的最後機會。回到半島的人們、苟延殘喘的倖存者以及瘋狂至極的活屍，他們將展開激烈的生死決鬥……
+               </p>
+               <p>
+               </p>
+              </span>
+             </div>
+            </div>
+            <ul class="ranking_list_r">
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_台北票房榜','屍速列車：感染半島']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%B1%8D%E9%80%9F%E5%88%97%E8%BB%8A-%E6%84%9F%E6%9F%93%E5%8D%8A%E5%B3%B6-peninsula-10608">
+              <li class="select">
+               <div class="num">
+                1
+               </div>
+               <span>
+                屍速列車：感染半島
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_台北票房榜','追殺艾娃']" href="https://movies.yahoo.com.tw/movieinfo_main/%E8%BF%BD%E6%AE%BA%E8%89%BE%E5%A8%83-ava-10821">
+              <li class="">
+               <div class="num">
+                2
+               </div>
+               <span>
+                追殺艾娃
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_台北票房榜','怪胎']" href="https://movies.yahoo.com.tw/movieinfo_main/%E6%80%AA%E8%83%8E-i-weir-do-10733">
+              <li class="">
+               <div class="num">
+                3
+               </div>
+               <span>
+                怪胎
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_台北票房榜','鋼鐵雨：深潛行動']" href="https://movies.yahoo.com.tw/movieinfo_main/%E9%8B%BC%E9%90%B5%E9%9B%A8-%E6%B7%B1%E6%BD%9B%E8%A1%8C%E5%8B%95-steel-rain2-summit-10838">
+              <li class="">
+               <div class="num">
+                4
+               </div>
+               <span>
+                鋼鐵雨：深潛行動
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_台北票房榜','翻供']" href="https://movies.yahoo.com.tw/movieinfo_main/%E7%BF%BB%E4%BE%9B-innocence-10788">
+              <li class="">
+               <div class="num">
+                5
+               </div>
+               <span>
+                翻供
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_台北票房榜','超危險駕駛']" href="https://movies.yahoo.com.tw/movieinfo_main/%E8%B6%85%E5%8D%B1%E9%9A%AA%E9%A7%95%E9%A7%9B-unhinged-10712">
+              <li class="">
+               <div class="num">
+                6
+               </div>
+               <span>
+                超危險駕駛
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_台北票房榜','角落小夥伴電影版：魔法繪本裡的新朋友']" href="https://movies.yahoo.com.tw/movieinfo_main/%E8%A7%92%E8%90%BD%E5%B0%8F%E5%A4%A5%E4%BC%B4%E9%9B%BB%E5%BD%B1%E7%89%88-%E9%AD%94%E6%B3%95%E7%B9%AA%E6%9C%AC%E8%A3%A1%E7%9A%84%E6%96%B0%E6%9C%8B%E5%8F%8B-sumikkogurashi-good-to-be-in-the-corner-10647">
+              <li class="">
+               <div class="num">
+                7
+               </div>
+               <span>
+                角落小夥伴電影版：魔法繪本裡的新朋友
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_台北票房榜','記憶拼圖']" href="https://movies.yahoo.com.tw/movieinfo_main/%E8%A8%98%E6%86%B6%E6%8B%BC%E5%9C%96-20%E9%80%B1%E5%B9%B4%E6%95%B8%E4%BD%8D%E4%BF%AE%E5%BE%A9-memento-10849">
+              <li class="">
+               <div class="num">
+                8
+               </div>
+               <span>
+                記憶拼圖
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_台北票房榜','心靈咖啡館的驅魔師']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%BF%83%E9%9D%88%E5%92%96%E5%95%A1%E9%A4%A8%E7%9A%84%E9%A9%85%E9%AD%94%E5%B8%AB-the-real-exorcist-10830">
+              <li class="">
+               <div class="num">
+                9
+               </div>
+               <span>
+                心靈咖啡館的驅魔師
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_台北票房榜','6號鬼病床']" href="https://movies.yahoo.com.tw/movieinfo_main/6%E8%99%9F%E9%AC%BC%E7%97%85%E5%BA%8A-bed-number-6-10826">
+              <li class="">
+               <div class="num">
+                10
+               </div>
+               <span>
+                6號鬼病床
+               </span>
+              </li>
+             </a>
+            </ul>
+            <div class="rankin_time_r">
+             統計時間 : 2020-08-08~2020-08-09
+            </div>
+           </div>
+           <div class="tab-pane" id="list2">
+            <div class="ranking_top_info_r _c">
+             <div class="ranking_top_info_img_r">
+              <img alt="" src="/build/images/blank_poster.jpg"/>
+             </div>
+             <div class="ranking_top_info_inner_r">
+              <h2>
+               The Tax Collector
+              </h2>
+              <span>
+              </span>
+             </div>
+            </div>
+            <ul class="ranking_list_r">
+             <li class="select unclick">
+              <div class="num">
+               1
+              </div>
+              <span>
+               The Tax Collector
+              </span>
+             </li>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_全美票房榜','致命窺弒']" href="https://movies.yahoo.com.tw/movieinfo_main/%E8%87%B4%E5%91%BD%E7%AA%BA%E5%BC%92-the-rental-10753">
+              <li class="">
+               <div class="num">
+                2
+               </div>
+               <span>
+                致命窺弒
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_全美票房榜','屍速列車：感染半島']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%B1%8D%E9%80%9F%E5%88%97%E8%BB%8A-%E6%84%9F%E6%9F%93%E5%8D%8A%E5%B3%B6-peninsula-10608">
+              <li class="">
+               <div class="num">
+                3
+               </div>
+               <span>
+                屍速列車：感染半島
+               </span>
+              </li>
+             </a>
+             <li class="unclick">
+              <div class="num">
+               4
+              </div>
+              <span>
+               The Big Ugly
+              </span>
+             </li>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_全美票房榜','下一站，托斯卡尼']" href="https://movies.yahoo.com.tw/movieinfo_main/%E4%B8%8B%E4%B8%80%E7%AB%99-%E6%89%98%E6%96%AF%E5%8D%A1%E5%B0%BC-made-in-italy-10817">
+              <li class="">
+               <div class="num">
+                5
+               </div>
+               <span>
+                下一站，托斯卡尼
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_全美票房榜','謊畫情人']" href="https://movies.yahoo.com.tw/movieinfo_main/%E8%AC%8A%E7%95%AB%E6%83%85%E4%BA%BA-the-burnt-orange-heresy-10577">
+              <li class="">
+               <div class="num">
+                6
+               </div>
+               <span>
+                謊畫情人
+               </span>
+              </li>
+             </a>
+             <li class="unclick">
+              <div class="num">
+               7
+              </div>
+              <span>
+               Juvenile Delinquents: New World Order
+              </span>
+             </li>
+             <li class="unclick">
+              <div class="num">
+               8
+              </div>
+              <span>
+               The Grizzlies
+              </span>
+             </li>
+             <li class="unclick">
+              <div class="num">
+               9
+              </div>
+              <span>
+               What We Found
+              </span>
+             </li>
+             <li class="unclick">
+              <div class="num">
+               10
+              </div>
+              <span>
+               Killer Raccoons 2: Dark Christmas in the Dark
+              </span>
+             </li>
+            </ul>
+            <div class="rankin_time_r">
+             統計時間 : 2020-08-07~2020-08-09
+            </div>
+           </div>
+           <div class="tab-pane" id="list3">
+            <div class="ranking_top_info_r _c">
+             <div class="ranking_top_info_img_r">
+              <a class="gabtn" data-ga="['電影排行榜','電影排行榜_預告片榜','TENET天能']" href="https://movies.yahoo.com.tw/movieinfo_main/TENET%E5%A4%A9%E8%83%BD-tenet-10433">
+               <img alt="" src="https://movies.yahoo.com.tw/x/r/w420/i/o/production/movies/July2020/BcBbypwSLOrhbN6eMbcA-486x720.jpg"/>
+              </a>
+             </div>
+             <div class="ranking_top_info_inner_r">
+              <a class="gabtn" data-ga="['電影排行榜','電影排行榜_預告片榜','TENET天能']" href="https://movies.yahoo.com.tw/movieinfo_main/TENET%E5%A4%A9%E8%83%BD-tenet-10433">
+               TENET天能
+              </a>
+              <span class="text_truncate_4 text_truncate_dot">
+               <p>
+                諾蘭導演的全新鉅作《TENET天能》演員卡司包括約翰大衛華盛頓、羅伯派汀森、伊莉莎白戴比姬、亞倫泰勒強森，肯尼斯布萊納和米高肯恩。
+               </p>
+              </span>
+             </div>
+            </div>
+            <ul class="ranking_list_r">
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_預告片榜','TENET天能']" href="https://movies.yahoo.com.tw/movieinfo_main/TENET%E5%A4%A9%E8%83%BD-tenet-10433">
+              <li class="select">
+               <div class="num">
+                1
+               </div>
+               <span>
+                TENET天能
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_預告片榜','可不可以，你也剛好喜歡我']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%8F%AF%E4%B8%8D%E5%8F%AF%E4%BB%A5-%E4%BD%A0%E4%B9%9F%E5%89%9B%E5%A5%BD%E5%96%9C%E6%AD%A1%E6%88%91-do-you-love-me-as-i-love-you-10473">
+              <li class="">
+               <div class="num">
+                2
+               </div>
+               <span>
+                可不可以，你也剛好喜歡我
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_預告片榜','怪胎']" href="https://movies.yahoo.com.tw/movieinfo_main/%E6%80%AA%E8%83%8E-i-weir-do-10733">
+              <li class="">
+               <div class="num">
+                3
+               </div>
+               <span>
+                怪胎
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_預告片榜','鋼鐵雨：深潛行動']" href="https://movies.yahoo.com.tw/movieinfo_main/%E9%8B%BC%E9%90%B5%E9%9B%A8-%E6%B7%B1%E6%BD%9B%E8%A1%8C%E5%8B%95-steel-rain2-summit-10838">
+              <li class="">
+               <div class="num">
+                4
+               </div>
+               <span>
+                鋼鐵雨：深潛行動
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_預告片榜','逃出立法院']" href="https://movies.yahoo.com.tw/movieinfo_main/%E9%80%83%E5%87%BA%E7%AB%8B%E6%B3%95%E9%99%A2-get-the-hell-out-10535">
+              <li class="">
+               <div class="num">
+                5
+               </div>
+               <span>
+                逃出立法院
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_預告片榜','超危險駕駛']" href="https://movies.yahoo.com.tw/movieinfo_main/%E8%B6%85%E5%8D%B1%E9%9A%AA%E9%A7%95%E9%A7%9B-unhinged-10712">
+              <li class="">
+               <div class="num">
+                6
+               </div>
+               <span>
+                超危險駕駛
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_預告片榜','變種人']" href="https://movies.yahoo.com.tw/movieinfo_main/%E8%AE%8A%E7%A8%AE%E4%BA%BA-the-new-mutants-10452">
+              <li class="">
+               <div class="num">
+                7
+               </div>
+               <span>
+                變種人
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_預告片榜','看不見的證人']" href="https://movies.yahoo.com.tw/movieinfo_main/%E7%9C%8B%E4%B8%8D%E8%A6%8B%E7%9A%84%E8%AD%89%E4%BA%BA-invisible-evidence-10873">
+              <li class="">
+               <div class="num">
+                8
+               </div>
+               <span>
+                看不見的證人
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_預告片榜','北海小英雄']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%8C%97%E6%B5%B7%E5%B0%8F%E8%8B%B1%E9%9B%84-vic-viking-10806">
+              <li class="">
+               <div class="num">
+                9
+               </div>
+               <span>
+                北海小英雄
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_預告片榜','天劫倒數']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%A4%A9%E5%8A%AB%E5%80%92%E6%95%B8-greenland-10850">
+              <li class="">
+               <div class="num">
+                10
+               </div>
+               <span>
+                天劫倒數
+               </span>
+              </li>
+             </a>
+            </ul>
+            <div class="rankin_time_r">
+             統計時間 : 2020-08-12
+            </div>
+           </div>
+          </div>
+          <div class="btn_plus_more gabtn rk" data-ga="['電影排行榜','電影排行榜_台北票房榜_看更多','']">
+           <a href="https://movies.yahoo.com.tw/chart.html">
+            <div class="plus">
+            </div>
+            看更多
+           </a>
+          </div>
+          <div class="btn_plus_more gabtn rk" data-ga="['電影排行榜','電影排行榜_全美票房榜_看更多','']">
+           <a href="https://movies.yahoo.com.tw/chart.html?cate=us">
+            <div class="plus">
+            </div>
+            看更多
+           </a>
+          </div>
+          <div class="btn_plus_more gabtn rk" data-ga="['電影排行榜','電影排行榜_預告片榜_看更多','']">
+           <a href="https://movies.yahoo.com.tw/chart.html?cate=trailer">
+            <div class="plus">
+            </div>
+            看更多
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+       <!--懶人卡-->
+       <div class="r_box _c">
+        <div class="title">
+         <span>
+          懶人卡
+         </span>
+        </div>
+        <div class="r_box_inner">
+         <div class="lazy_card_r">
+          <dl>
+           <dt>
+            <div class="lazy_card_inner_r">
+             <a class="gabtn" data-ga="['懶人卡','','']" href="https://tw.youcard.yahoo.com/cardstack/5147a660-db9d-11ea-b2b0-2d5daf8e1863" target="_blank">
+              <div class="foto">
+               <img alt="" src="https://img.ltn.com.tw/2014/new/aug/13/images/bigPic/600_41.jpg"/>
+              </div>
+              <div class="lazy_card_info_r">
+               <div class="lazy_txt">
+                才不會忘記你！緬懷羅賓威廉斯的10個電影角色
+               </div>
+               <span>
+                艾莫西
+               </span>
+              </div>
+             </a>
+            </div>
+           </dt>
+           <dd>
+            <div class="lazy_card_inner_r">
+             <a class="gabtn" data-ga="['懶人卡','','']" href="https://tw.youcard.yahoo.com/cardstack/40985010-da64-11ea-8f96-c1a57b548d4a" target="_blank">
+              <div class="foto">
+               <img alt="" src="https://movies.yahoo.com.tw/x/r/w123/i/o/production/movies/July2020/YfINby71ShR2n7vLJJtp-400x572.jpg"/>
+              </div>
+              <div class="lazy_card_info_r">
+               <div class="lazy_txt">
+                《全面啟動》十周年紀念版再度重映 七件你可能不知道的事
+               </div>
+               <span>
+                秋子
+               </span>
+              </div>
+             </a>
+            </div>
+           </dd>
+          </dl>
+         </div>
+         <div class="btn_plus_more">
+          <a class="gabtn" data-ga="['懶人卡','懶人卡_看更多','']" href="https://tw.youcard.yahoo.com/category/movie" target="_blank">
+           <div class="plus">
+           </div>
+           看更多
+          </a>
+         </div>
+        </div>
+       </div>
+       <!--AD 300X250-->
+       <div class="ad_300_250 r_box" data-ad="LREC3" id="boxLREC3">
+        <div id="tgtLREC3">
+        </div>
+       </div>
+       <!--FB-->
+       <div class="fb r_box">
+       </div>
+       <!--你最近瀏覽的電影-->
+       <div class="r_box _c">
+        <div class="title">
+         <span>
+          你最近瀏覽的電影
+         </span>
+        </div>
+        <div class="r_box_inner">
+         <ul class="recently_viewed">
+         </ul>
+        </div>
+       </div>
+       <div>
+       </div>
+      </div>
+      <div id="content_l">
+       <div class="title">
+        <h1>
+         上映中
+        </h1>
+       </div>
+       <div class="release_box">
+        <div class="release_time _c">
+         <span>
+          上映日期：2020-08-07
+         </span>
+         <p>
+          共94筆，目前顯示1~10筆
+         </p>
+        </div>
+        <ul class="release_list">
+         <li>
+          <div class="release_foto">
+           <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','拉麵狂']" href="https://movies.yahoo.com.tw/movieinfo_main/%E6%8B%89%E9%BA%B5%E7%8B%82-ramen-heads-9861">
+            <img alt="" src="https://movies.yahoo.com.tw/x/r/w420/i/o/production/movies/July2020/Z8XEpe9utvLsTl6VOX0r-504x720.JPG"/>
+           </a>
+          </div>
+          <div class="release_info">
+           <div class="release_info_text">
+            <div class="release_movie_name">
+             <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','拉麵狂']" href="https://movies.yahoo.com.tw/movieinfo_main/%E6%8B%89%E9%BA%B5%E7%8B%82-ramen-heads-9861">
+              拉麵狂
+             </a>
+             <div class="en">
+              <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','拉麵狂']" href="https://movies.yahoo.com.tw/movieinfo_main/%E6%8B%89%E9%BA%B5%E7%8B%82-ramen-heads-9861">
+               Ramen Heads
+              </a>
+             </div>
+             <dl class="levelbox">
+              <dt>
+               <div class="level_name">
+                期待度
+               </div>
+               <div class="leveltext">
+                <span>
+                 69%
+                </span>
+                網友想看
+               </div>
+              </dt>
+              <dd>
+               <div class="level_name">
+                滿意度
+               </div>
+               <div class="leveltext">
+                <span class="count" data-num="4.1" data-run="0">
+                 0
+                </span>
+                綜合評分
+               </div>
+              </dd>
+             </dl>
+            </div>
+            <div class="release_movie_time">
+             上映日期 ： 2020-08-07
+            </div>
+            <div class="release_text">
+             <span class="jq_text_overflow_180 jq_text_overflow_href_list" data-url="https://movies.yahoo.com.tw/movieinfo_main/%E6%8B%89%E9%BA%B5%E7%8B%82-ramen-heads-9861">
+              ★ 「拉麵夢幻隊」 ─ 拉麵王「中華蕎麥TOMI田」富田治、最強醬油拉麵「拉麵屋飯田商店」飯田將太、世界第一碗米其林一星拉麵「Tsuta蔦」大西祐貴，帶你一窺日本的拉麵世界
+             </span>
+            </div>
+           </div>
+           <div class="release_btn color_btnbox">
+            <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','拉麵狂']" href="https://movies.yahoo.com.tw/movieinfo_main/%E6%8B%89%E9%BA%B5%E7%8B%82-ramen-heads-9861">
+             電影介紹
+            </a>
+            <a class="btn_s_vedio gabtn" data-ga="['上映中','上映中_上映中第1頁','拉麵狂']" href="https://movies.yahoo.com.tw/video/%E6%8B%89%E9%BA%B5%E7%8B%82-%E4%B8%AD%E6%96%87%E9%A0%90%E5%91%8A-122505868.html?movie_id=9861">
+             預告片
+            </a>
+            <a class="btn_s_foto" href="https://movies.yahoo.com.tw/movieinfo_photos.html/id=9861">
+             劇照
+            </a>
+            <a class="btn_s_time gabtn" data-ga="['上映中','上映中_上映中第1頁','拉麵狂']" href="https://movies.yahoo.com.tw/movietime_result.html/id=9861">
+             時刻表
+            </a>
+           </div>
+          </div>
+         </li>
+         <li>
+          <div class="release_foto">
+           <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','原本以為只是手機掉了2：被囚禁的殺人魔']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%8E%9F%E6%9C%AC%E4%BB%A5%E7%82%BA%E5%8F%AA%E6%98%AF%E6%89%8B%E6%A9%9F%E6%8E%89%E4%BA%862-%E8%A2%AB%E5%9B%9A%E7%A6%81%E7%9A%84%E6%AE%BA%E4%BA%BA%E9%AD%94-stolen-identity-2-10713">
+            <img alt="" src="https://movies.yahoo.com.tw/x/r/w420/i/o/production/movies/July2020/BPtuXgdL8VM6bYoN8mX3-504x720.JPG"/>
+           </a>
+          </div>
+          <div class="release_info">
+           <div class="release_info_text">
+            <div class="release_movie_name">
+
+               <div class="leveltext">
+                <span class="count" data-num="3.6" data-run="0">
+                 0
+                </span>
+                綜合評分
+               </div>
+              </dd>
+             </dl>
+            </div>
+            <div class="release_movie_time">
+             上映日期 ： 2020-08-07
+            </div>
+            <div class="release_text">
+             <span class="jq_text_overflow_180 jq_text_overflow_href_list" data-url="https://movies.yahoo.com.tw/movieinfo_main/%E5%8E%9F%E6%9C%AC%E4%BB%A5%E7%82%BA%E5%8F%AA%E6%98%AF%E6%89%8B%E6%A9%9F%E6%8E%89%E4%BA%862-%E8%A2%AB%E5%9B%9A%E7%A6%81%E7%9A%84%E6%AE%BA%E4%BA%BA%E9%AD%94-stolen-identity-2-10713">
+              ★ 北川景子《原本以為只是手機掉了》精彩驚悚續作
+★ 千葉雄大 X成田凌 續演原角色，展現極富張力演技
+★「乃木坂46」前成員 白石麻衣飾演千葉雄大女友 
+★ 「手機情侶」北川景子、田中圭特別演出
+ 
+在那起以黑長髮女性為對象的連續殺人事件破案的幾個月後，竟然在案發現場再度發現身分不明的屍體，刑警加賀谷（千葉雄大 飾）因此前去詢問入獄服刑的連續殺人犯．浦野（成田凌 飾）。加賀谷從浦野口中得知，一名存在於暗網中的神祕人物「M」。而此時，竟有一名神祕男子，正在接近加賀谷的女友美乃里（白石麻衣 飾）……
+             </span>
+            </div>
+           </div>
+           <div class="release_btn color_btnbox">
+            <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','原本以為只是手機掉了2：被囚禁的殺人魔']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%8E%9F%E6%9C%AC%E4%BB%A5%E7%82%BA%E5%8F%AA%E6%98%AF%E6%89%8B%E6%A9%9F%E6%8E%89%E4%BA%862-%E8%A2%AB%E5%9B%9A%E7%A6%81%E7%9A%84%E6%AE%BA%E4%BA%BA%E9%AD%94-stolen-identity-2-10713">
+             電影介紹
+            </a>
+            <a class="btn_s_vedio gabtn" data-ga="['上映中','上映中_上映中第1頁','原本以為只是手機掉了2：被囚禁的殺人魔']" href="https://movies.yahoo.com.tw/video/%E5%8E%9F%E6%9C%AC%E4%BB%A5%E7%82%BA%E5%8F%AA%E6%98%AF%E6%89%8B%E6%A9%9F%E6%8E%89%E4%BA%862-%E8%A2%AB%E5%9B%9A%E7%A6%81%E7%9A%84%E6%AE%BA%E4%BA%BA%E9%AD%94-%E4%B8%AD%E6%96%87%E9%A0%90%E5%91%8A-053437911.html?movie_id=10713">
+             預告片
+            </a>
+            <a class="btn_s_foto" href="https://movies.yahoo.com.tw/movieinfo_photos.html/id=10713">
+             劇照
+            </a>
+            <a class="btn_s_time gabtn" data-ga="['上映中','上映中_上映中第1頁','原本以為只是手機掉了2：被囚禁的殺人魔']" href="https://movies.yahoo.com.tw/movietime_result.html/id=10713">
+             時刻表
+            </a>
+           </div>
+          </div>
+         </li>
+         <li>
+          <div class="release_foto">
+           <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','怪胎']" href="https://movies.yahoo.com.tw/movieinfo_main/%E6%80%AA%E8%83%8E-i-weir-do-10733">
+            <img alt="" src="https://movies.yahoo.com.tw/x/r/w420/i/o/production/movies/July2020/eCKLQ6Ezj7x4n1KDd3NZ-489x720.jpg"/>
+           </a>
+          </div>
+          <div class="release_info">
+           <div class="release_info_text">
+            <div class="release_movie_name">
+             <a class="gabtn" data-ga="['上"映中','上映中_上映中第1頁','怪胎']" href="https://movies.yahoo.com.tw/movieinfo_main/%E6%80%AA%E8%83%8E-i-weir-do-10733">
+              怪胎
+             </a>
+             <div class="en">
+              <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','怪胎']" href="https://movies.yahoo.com.tw/movieinfo_main/%E6%80%AA%E8%83%8E-i-weir-do-10733">
+               i WEiR DO
+              </a>
+             </div>
+             <dl class="levelbox">
+              <dt>
+               <div class="level_name">
+                期待度
+               </div>
+               <div class="leveltext">
+                <span>
+                 83%
+                </span>
+                網友想看
+               </div>
+              </dt>
+              <dd>
+               <div class="level_name">
+                滿意度
+               </div>
+               <div class="leveltext">
+                <span class="count" data-num="4.1" data-run="0">
+                 0
+                </span>
+                綜合評分
+               </div>
+              </dd>
+             </dl>
+            </div>
+            <div class="release_movie_time">
+             上映日期 ： 2020-08-07
+            </div>
+            <div class="release_text">
+             <span class="jq_text_overflow_180 jq_text_overflow_href_list" data-url="https://movies.yahoo.com.tw/movieinfo_main/%E6%80%AA%E8%83%8E-i-weir-do-10733">
+              在愛情的世界裡，我們是彼此的怪胎。
+陳柏青是一名嚴重神經性強迫症患者，有非常嚴重的潔癖，非不得已要出門時都是全副武裝；穿防塵衣、戴手套、戴口罩，還會不停的洗手，所以他幾乎沒辦法正常社交生活。在一般人眼中，柏青就是個異於常人的怪胎。每月的15號是柏青唯一一天出門採買的日子，就在某個命運的15號，他遇見了與他「同病相憐」的另一個怪胎—陳靜。陳靜除了跟柏青一樣有嚴重的潔癖之外，她的皮膚只要在家以外的地方待上超過四小時就會嚴重過敏，全身長出紅斑。原本以為自己要永遠孤單活在這世界上的兩人，老天爺讓他們相遇，發展出一塵不染的愛情，彷彿擁有了彼此就不再害怕被世界遺棄。然而這段看似命中註定的關係，卻在柏青的強迫症突然消失後，漸漸的變了調…愛情的承諾，真的能永保新鮮嗎？
+             </span>
+            </div>
+           </div>
+           <div class="release_btn color_btnbox">
+            <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','怪胎']" href="https://movies.yahoo.com.tw/movieinfo_main/%E6%80%AA%E8%83%8E-i-weir-do-10733">
+             電影介紹
+            </a>
+            <a class="btn_s_vedio gabtn" data-ga="['上映中','上映中_上映中第1頁','怪胎']" href="https://movies.yahoo.com.tw/video/%E6%80%AA%E8%83%8E-%E6%8D%B7%E9%81%8B%E6%88%80%E6%84%9B%E7%AF%87-075620858.html?movie_id=10733">
+             預告片
+            </a>
+            <a class="btn_s_foto" href="https://movies.yahoo.com.tw/movieinfo_photos.html/id=10733">
+             劇照
+            </a>
+            <a class="btn_s_time gabtn" data-ga="['上映中','上映中_上映中第1頁','怪胎']" href="https://movies.yahoo.com.tw/movietime_result.html/id=10733">
+             時刻表
+            </a>
+           </div>
+          </div>
+         </li>
+         <li>
+          <div class="release_foto">
+           <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','哈囉少女']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%93%88%E5%9B%89%E5%B0%91%E5%A5%B3-girls-revenge-10780">
+            <img alt="" src="https://movies.yahoo.com.tw/x/r/w420/i/o/production/movies/June2020/jK8Jb9bkYoF6QcDuml6p-504x720.jpg"/>
+           </a>
+          </div>
+          <div class="release_info">
+           <div class="release_info_text">
+            <div class="release_movie_name">
+             <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','哈囉少女']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%93%88%E5%9B%89%E5%B0%91%E5%A5%B3-girls-revenge-10780">
+              哈囉少女
+             </a>
+             <div class="en">
+              <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','哈囉少女']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%93%88%E5%9B%89%E5%B0%91%E5%A5%B3-girls-revenge-10780">
+               Girl’s Revenge
+              </a>
+             </div>
+             <dl class="levelbox">
+              <dt>
+               <div class="level_name">
+                期待度
+               </div>
+               <div class="leveltext">
+                <span>
+                 76%
+                </span>
+                網友想看
+               </div>
+              </dt>
+              <dd>
+               <div class="level_name">
+                滿意度
+               </div>
+               <div class="leveltext">
+                <span class="count" data-num="4.0" data-run="0">
+                 0
+                </span>
+                綜合評分
+               </div>
+              </dd>
+             </dl>
+            </div>
+            <div class="release_movie_time">
+             上映日期 ： 2020-08-07
+            </div>
+            <div class="release_text">
+             <span class="jq_text_overflow_180 jq_text_overflow_href_list" data-url="https://movies.yahoo.com.tw/movieinfo_main/%E5%93%88%E5%9B%89%E5%B0%91%E5%A5%B3-girls-revenge-10780">
+              ★女生小圈圈　閨蜜還是敵人？
+★《甜蜜殺機》連奕琦監製　年度話題校園片
+★開美肌 婊心機　社群風暴將席捲花邊少女少男們
+ 
+神秘寡言的轉學生允蘅，初來乍到就被捲入暗潮洶湧的女孩心機；想連任校園親善大使的可茜，想方設法建立自己的姐妹勢力；率真直言的力加，看不慣可茜恩威並施的手段，挺身而出的同時卻也陷入鬥爭的漩渦，姊妹過招各鬥心機。一場生日派對後，少女被偷拍的性愛影片在網路上流傳，流言蜚語四起，少女花邊日記開始變調。
+ 
+直播、偷拍、肉搜，少男少女們的校園小圈圈不再平靜，一場風雨欲來的網路社群風暴即將襲來！為好友伸張正義的她，在越接近真相的同時，也揭露校園內令人坐立難安的真相……。
+             </span>
+            </div>
+           </div>
+           <div class="release_btn color_btnbox">
+            <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','哈囉少女']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%93%88%E5%9B%89%E5%B0%91%E5%A5%B3-girls-revenge-10780">
+             電影介紹
+            </a>
+            <a class="btn_s_vedio gabtn" data-ga="['上映中','上映中_上映中第1頁','哈囉少女']" href="https://movies.yahoo.com.tw/video/%E5%93%88%E5%9B%89%E5%B0%91%E5%A5%B3-%E4%B8%AD%E6%96%87%E9%A0%90%E5%91%8A-022155090.html?movie_id=10780">
+             預告片
+            </a>
+            <a class="btn_s_foto" href="https://movies.yahoo.com.tw/movieinfo_photos.html/id=10780">
+             劇照
+            </a>
+            <a class="btn_s_time gabtn" data-ga="['上映中','上映中_上映中第1頁','哈囉少女']" href="https://movies.yahoo.com.tw/movietime_result.html/id=10780">
+             時刻表
+            </a>
+           </div>
+          </div>
+         </li>
+         <li>
+          <div class="release_foto">
+           <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','陰眼']" href="https://movies.yahoo.com.tw/movieinfo_main/%E9%99%B0%E7%9C%BC-the-eyes-10795">
+            <img alt="" src="https://movies.yahoo.com.tw/x/r/w420/i/o/production/movies/July2020/O37AXosvw3HlOM5bdkbP-504x720.jpg"/>
+           </a>
+          </div>
+          <div class="release_info">
+           <div class="release_info_text">
+            <div class="release_movie_name">
+             <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','陰眼']" href="https://movies.yahoo.com.tw/movieinfo_main/%E9%99%B0%E7%9C%BC-the-eyes-10795">
+              陰眼
+             </a>
+             <div class="en">
+              <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','陰眼']" href="https://movies.yahoo.com.tw/movieinfo_main/%E9%99%B0%E7%9C%BC-the-eyes-10795">
+               The Eyes
+              </a>
+             </div>
+             <dl class="levelbox">
+              <dt>
+               <div class="level_name">
+                期待度
+               </div>
+               <div class="leveltext">
+                <span>
+                 93%
+                </span>
+                網友想看
+               </div>
+              </dt>
+              <dd>
+               <div class="level_name">
+                滿意度
+               </div>
+               <div class="leveltext">
+                <span class="count" data-num="3.9" data-run="0">
+                 0
+                </span>
+                綜合評分
+               </div>
+              </dd>
+             </dl>
+            </div>
+            <div class="release_movie_time">
+             上映日期 ： 2020-08-07
+            </div>
+            <div class="release_text">
+             <span class="jq_text_overflow_180 jq_text_overflow_href_list" data-url="https://movies.yahoo.com.tw/movieinfo_main/%E9%99%B0%E7%9C%BC-the-eyes-10795">
+              ★ 越南名導演再創恐怖片高峰
+★ 越南版《見鬼》挑戰你的恐懼底線！
+★ 來路不明的眼睛，將揭開家族的駭人祕密　
+ 
+經歷了一次攸關生死的車禍，知名女藝人失去了記憶，她的眼睛受到重傷必須接受他人捐贈的眼角膜重新恢復視力。而自從換上了新眼睛後，她就時常看到一個全身是血的女人，這讓她不禁好奇這雙眼睛原來的主人是誰，也不小心揭開了丈夫的駭人祕密…
+             </span>
+            </div>
+           </div>
+           <div class="release_btn color_btnbox">
+            <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','陰眼']" href="https://movies.yahoo.com.tw/movieinfo_main/%E9%99%B0%E7%9C%BC-the-eyes-10795">
+             電影介紹
+            </a>
+            <a class="btn_s_vedio gabtn" data-ga="['上映中','上映中_上映中第1頁','陰眼']" href="https://movies.yahoo.com.tw/video/%E9%99%B0%E7%9C%BC-%E4%B8%AD%E6%96%87%E9%A0%90%E5%91%8A-133434776.html?movie_id=10795">
+             預告片
+            </a>
+            <a class="btn_s_foto" href="https://movies.yahoo.com.tw/movieinfo_photos.html/id=10795">
+             劇照
+            </a>
+            <a class="btn_s_time gabtn" data-ga="['上映中','上映中_上映中第1頁','陰眼']" href="https://movies.yahoo.com.tw/movietime_result.html/id=10795">
+             時刻表
+            </a>
+           </div>
+          </div>
+         </li>
+         <li>
+          <div class="release_foto">
+           <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','家靈']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%AE%B6%E9%9D%88-relic-10798">
+            <img alt="" src="https://movies.yahoo.com.tw/x/r/w420/i/o/production/movies/July2020/owo17DRMLuNMQ9eg4LZj-509x720.jpg"/>
+           </a>
+          </div>
+          <div class="release_info">
+           <div class="release_info_text">
+            <div class="release_movie_name">
+             <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','家靈']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%AE%B6%E9%9D%88-relic-10798">
+              家靈
+             </a>
+             <div class="en">
+              <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','家靈']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%AE%B6%E9%9D%88-relic-10798">
+               Relic
+              </a>
+             </div>
+             <dl class="levelbox">
+              <dt>
+               <div class="level_name">
+                期待度
+               </div>
+               <div class="leveltext">
+                <span>
+                 80%
+                </span>
+                網友想看
+               </div>
+              </dt>
+              <dd>
+               <div class="level_name">
+                滿意度
+               </div>
+               <div class="leveltext">
+                <span class="count" data-num="3.4" data-run="0">
+                 0
+                </span>
+                綜合評分
+               </div>
+              </dd>
+             </dl>
+            </div>
+            <div class="release_movie_time">
+             上映日期 ： 2020-08-07
+            </div>
+            <div class="release_text">
+             <span class="jq_text_overflow_180 jq_text_overflow_href_list" data-url="https://movies.yahoo.com.tw/movieinfo_main/%E5%AE%B6%E9%9D%88-relic-10798">
+              ★今年最佳恐怖電影之一”～The Playlist
+★毛骨悚然！創下2020恐怖片新高點！”~Variety
+ 
+獨居老人艾德娜失蹤了，她的女兒凱伊和孫女小珊在接獲警方通報後，急忙從墨爾本趕回鄉間的祖厝。警方和當地居民組織了搜索隊在樹林裡展開搜尋，不料，艾德娜卻突然自行返家，原以為只是阿茲海默症病況加劇，艾德娜完全記不起這些天到底去了哪裡或是經歷過什麼事。平安返家的艾德娜卻好像變了一個人，她的行徑越來越古怪，甚至變得危險，不僅艾德娜感覺到屋裡有股神秘的力量在操控著她，就連凱伊和孫女小珊也逐漸迷失，這個「家」變得越來越暴戾……
+ 
+首執導演筒的娜塔莉艾瑞卡詹姆士靈感來自幼時經驗，身為日裔澳洲人的她，年幼時曾經回到日本探望罹患失智症的祖母，陰森的舊式日式住宅猶如日本恐怖電影印在她的腦海。她找來演過多部恐怖片的艾蜜莉莫提梅、《駭客任務》中的先知蘿蘋納文以及貝拉希斯寇特擔任主演，這是一部全女性的恐怖電影。本片獲得演員傑克葛倫霍製片公司的投資，在日舞影展的首映佳評如潮，奇特的結局被譽為2020年最佳恐怖電影之一。
+             </span>
+            </div>
+           </div>
+           <div class="release_btn color_btnbox">
+            <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','家靈']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%AE%B6%E9%9D%88-relic-10798">
+             電影介紹
+            </a>
+            <a class="btn_s_vedio gabtn" data-ga="['上映中','上映中_上映中第1頁','家靈']" href="https://movies.yahoo.com.tw/video/%E5%AE%B6%E9%9D%88-%E5%89%8D%E5%B0%8E%E9%A0%90%E5%91%8A-105143506.html?movie_id=10798">
+             預告片
+            </a>
+            <a class="btn_s_foto" href="https://movies.yahoo.com.tw/movieinfo_photos.html/id=10798">
+             劇照
+            </a>
+            <a class="btn_s_time gabtn" data-ga="['上映中','上映中_上映中第1頁','家靈']" href="https://movies.yahoo.com.tw/movietime_result.html/id=10798">
+             時刻表
+            </a>
+           </div>
+          </div>
+         </li>
+         <li>
+          <div class="release_foto">
+           <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','6號鬼病床']" href="https://movies.yahoo.com.tw/movieinfo_main/6%E8%99%9F%E9%AC%BC%E7%97%85%E5%BA%8A-bed-number-6-10826">
+            <img alt="" src="https://movies.yahoo.com.tw/x/r/w420/i/o/production/movies/July2020/7QShrvtJuBReECPmhv3m-494x720.jpg"/>
+           </a>
+          </div>
+          <div class="release_info">
+           <div class="release_info_text">
+            <div class="release_movie_name">
+             <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','6號鬼病床']" href="https://movies.yahoo.com.tw/movieinfo_main/6%E8%99%9F%E9%AC%BC%E7%97%85%E5%BA%8A-bed-number-6-10826">
+              6號鬼病床
+             </a>
+             <div class="en">
+              <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','6號鬼病床']" href="https://movies.yahoo.com.tw/movieinfo_main/6%E8%99%9F%E9%AC%BC%E7%97%85%E5%BA%8A-bed-number-6-10826">
+               Bed Number 6
+              </a>
+             </div>
+             <dl class="levelbox">
+              <dt>
+               <div class="level_name">
+                期待度
+               </div>
+               <div class="leveltext">
+                <span>
+                 96%
+                </span>
+                網友想看
+               </div>
+              </dt>
+              <dd>
+               <div class="level_name">
+                滿意度
+               </div>
+               <div class="leveltext">
+                <span class="count" data-num="2.9" data-run="0">
+                 0
+                </span>
+                綜合評分
+               </div>
+              </dd>
+             </dl>
+            </div>
+            <div class="release_movie_time">
+             上映日期 ： 2020-08-07
+            </div>
+            <div class="release_text">
+             <span class="jq_text_overflow_180 jq_text_overflow_href_list" data-url="https://movies.yahoo.com.tw/movieinfo_main/6%E8%99%9F%E9%AC%BC%E7%97%85%E5%BA%8A-bed-number-6-10826">
+              ★ 繼《安娜貝爾》《陰兒房》後，最驚悚恐怖懼作！
+★ 取材自真實駭人事件，揭發歐洲病院不為人知的黑歷史！
+ 
+走的進去，躺著出來..
+懷有身孕的女醫師碧昂卡（卡羅麗娜 飾）剛來到一家兒童病院的夜班任職，上工首日便聽聞前任醫師於院中墜樓身亡的消息。某日夜晚巡房，她遇見6號床上一位尋找母親的哭泣男童，從此成了她惡夢的開端。碧昂卡開始產生詭異幻覺、且接連遭逢怪事，甚至短暫失去意識差點跳下樓，她逐漸發現這間醫院隱瞞了的一個個可怕的駭人秘密….為了活下去，她必須找出這男孩身世，以及揭開這不可告人的恐怖真相…
+             </span>
+            </div>
+           </div>
+           <div class="release_btn color_btnbox">
+            <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','6號鬼病床']" href="https://movies.yahoo.com.tw/movieinfo_main/6%E8%99%9F%E9%AC%BC%E7%97%85%E5%BA%8A-bed-number-6-10826">
+             電影介紹
+            </a>
+            <a class="btn_s_vedio gabtn" data-ga="['上映中','上映中_上映中第1頁','6號鬼病床']" href="https://movies.yahoo.com.tw/video/6%E8%99%9F%E9%AC%BC%E7%97%85%E5%BA%8A-%E4%B8%AD%E6%96%87%E9%A0%90%E5%91%8A-135005870.html?movie_id=10826">
+             預告片
+            </a>
+            <a class="btn_s_foto" href="https://movies.yahoo.com.tw/movieinfo_photos.html/id=10826">
+             劇照
+            </a>
+            <a class="btn_s_time gabtn" data-ga="['上映中','上映中_上映中第1頁','6號鬼病床']" href="https://movies.yahoo.com.tw/movietime_result.html/id=10826">
+             時刻表
+            </a>
+           </div>
+          </div>
+         </li>
+         <li>
+          <div class="release_foto">
+           <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','心靈咖啡館的驅魔師']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%BF%83%E9%9D%88%E5%92%96%E5%95%A1%E9%A4%A8%E7%9A%84%E9%A9%85%E9%AD%94%E5%B8%AB-the-real-exorcist-10830">
+            <img alt="" src="https://movies.yahoo.com.tw/x/r/w420/i/o/production/movies/July2020/zL6QsrVSM4VsLxo6p2Ya-505x720.jpg"/>
+           </a>
+          </div>
+          <div class="release_info">
+           <div class="release_info_text">
+            <div class="release_movie_name">
+             <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','心靈咖啡館的驅魔師']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%BF%83%E9%9D%88%E5%92%96%E5%95%A1%E9%A4%A8%E7%9A%84%E9%A9%85%E9%AD%94%E5%B8%AB-the-real-exorcist-10830">
+              心靈咖啡館的驅魔師
+             </a>
+             <div class="en">
+              <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','心靈咖啡館的驅魔師']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%BF%83%E9%9D%88%E5%92%96%E5%95%A1%E9%A4%A8%E7%9A%84%E9%A9%85%E9%AD%94%E5%B8%AB-the-real-exorcist-10830">
+               The Real Exorcist
+              </a>
+             </div>
+             <dl class="levelbox">
+              <dt>
+               <div class="level_name">
+                期待度
+               </div>
+               <div class="leveltext">
+                <span>
+                 93%
+                </span>
+                網友想看
+               </div>
+              </dt>
+              <dd>
+               <div class="level_name">
+                滿意度
+               </div>
+               <div class="leveltext">
+                <span class="count" data-num="3.6" data-run="0">
+                 0
+                </span>
+                綜合評分
+               </div>
+              </dd>
+             </dl>
+            </div>
+            <div class="release_movie_time">
+             上映日期 ： 2020-08-07
+            </div>
+            <div class="release_text">
+             <span class="jq_text_overflow_180 jq_text_overflow_href_list" data-url="https://movies.yahoo.com.tw/movieinfo_main/%E5%BF%83%E9%9D%88%E5%92%96%E5%95%A1%E9%A4%A8%E7%9A%84%E9%A9%85%E9%AD%94%E5%B8%AB-the-real-exorcist-10830">
+              ★ 連霸日本五週票房冠軍！
+★ 橫掃7國電影節，榮獲46座獎項肯定
+★ 榮獲2020摩納哥國際電影節最佳影片、最佳女主角、最佳女配角、最佳視覺效果等四項大獎
+★ 打破心中的黑暗！關於存在都市內「救世主」的動人故事
+★ 隱身咖啡館的強大驅魔師，將以光明力量擊退邪惡勢力！
+ 
+在人多混雜的東京都內，小百合由於人們充滿惡意的想法而時常感到痛苦。這時，拯救她的是咖啡館「EXTRA」老闆一家人。一個月後，小百合進入這家店打工，她在店外掛起了「歡迎入內諮詢煩惱」的小告示，並開始在店內擔任諮詢煩惱的志工。
+ 
+某天，大學生小勇在替店長拿店內營收去存的路上，沒想到卻遭人搶劫。走投無路，有可能自殺的他走進了咖啡館，經小百合使用特殊的靈能力後，瞬間查出真正的犯人，事件順利解決。在那之後，小勇一邊幫忙小百合，同時一邊接觸到「眼所不能見」的世界。然而，對於懷抱著向神明報恩想法的小百合來說，惡魔卻開始向她伸出魔爪……
+             </span>
+            </div>
+           </div>
+           <div class="release_btn color_btnbox">
+            <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','心靈咖啡館的驅魔師']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%BF%83%E9%9D%88%E5%92%96%E5%95%A1%E9%A4%A8%E7%9A%84%E9%A9%85%E9%AD%94%E5%B8%AB-the-real-exorcist-10830">
+             電影介紹
+            </a>
+            <a class="btn_s_vedio gabtn" data-ga="['上映中','上映中_上映中第1頁','心靈咖啡館的驅魔師']" href="https://movies.yahoo.com.tw/video/%E5%BF%83%E9%9D%88%E5%92%96%E5%95%A1%E9%A4%A8%E7%9A%84%E9%A9%85%E9%AD%94%E5%B8%AB-%E4%B8%AD%E6%96%87%E9%A0%90%E5%91%8A-024318216.html?movie_id=10830">
+             預告片
+            </a>
+            <a class="btn_s_foto" href="https://movies.yahoo.com.tw/movieinfo_photos.html/id=10830">
+             劇照
+            </a>
+            <a class="btn_s_time gabtn" data-ga="['上映中','上映中_上映中第1頁','心靈咖啡館的驅魔師']" href="https://movies.yahoo.com.tw/movietime_result.html/id=10830">
+             時刻表
+            </a>
+           </div>
+          </div>
+         </li>
+         <li>
+          <div class="release_foto">
+           <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','Perfect World ~和你在一起的奇蹟~']" href="https://movies.yahoo.com.tw/movieinfo_main/Perfect-World-%E5%92%8C%E4%BD%A0%E5%9C%A8%E4%B8%80%E8%B5%B7%E7%9A%84%E5%A5%87%E8%B9%9F-perfect-world-10832">
+            <img alt="" src="https://movies.yahoo.com.tw/x/r/w420/i/o/production/movies/July2020/xYOkcJgW6urwXJaUlvDy-504x720.JPG"/>
+           </a>
+          </div>
+          <div class="release_info">
+           <div class="release_info_text">
+            <div class="release_movie_name">
+             <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','Perfect World ~和你在一起的奇蹟~']" href="https://movies.yahoo.com.tw/movieinfo_main/Perfect-World-%E5%92%8C%E4%BD%A0%E5%9C%A8%E4%B8%80%E8%B5%B7%E7%9A%84%E5%A5%87%E8%B9%9F-perfect-world-10832">
+              Perfect World ~和你在一起的奇蹟~
+             </a>
+             <div class="en">
+              <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','Perfect World ~和你在一起的奇蹟~']" href="https://movies.yahoo.com.tw/movieinfo_main/Perfect-World-%E5%92%8C%E4%BD%A0%E5%9C%A8%E4%B8%80%E8%B5%B7%E7%9A%84%E5%A5%87%E8%B9%9F-perfect-world-10832">
+               Perfect World
+              </a>
+             </div>
+             <dl class="levelbox">
+              <dt>
+               <div class="level_name">
+                期待度
+               </div>
+               <div class="leveltext">
+                <span>
+                 97%
+                </span>
+                網友想看
+               </div>
+              </dt>
+              <dd>
+               <div class="level_name">
+                滿意度
+               </div>
+               <div class="leveltext">
+                <span class="count" data-num="4.2" data-run="0">
+                 0
+                </span>
+                綜合評分
+               </div>
+              </dd>
+             </dl>
+            </div>
+            <div class="release_movie_time">
+             上映日期 ： 2020-08-07
+            </div>
+            <div class="release_text">
+             <span class="jq_text_overflow_180 jq_text_overflow_href_list" data-url="https://movies.yahoo.com.tw/movieinfo_main/Perfect-World-%E5%92%8C%E4%BD%A0%E5%9C%A8%E4%B8%80%E8%B5%B7%E7%9A%84%E5%A5%87%E8%B9%9F-perfect-world-10832">
+              ★改編自有賀理惠人氣同名漫畫作品，獲選為2016年最佳少女漫畫
+★三代目J Soul Brothers 岩田剛典 X 藍絲帶獎最佳女配角得主 杉咲花 動人共演
+★柴山健次導演：「我想細膩描繪出這故事所擁有的光輝與黑暗。」
+ 
+如果沒有你，這個世界將不再完美……
+任職於室內設計公司川奈愛未（杉咲花 飾），偶遇高中時代的前輩，也是她的初戀──鮎川樹（岩田剛典 飾）。卻沒想到樹在大學時期因為一場意外，造成脊椎受損，必須終生倚靠輪椅生活。愛未見到這般模樣的樹，覺得兩人沒有再次戀愛的可能，卻又同時發現自己對樹仍有情愫，而再度被樹吸引。樹雖然喜歡溫柔坦率的愛未，心裡卻始終抱持著「我再也無法讓任何人幸福」的想法，而放棄與女生交往的機會。在得知樹的想法後，愛未該如何面對自己對樹的心意？而愛未對樹的愛意，能否融化樹冰封已久的心，克服兩人面前的重重阻礙呢？
+             </span>
+            </div>
+           </div>
+           <div class="release_btn color_btnbox">
+            <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','Perfect World ~和你在一起的奇蹟~']" href="https://movies.yahoo.com.tw/movieinfo_main/Perfect-World-%E5%92%8C%E4%BD%A0%E5%9C%A8%E4%B8%80%E8%B5%B7%E7%9A%84%E5%A5%87%E8%B9%9F-perfect-world-10832">
+             電影介紹
+            </a>
+            <a class="btn_s_vedio no_select">
+             預告片
+            </a>
+            <a class="btn_s_foto no_select">
+             劇照
+            </a>
+            <a class="btn_s_time gabtn" data-ga="['上映中','上映中_上映中第1頁','Perfect World ~和你在一起的奇蹟~']" href="https://movies.yahoo.com.tw/movietime_result.html/id=10832">
+             時刻表
+            </a>
+           </div>
+          </div>
+         </li>
+         <li>
+          <div class="release_foto">
+           <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','地下社會']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%9C%B0%E4%B8%8B%E7%A4%BE%E6%9C%83-underground-10840">
+            <img alt="" src="https://movies.yahoo.com.tw/x/r/w420/i/o/production/movies/July2020/fpPRcUE4YxdI3csm1l0E-504x720.jpg"/>
+           </a>
+          </div>
+          <div class="release_info">
+           <div class="release_info_text">
+            <div class="release_movie_name">
+             <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','地下社會']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%9C%B0%E4%B8%8B%E7%A4%BE%E6%9C%83-underground-10840">
+              地下社會
+             </a>
+             <div class="en">
+              <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','地下社會']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%9C%B0%E4%B8%8B%E7%A4%BE%E6%9C%83-underground-10840">
+               Underground
+              </a>
+             </div>
+             <dl class="levelbox">
+              <dt>
+               <div class="level_name">
+                期待度
+               </div>
+               <div class="leveltext">
+                <span>
+                 80%
+                </span>
+                網友想看
+               </div>
+              </dt>
+              <dd>
+               <div class="level_name">
+                滿意度
+               </div>
+               <div class="leveltext">
+                <span class="count" data-num="4.3" data-run="0">
+                 0
+                </span>
+                綜合評分
+               </div>
+              </dd>
+             </dl>
+            </div>
+            <div class="release_movie_time">
+             上映日期 ： 2020-08-07
+            </div>
+            <div class="release_text">
+             <span class="jq_text_overflow_180 jq_text_overflow_href_list" data-url="https://movies.yahoo.com.tw/movieinfo_main/%E5%9C%B0%E4%B8%8B%E7%A4%BE%E6%9C%83-underground-10840">
+              ★坎城影展金棕櫚大獎得主  25週年紀念DCP大銀幕重現
+★最會得獎的塞爾維亞大師導演庫斯杜力卡 最癲狂的影史代表作
+ 
+有一種最忠貞的愛情，叫做革命。
+有一場最無望的革命，叫做愛情。
+ 
+世界大戰早已經結束，在地下，他們卻以為戰火仍在延燒....
+ 
+1944年，大轟炸廢墟裡，馬可和阿黑攜手對抗納粹，革命曾和他們的青春一樣熾熱且單純。直到女星娜塔莉站上舞台，兩個男人愛上的，竟是同一個她。是兄弟，又是對手，馬可救了阿黑，並將他藏在自家地下室裡，這一躲，就是二十年。
+ 
+世界大戰結束了，娜塔莉選擇了馬可，金錢結合權勢，他們在地上沈淪。馬可讓阿黑相信，戰爭還在繼續。他用大大的國家，把兄弟關在小小的地下室裡，放假警報，播放革命歌，別說欺騙很難，是相信太容易。在地上，馬可修改了歷史，將活著的兄弟塑造成死去的英雄，在地下，阿黑以為自己正創造歷史，革命的火種將由他延續。這個國家最大的謊言，是女人不愛我了，還是我就這樣過了一生？
+ 
+名導艾米爾庫斯杜力卡顛峰之作，獲坎城影展金棕櫚大獎肯定。穿出進入大歷史五十年。見證人類史最大的幻術。原來國家是集體的幻覺，世界戰爭了，政權興起了，虛構顛倒了真實。夢中婚禮。最好的朋友是最後的死敵。無望的戀人。戰火浮生。荒謬倒錯，魔幻寫實的極致，而在歷史的終端，兩個男人，終於在地平線上相遇，是對決，還是擁抱，是選擇原諒，還是僅僅遺忘？
+ 
+「多希望，有一天，我會再見到你。」
+ 
+【關於電影】                               
+ 
+★ 如果費里尼拍攝戰爭電影，一定會像《地下社會》。－綜藝報
+★ 整整三小時雷鳴般震懾的電影！史詩般喜劇。－倫敦時報 
+★ 足以喚醒心靈的傑作。每分每秒都貫徹著至高美學。－世界報。
+★ 騷動！大膽！過激！這曲獻給國家的輓歌用熱情征服了坎城。－洛杉磯時報 
+★ 巴洛克似華麗偉大的視覺力量。炸藥爆破螢幕的畫面表現。－法蘭克福每日評論報
+ 
+獲獎的功力無人能比，至今全世界還找不到第二人，斬獲二次坎城金棕櫚獎及一次最佳導演獎、威尼斯銀獅獎、柏林銀熊獎等大獎，堪稱電影界超重量級人物，他就是鼎鼎大名的艾米爾.庫斯杜力卡。庫斯杜力卡是當今最富盛名、也最受爭議的仍在拍片的南斯拉夫（Yugoslavia）導演。1954年11月24日出生於塞拉耶佛，他的父親如同其他上百萬的南斯拉夫人一般，放棄了自己的信仰而向共產主義低頭，身為獨子的庫斯杜力卡，卻選擇以行動譴責共產主義──致力當一名導演。1995年的《地下社會》適逢電影百年，具有更高度的野心──旨在將像南斯拉夫這般錯綜複雜的半世紀歷史以及庫斯杜力卡這般野心勃勃的整體創作濃縮於單一的劇情片中。《地下社會》達成了這兩個目標，成為一連串偉大的東歐荒謬混仿劇中的最後一部，也證明了：描繪共產主義制度下的生活絕非已經枯竭的題材。這部堪稱神作的政治史詩濃縮了他卓而不群的創作理念和藝術表現，並將其推向極致。為表現超現實色彩所運用的大量特技無論從構思或技術上都令人驚豔連連。
+ 
+狂歡的人們沒有察覺，他們所依附的土地已從大陸上分裂開去，在漫無邊際的水面上越漂越遠。庫斯杜力卡無言地告訴觀眾，這就是他祖國的命運。他無休無止的玩笑其實只是在緩和內心深切的創痛。此片也讓他的藝術創作攀上了高峰，39歲的導演再次登上坎城金棕櫚寶座，亦成為傳奇經典。
+             </span>
+            </div>
+           </div>
+           <div class="release_btn color_btnbox">
+            <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','地下社會']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%9C%B0%E4%B8%8B%E7%A4%BE%E6%9C%83-underground-10840">
+             電影介紹
+            </a>
+            <a class="btn_s_vedio gabtn" data-ga="['上映中','上映中_上映中第1頁','地下社會']" href="https://movies.yahoo.com.tw/video/%E5%9C%B0%E4%B8%8B%E7%A4%BE%E6%9C%83-%E4%B8%AD%E6%96%87%E9%A0%90%E5%91%8A-020314544.html?movie_id=10840">
+             預告片
+            </a>
+            <a class="btn_s_foto" href="https://movies.yahoo.com.tw/movieinfo_photos.html/id=10840">
+             劇照
+            </a>
+            <a class="btn_s_time gabtn" data-ga="['上映中','上映中_上映中第1頁','地下社會']" href="https://movies.yahoo.com.tw/movietime_result.html/id=10840">
+             時刻表
+            </a>
+           </div>
+          </div>
+         </li>
+        </ul>
+       </div>
+       <div class="page_numbox">
+        <ul>
+         <li class="num_ar">
+          ‹
+         </li>
+         <li class="prevtxt disabled">
+          <span>
+           上一頁
+          </span>
+         </li>
+         <li class="active">
+          <span>
+           1
+          </span>
+         </li>
+         <li>
+          <a href="http://movies.yahoo.com.tw/movie_intheaters.html?page=2">
+           2
+          </a>
+         </li>
+         <li>
+          <a href="http://movies.yahoo.com.tw/movie_intheaters.html?page=3">
+           3
+          </a>
+         </li>
+         <li>
+          <a href="http://movies.yahoo.com.tw/movie_intheaters.html?page=4">
+           4
+          </a>
+         </li>
+         <li>
+          <a href="http://movies.yahoo.com.tw/movie_intheaters.html?page=5">
+           5
+          </a>
+         </li>
+         <li>
+          <a href="http://movies.yahoo.com.tw/movie_intheaters.html?page=6">
+           6
+          </a>
+         </li>
+         <li>
+          <a href="http://movies.yahoo.com.tw/movie_intheaters.html?page=7">
+           7
+          </a>
+         </li>
+         <li>
+          <a href="http://movies.yahoo.com.tw/movie_intheaters.html?page=8">
+           8
+          </a>
+         </li>
+         <li>
+          <a href="http://movies.yahoo.com.tw/movie_intheaters.html?page=9">
+           9
+          </a>
+         </li>
+         <li>
+          <a href="http://movies.yahoo.com.tw/movie_intheaters.html?page=10">
+           10
+          </a>
+         </li>
+         <li class="nexttxt">
+          <a href="http://movies.yahoo.com.tw/movie_intheaters.html?page=2" rel="next">
+           下一頁
+          </a>
+         </li>
+         <li class="num_ar">
+          ›
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+    </div>
+   </main>
+   <footer class="clearfix" id="footer" style="display: block;">
+    <div id="loadbox">
+     <a class="gabtn" data-ga="['其他連結','其他連結_服務中心','頁尾_其他連結']" href="https://tw.help.yahoo.com/kb/helpcentral" target="_blank">
+      服務中心
+     </a>
+     |
+     <a class="gabtn" data-ga="['其他連結','其他連結_隱私權','頁尾_其他連結']" href="https://policies.yahoo.com/tw/zh-hant/yahoo/privacy/index.htm" target="_blank">
+      隱私權(更新)
+     </a>
+     |
+     <a class="gabtn" data-ga="['其他連結','其他連結_建議','頁尾_其他連結']" href="https://yahoo.uservoice.com/forums/600523" target="_blank">
+      建議
+     </a>
+     |
+     <a class="gabtn" data-ga="['其他連結','其他連結_關於我們的廣告','頁尾_其他連結']" href="https://policies.yahoo.com/tw/zh-hant/yahoo/privacy/adinfo/" target="_blank">
+      關於我們的廣告
+     </a>
+     |
+     <a class="gabtn" data-ga="['其他連結','其他連結_服務條款','頁尾_其他連結']" href="https://info.yahoo.com/legal/tw/yahoo/utos/zh-hant-tw/" target="_blank">
+      服務條款(更新)
+     </a>
+     |
+     <a href="" target="_blank">
+     </a>
+     由Yahoo奇摩電影 提供
+    </div>
+   </footer>
+  </div>
+  <!-- Javascript -->
+  <script src="https://s.yimg.com/ss/rapid3.js">
+  </script>
+  <script src="https://s.yimg.com/ss/rapidworker-1.2.js">
+  </script>
+  <!-- Native Ad -->
+  <script type="text/javascript">
+   const nativeAdAll = "bdd2eb9c-51e8-404a-921c-ae7090fc5fda";
+  const nativeAdOption = "";
+
+  window.native = window.native || [];
+  window.native.push(nativeAdAll);
+  if(nativeAdOption.length) {
+    window.native.push(nativeAdOption);
+  }
+  window.apiKey = "QS4CB5BPWQKCYKVVSR89";
+
+  (function(d) {
+    var script = d.createElement("script");
+    script.async = true;
+    script.src = "https://s.yimg.com/dy/ads/native.js";
+    d.body.appendChild(script);
+  })(document);
+  </script>
+  <script src="/build/js/app.js?id=5940a67a27b7f7de994c&amp;r=1555478321" type="text/javascript">
+  </script>
+  <noscript>
+   <img alt="" height="1" src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=7241469&amp;c7=https%3A%2F%2Fmovies.yahoo.com.tw%2Fmovie_intheaters.html&amp;c5=794026717&amp;cv=2.0&amp;cj=1" width="1"/>
+  </noscript>
+  <script>
+  </script>
+  <script type="application/javascript">
+   (function (w, d, t, r, u) {
+    w[u] = w[u] || []
+    w[u].push({
+      'projectId': '10000',
+      'properties': {
+        'pixelId': '428726',
+        'qstrings': {'country': 'tw', 'property': 'movie', 'tag': ''}
+      }
+    })
+    var s = d.createElement(t)
+    s.src = r
+    s.async = true
+    s.onload = s.onreadystatechange = function () {
+      var y, rs = this.readyState, c = w[u]
+      if (rs && rs != 'complete' && rs != 'loaded') {return}
+      try {
+        y = YAHOO.ywa.I13N.fireBeacon
+        w[u] = []
+        w[u].push = function (p) {y([p])}
+        y(c)
+      } catch (e) {}
+    }
+    var scr = d.getElementsByTagName(t)[0], par = scr.parentNode
+    par.insertBefore(s, scr)
+  })(window, document, 'script', 'https://s.yimg.com/wi/ytc.js', 'dotq')
+  </script>
+ </body>
+</html>
+
+<!DOCTYPE html>
+<html lang="zh_TW">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1, user-minimum-scale=1, maximum-scale=1" name="viewport"/>
+  <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+  <meta content="501887343352051" property="fb:app_id"/>
+  <meta content="Yahoo奇摩電影" property="og:site_name"/>
+  <title>
+   上映中 - Yahoo奇摩電影
+  </title>
+  <meta content="上映中 - Yahoo奇摩電影" name="twitter:title"/>
+  <meta content="上映中 - Yahoo奇摩電影" property="og:title"/>
+  <link href="https://movies.yahoo.com.tw/movie_intheaters.html?page=1" rel="canonical"/>
+  <meta content="https://movies.yahoo.com.tw/movie_intheaters.html?page=1" property="og:url"/>
+  <meta content="Yahoo奇摩電影提供上映中的最新電影資訊，查詢時刻表、看最新預告片，讓你電影資訊不漏接" name="twitter:description"/>
+  <meta content="Yahoo奇摩電影提供上映中的最新電影資訊，查詢時刻表、看最新預告片，讓你電影資訊不漏接" name="description"/>
+  <meta content="Yahoo奇摩電影提供上映中的最新電影資訊，查詢時刻表、看最新預告片，讓你電影資訊不漏接" property="og:description"/>
+  <meta content="https://movies.yahoo.com.tw/build/images/ogImage.png" name="twitter:image"/>
+  <meta content="https://movies.yahoo.com.tw/build/images/ogImage.png" property="og:image"/>
+  <meta content="https://movies.yahoo.com.tw/build/images/ogImage.png" name="twitter:image:src"/>
+  <meta content="電影, yahoo奇摩電影, 時刻表, 新片, 預告片, 網友滿意榜, yahoo 電影, 劇照, 線上訂票, 票房, 台北票房, 全美票房, 排行榜, 戲院, 片名, 電視, 熱映中, 本週新片, 海報, 滿意度, 期待度" name="keywords"/>
+  <link href="/build/css/app.css?id=eadc5e22ade55ba173fe&amp;r=1555478321" rel="stylesheet"/>
+  <meta content="guce.yahoo.com.tw" name="oath:guce:consent-host">
+   <!-- Consent Manager Tag : Script -->
+   <script async="" src="https://consent.cmp.oath.com/cmp.js" type="text/javascript">
+   </script>
+   <!-- Consent Manager Tag : Stubbed (updated 2018-04-27T17:00) -->
+   <script type="text/javascript">
+    (function () {
+        var gdprAppliesGlobally = false;
+
+        function addFrame() {
+            if (!window.frames['__cmpLocator']) {
+                if (document.body && document.body.firstChild) {
+                    var body = document.body,
+                        iframe = document.createElement('iframe');
+
+                      iframe.style.display = 'none';
+			  iframe.height = iframe.width = 0;
+
+                    iframe.name = '__cmpLocator';
+                    body.insertBefore(iframe, body.firstChild);
+                } else {
+                    setTimeout(addFrame, 5);
+                }
+            }
+        }
+
+        addFrame();
+
+        function stubCMP() {
+            var b = arguments;
+            __cmp.a = __cmp.a || [];
+
+            if (!b.length) return __cmp.a;
+            else if (b[0] === 'ping') {
+                b[2]({
+                    "gdprAppliesGlobally": gdprAppliesGlobally,
+                    "cmpLoaded": false
+                }, true);
+            }
+            else {
+                __cmp.a.push([].slice.apply(b));
+            }
+        }
+
+        function cmpMsgHandler(event) {
+            var msgIsString = typeof event.data === "string";
+            var json = event.data;
+            if (msgIsString) {
+                try {
+                    json = JSON.parse(event.data);
+                } catch (e) {}
+            }
+            if (json.__cmpCall) {
+                var i = json.__cmpCall;
+                window.__cmp(i.command, i.parameter, function (retValue, success) {
+                    var returnMsg = {
+                        "__cmpReturn": {
+                            "returnValue": retValue,
+                            "success": success,
+                            "callId": i.callId
+                        }
+                    };
+                    event.source.postMessage(msgIsString ?
+                        JSON.stringify(returnMsg) : returnMsg, '*');
+                });
+            }
+        }
+
+        if (typeof (__cmp) !== 'function') {
+            window.__cmp = stubCMP;
+            __cmp.msgHandler = cmpMsgHandler;
+            if (window.addEventListener)
+                window.addEventListener('message', cmpMsgHandler, false);
+            else window.attachEvent('onmessage', cmpMsgHandler);
+        }
+    })();
+   </script>
+   <!-- End Consent Manager Tag : Stubbed -->
+   <script type="text/javascript">
+    window.__cmp('init');
+   </script>
+   <script src="https://s.yimg.com/nb/AdLib/adlib-prod.umd.min.js" type="text/javascript">
+   </script>
+  </meta>
+ </head>
+ <body id="">
+  <data data-login="false" data-login-href="https://movies.yahoo.com.tw/login">
+  </data>
+  <span data-id="794026717" id="ad-space-id">
+  </span>
+  <span data-id="3" id="pt-type">
+  </span>
+  <!--Website-->
+  <div id="maincontainer">
+   <header>
+    <div id="y-header">
+     <nav class="nav content">
+      <ul>
+       <li>
+        <a class="gabtn" data-ga="['頻道入口','頻道入口_Yahoo首頁','頁首_頻道入口']" href="https://tw.yahoo.com/">
+         <span class="icon_home">
+         </span>
+         首頁
+        </a>
+       </li>
+       <li>
+        <a class="gabtn" data-ga="['頻道入口','頻道入口_信箱','頁首_頻道入口']" href="https://tw.mail.yahoo.com/">
+         信箱
+        </a>
+       </li>
+       <li>
+        <a class="gabtn" data-ga="['頻道入口','頻道入口_新聞','頁首_頻道入口']" href="https://tw.news.yahoo.com/">
+         新聞
+        </a>
+       </li>
+       <li>
+        <a class="gabtn" data-ga="['頻道入口','頻道入口_股市','頁首_頻道入口']" href="https://tw.stock.yahoo.com/">
+         股市
+        </a>
+       </li>
+       <li>
+        <a class="gabtn" data-ga="['頻道入口','頻道入口_氣象','頁首_頻道入口']" href="https://tw.news.yahoo.com/weather-forecast/">
+         氣象
+        </a>
+       </li>
+       <li>
+        <a class="gabtn" data-ga="['頻道入口','頻道入口_運動','頁首_頻道入口']" href="https://tw.sports.yahoo.com/">
+         運動
+        </a>
+       </li>
+       <li>
+        <a class="gabtn" data-ga="['頻道入口','頻道入口_名人娛樂','頁首_頻道入口']" href="https://tw.news.yahoo.com/entertainment">
+         名人娛樂
+        </a>
+       </li>
+       <li>
+        <a class="gabtn" data-ga="['頻道入口','頻道入口_App下載','頁首_頻道入口']" href="http://tw.mobile.yahoo.com/">
+         App下載
+        </a>
+       </li>
+       <li>
+        <a class="gabtn" data-ga="['頻道入口','頻道入口_購物中心','頁首_頻道入口']" href="https://tw.buy.yahoo.com/">
+         購物中心
+        </a>
+       </li>
+       <li>
+        <a class="gabtn" data-ga="['頻道入口','頻道入口_商域','頁首_頻道入口']" href="https://tw.mall.yahoo.com/">
+         商城
+        </a>
+       </li>
+       <li>
+        <a class="gabtn" data-ga="['頻道入口','頻道入口_拍賣','頁首_頻道入口']" href="https://tw.bid.yahoo.com/">
+         拍賣
+        </a>
+       </li>
+       <li class="nav_more">
+        <a href="javascript:void(0)">
+         更多
+         <span class="icon_more">
+         </span>
+        </a>
+        <div class="dropdown_list">
+         <dl>
+          <dd>
+           <a class="gabtn" data-ga="['頻道入口','頻道入口_影音','頁首_頻道入口']" href="https://tw.video.yahoo.com/">
+            影音
+           </a>
+          </dd>
+          <dd>
+           <a class="gabtn" data-ga="['頻道入口','頻道入口_知識+','頁首_頻道入口']" href="https://tw.knowledge.yahoo.com/">
+            知識+
+           </a>
+          </dd>
+          <dd>
+           <a class="gabtn" data-ga="['頻道入口','頻道入口_汽車機車','頁首_頻道入口']" href="https://autos.yahoo.com.tw/">
+            汽車機車
+           </a>
+          </dd>
+          <dd>
+           <a class="gabtn" data-ga="['頻道入口','頻道入口_電影','頁首_頻道入口']" href="https://movies.yahoo.com.tw/">
+            電影
+           </a>
+          </dd>
+          <dd>
+           <a class="gabtn" data-ga="['頻道入口','頻道入口_字典','頁首_頻道入口']" href="https://tw.dictionary.yahoo.com/">
+            字典
+           </a>
+          </dd>
+          <dd>
+           <a class="gabtn" data-ga="['頻道入口','頻道入口_遊戲','頁首_頻道入口']" href="https://games.yahoo.com.tw/">
+            遊戲
+           </a>
+          </dd>
+          <dd>
+           <a class="gabtn" data-ga="['頻道入口','頻道入口_旅遊','頁首_頻道入口']" href="https://travel.yahoo.com.tw/">
+            旅遊
+           </a>
+          </dd>
+          <dd>
+           <a class="gabtn" data-ga="['頻道入口','頻道入口_理財','頁首_頻道入口']" href="https://tw.money.yahoo.com/">
+            理財
+           </a>
+          </dd>
+          <dd>
+           <a class="gabtn" data-ga="['頻道入口','頻道入口_房地產','頁首_頻道入口']" href="https://house.yahoo.com.tw/">
+            房地產
+           </a>
+          </dd>
+          <dd>
+           <a class="gabtn" data-ga="['頻道入口','頻道入口_時尚美妝','頁首_頻道入口']" href="https://style.yahoo.com.tw/">
+            時尚美妝
+           </a>
+          </dd>
+          <dd>
+           <a class="gabtn" data-ga="['頻道入口','頻道入口_折扣城','頁首_頻道入口']" href="https://tw.discount.yahoo.net/index.php?group=all">
+            折扣城
+           </a>
+          </dd>
+         </dl>
+        </div>
+       </li>
+      </ul>
+     </nav>
+    </div>
+    <div id="kv">
+     <div class="content">
+      <div class="_c" id="y_hous_serch">
+       <div id="y_serch_l">
+        <a class="gabtn" data-ga="['電影頻道logo','電影頻道logo_連結','頁首_電影頻道logo']" href="https://movies.yahoo.com.tw/index.html" id="ylogo">
+         <img alt="Yahoo Logo" src="/build/images/header_logo.png" srcset="/build/images/header_logo@2x.png 2x, /build/images/header_logo@3x.png 3x"/>
+        </a>
+        <form action="https://tw.search.yahoo.com/search" method="get" target="_blank">
+         <input autocomplete="off" id="serchinput" name="p" placeholder="搜尋" type="text"/>
+         <div class="inputex" style="visibility:hidden">
+         </div>
+         <button class="serch_movie gabtn" data-ga="['top search','top search_電影明星搜尋','']" data-input="['input','serchinput','']">
+          電影‧明星搜尋
+         </button>
+         <!--20170531-->
+         <button class="gabtn" data-ga="['top search','top search_網頁搜尋','']" data-input="['input','serchinput','']" type="submit">
+          網頁搜尋
+         </button>
+         <!--20170531-->
+         <input id="fr" name="fr" type="hidden" value="ush-movies"/>
+        </form>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- jurisdiction-type: WORLD -->
+    <div id="bg_main_menu">
+     <div class="content">
+      <ul id="mainmenu">
+       <li>
+        <a class="gabtn" data-ga="['選單','選單_首頁','頁首_選單']" href="https://movies.yahoo.com.tw/" target="">
+         <span>
+          首頁
+         </span>
+        </a>
+       </li>
+       <li>
+        <a class="gabtn" data-ga="['選單','選單_本週新片','頁首_選單']" href="https://movies.yahoo.com.tw/movie_thisweek.html" target="">
+         <span>
+          本週新片
+         </span>
+        </a>
+       </li>
+       <li class="select">
+        <a class="gabtn" data-ga="['選單','選單_上映中','頁首_選單']" href="https://movies.yahoo.com.tw/movie_intheaters.html" target="">
+         <span>
+          上映中
+         </span>
+        </a>
+       </li>
+       <li>
+        <a class="gabtn" data-ga="['選單','選單_即將上映','頁首_選單']" href="https://movies.yahoo.com.tw/movie_comingsoon.html" target="">
+         <span>
+          即將上映
+         </span>
+        </a>
+       </li>
+       <li>
+        <a class="gabtn" data-ga="['選單','選單_預告片','頁首_選單']" href="https://movies.yahoo.com.tw/trailer_index.html" target="">
+         <span>
+          預告片
+         </span>
+        </a>
+       </li>
+       <li>
+        <a class="gabtn" data-ga="['選單','選單_排行榜','頁首_選單']" href="https://movies.yahoo.com.tw/chart.html" target="">
+         <span>
+          排行榜
+         </span>
+        </a>
+       </li>
+       <li class="hassub">
+        <a class="gabtn" data-ga="['選單','選單_情報站','頁首_選單']" href="https://movies.yahoo.com.tw/article_index.html" target="">
+         <span>
+          情報站
+         </span>
+        </a>
+        <div class="submenu">
+         <dl class="submenu_inner">
+          <dt>
+           <a class="gabtn" data-ga="['選單','選單_情報站_電影新聞','頁首_選單']" href="https://movies.yahoo.com.tw/tagged/movieheadline" target="">
+            電影新聞
+           </a>
+          </dt>
+          <dt>
+           <a class="gabtn" data-ga="['選單','選單_情報站_專題報導','頁首_選單']" href="https://movies.yahoo.com.tw/tagged/spotlight" target="">
+            專題報導
+           </a>
+          </dt>
+          <dt>
+           <a class="gabtn" data-ga="['選單','選單_情報站_影評','頁首_選單']" href="https://movies.yahoo.com.tw/tagged/moviereview" target="">
+            影評
+           </a>
+          </dt>
+          <dt>
+           <a class="gabtn" data-ga="['選單','選單_情報站_精彩圖片','頁首_選單']" href="https://movies.yahoo.com.tw/tagged/slideshow" target="">
+            精彩圖片
+           </a>
+          </dt>
+          <dt>
+           <a class="gabtn" data-ga="['選單','選單_情報站_懶人卡','頁首_選單']" href="https://tw.youcard.yahoo.com/category/movie" target="_blank">
+            懶人卡
+           </a>
+          </dt>
+         </dl>
+        </div>
+       </li>
+       <li>
+        <a class="gabtn" data-ga="['選單','選單_電視時刻','頁首_選單']" href="https://movies.yahoo.com.tw/tv_index.html" target="">
+         <span>
+          電視時刻
+         </span>
+        </a>
+       </li>
+      </ul>
+      <dl id="sharebox">
+       <dt>
+        追蹤我們
+       </dt>
+       <dd class="gabtn" data-ga="['選單','選單_追蹤我們','頁首_選單']" onclick="javascript:window.open('https://www.facebook.com/Ymovie/');">
+       </dd>
+      </dl>
+     </div>
+    </div>
+   </header>
+   <!--主內容-->
+   <main>
+    <!--top_ad-->
+    <div class="maincontent ga_release">
+     <div class="boxAD" id="boxMAST">
+     </div>
+     <div class="content _c" id="top_serch">
+      <div data-topserch="0">
+       <div class="tab_serch _c">
+        <div class="tab_hot">
+         <a class="gabtn" data-ga="['search box','search box_熱門1','魔鬼對決']" href="https://movies.yahoo.com.tw/movieinfo_main/魔鬼對決-deliver-us-from-evil-10842" target="">
+          魔鬼對決
+         </a>
+         <a class="gabtn" data-ga="['search box','search box_熱門2','岡田准一']" href="https://movies.yahoo.com.tw/movieinfo_main/椿花散落-samurais-promise-10852" target="">
+          岡田准一
+         </a>
+         <a class="gabtn" data-ga="['search box','search box_熱門3','全面啟動']" href="https://movies.yahoo.com.tw/movieinfo_main/全面啟動10周年紀念版-inception-10867" target="">
+          全面啟動
+         </a>
+        </div>
+        <a class="btn_booking btn_toptxt gabtn" data-ga="['search box','search box_訂票客服中心','']" href="https://www.ezding.com.tw/page/faq/faq.html" target="_blank">
+         訂票客服中心
+        </a>
+        <a class="btn_all btn_toptxt gabtn" data-ga="['search box','search box_戲院總覽','']" href="https://movies.yahoo.com.tw/theater_list.html">
+         戲院總覽
+        </a>
+       </div>
+       <span data-url="https://movies.yahoo.com.tw" id="mainURL">
+       </span>
+       <span data-type="0" id="searchType">
+       </span>
+       <div class="tab_serchbar">
+        <div class="icon_serch">
+        </div>
+        <select id="movie_time" name="search_type">
+         <option value="0">
+          電影時刻
+         </option>
+         <option value="1">
+          電視時刻
+         </option>
+         <option value="2">
+          快速訂票
+         </option>
+         <option value="3">
+          電影/明星搜尋
+         </option>
+        </select>
+        <!--tab_serchbar  style0-->
+        <div class="top_change" data-change="0" style="">
+         <form action="https://movies.yahoo.com.tw/movietime_result.html" id="form_moviearea" method="get">
+          <span>
+           選擇
+           <br/>
+           片名
+          </span>
+          <select class="movie_name" id="sbox_mid" name="movie_id">
+           <option value="">
+            請選擇片名
+           </option>
+           <option data-name="全面啟動10周年紀念版" value="10867">
+            全面啟動10周年紀念版
+           </option>
+           <option data-name="天劫倒數" value="10850">
+            天劫倒數
+           </option>
+           <option data-name="魔鬼對決" value="10842">
+            魔鬼對決
+           </option>
+           <option data-name="皮行者" value="10794">
+            皮行者
+           </option>
+           <option data-name="逆者" value="10875">
+            逆者
+           </option>
+           <option data-name="巴亞拉魔幻冒險" value="10851">
+            巴亞拉魔幻冒險
+           </option>
+           <option data-name="隱藏的畫家" value="10841">
+            隱藏的畫家
+           </option>
+           <option data-name="地下社會" value="10840">
+            地下社會
+           </option>
+           <option data-name="Perfect World ~和你在一起的奇蹟~" value="10832">
+            Perfect World ~和你在一起的奇蹟~
+           </option>
+           <option data-name="心靈咖啡館的驅魔師" value="10830">
+            心靈咖啡館的驅魔師
+           </option>
+           <option data-name="6號鬼病床" value="10826">
+            6號鬼病床
+           </option>
+           <option data-name="家靈" value="10798">
+            家靈
+           </option>
+           <option data-name="陰眼" value="10795">
+            陰眼
+           </option>
+           <option data-name="哈囉少女" value="10780">
+            哈囉少女
+           </option>
+           <option data-name="怪胎" value="10733">
+            怪胎
+           </option>
+           <option data-name="原本以為只是手機掉了2：被囚禁的殺人魔" value="10713">
+            原本以為只是手機掉了2：被囚禁的殺人魔
+           </option>
+           <option data-name="拉麵狂" value="9861">
+            拉麵狂
+           </option>
+           <option data-name="記憶拼圖：20週年數位修復" value="10849">
+            記憶拼圖：20週年數位修復
+           </option>
+           <option data-name="追殺艾娃" value="10821">
+            追殺艾娃
+           </option>
+           <option data-name="魔鬼剋星2(1989)" value="10836">
+            魔鬼剋星2(1989)
+           </option>
+           <option data-name="阿紫" value="10828">
+            阿紫
+           </option>
+           <option data-name="雙面追緝" value="10824">
+            雙面追緝
+           </option>
+           <option data-name="愛回來的那7天" value="10820">
+            愛回來的那7天
+           </option>
+           <option data-name="我們仍未知道那天所看見的花名 劇場版" value="10818">
+            我們仍未知道那天所看見的花名 劇場版
+           </option>
+           <option data-name="ID4星際終結者" value="10807">
+            ID4星際終結者
+           </option>
+           <option data-name="北海小英雄" value="10806">
+            北海小英雄
+           </option>
+           <option data-name="守靈魘" value="10805">
+            守靈魘
+           </option>
+           <option data-name="失眠的北風吹來愛情" value="10790">
+            失眠的北風吹來愛情
+           </option>
+           <option data-name="派遣死神事件簿" value="10750">
+            派遣死神事件簿
+           </option>
+           <option data-name="日間演奏會散場時" value="10245">
+            日間演奏會散場時
+           </option>
+           <option data-name="鋼鐵雨：深潛行動" value="10838">
+            鋼鐵雨：深潛行動
+           </option>
+           <option data-name="超危險駕駛" value="10712">
+            超危險駕駛
+           </option>
+           <option data-name="《新天堂樂園》30週年數位修復版" value="10825">
+            《新天堂樂園》30週年數位修復版
+           </option>
+           <option data-name="淒厲人僧前傳" value="10822">
+            淒厲人僧前傳
+           </option>
+           <option data-name="盧貝松之聖女貞德： 數位修復版" value="10815">
+            盧貝松之聖女貞德： 數位修復版
+           </option>
+           <option data-name="野雀之詩" value="10808">
+            野雀之詩
+           </option>
+           <option data-name="曼哈頓戀舞曲" value="10802">
+            曼哈頓戀舞曲
+           </option>
+           <option data-name="戀夏時光" value="10797">
+            戀夏時光
+           </option>
+           <option data-name="星之彩" value="10793">
+            星之彩
+           </option>
+           <option data-name="屍人診所" value="10792">
+            屍人診所
+           </option>
+           <option data-name="致命窺弒" value="10753">
+            致命窺弒
+           </option>
+           <option data-name="魔王的女兒" value="10730">
+            魔王的女兒
+           </option>
+           <option data-name="翻供" value="10788">
+            翻供
+           </option>
+           <option data-name="不丹是教室" value="10789">
+            不丹是教室
+           </option>
+           <option data-name="藍色恐懼：數位修復版" value="10775">
+            藍色恐懼：數位修復版
+           </option>
+           <option data-name="綠光 經典數位修復" value="10686">
+            綠光 經典數位修復
+           </option>
+           <option data-name="屍速列車：感染半島" value="10608">
+            屍速列車：感染半島
+           </option>
+           <option data-name="打噴嚏" value="5350">
+            打噴嚏
+           </option>
+           <option data-name="里斯本的故事 25周年4K修復版" value="10779">
+            里斯本的故事 25周年4K修復版
+           </option>
+           <option data-name="沉默的羔羊" value="10745">
+            沉默的羔羊
+           </option>
+           <option data-name="角落小夥伴電影版：魔法繪本裡的新朋友" value="10647">
+            角落小夥伴電影版：魔法繪本裡的新朋友
+           </option>
+           <option data-name="捕魔網" value="10727">
+            捕魔網
+           </option>
+           <option data-name="阿基拉" value="10710">
+            阿基拉
+           </option>
+           <option data-name="失控特工" value="10734">
+            失控特工
+           </option>
+           <option data-name="銀翼殺手最終版" value="10732">
+            銀翼殺手最終版
+           </option>
+           <option data-name="決戰最前線" value="10699">
+            決戰最前線
+           </option>
+           <option data-name="深海擴散" value="10697">
+            深海擴散
+           </option>
+           <option data-name="親愛陌生人" value="10643">
+            親愛陌生人
+           </option>
+           <option data-name="婚姻大崩壞" value="10534">
+            婚姻大崩壞
+           </option>
+           <option data-name="愛美獎行動" value="10600">
+            愛美獎行動
+           </option>
+           <option data-name="雙面遊戲" value="10642">
+            雙面遊戲
+           </option>
+           <option data-name="謊畫情人" value="10577">
+            謊畫情人
+           </option>
+           <option data-name="靠北少女" value="10575">
+            靠北少女
+           </option>
+           <option data-name="1/2的魔法" value="10505">
+            1/2的魔法
+           </option>
+           <option data-name="末代皇帝" value="10640">
+            末代皇帝
+           </option>
+           <option data-name="奪命隧道" value="10599">
+            奪命隧道
+           </option>
+           <option data-name="海邊走走" value="10495">
+            海邊走走
+           </option>
+           <option data-name="陪你玩最大" value="10602">
+            陪你玩最大
+           </option>
+           <option data-name="壞教育" value="10617">
+            壞教育
+           </option>
+           <option data-name="美好拾光公司" value="10541">
+            美好拾光公司
+           </option>
+           <option data-name="海上鋼琴師4K數位修復" value="10613">
+            海上鋼琴師4K數位修復
+           </option>
+           <option data-name="鑰命監獄" value="10579">
+            鑰命監獄
+           </option>
+           <option data-name="女聲我最美" value="10528">
+            女聲我最美
+           </option>
+           <option data-name="間諜速成班" value="10538">
+            間諜速成班
+           </option>
+           <option data-name="魔髮精靈唱遊世界" value="10466">
+            魔髮精靈唱遊世界
+           </option>
+           <option data-name="迷雁返家路" value="10533">
+            迷雁返家路
+           </option>
+           <option data-name="最初的晚餐" value="10510">
+            最初的晚餐
+           </option>
+           <option data-name="刺激1995" value="10518">
+            刺激1995
+           </option>
+           <option data-name="血衛" value="10469">
+            血衛
+           </option>
+           <option data-name="女鬼橋" value="10437">
+            女鬼橋
+           </option>
+           <option data-name="音速小子" value="9246">
+            音速小子
+           </option>
+           <option data-name="紅鞋公主與七矮人" value="10417">
+            紅鞋公主與七矮人
+           </option>
+           <option data-name="1917" value="10189">
+            1917
+           </option>
+           <option data-name="杜立德" value="10316">
+            杜立德
+           </option>
+           <option data-name="變身特務" value="9008">
+            變身特務
+           </option>
+           <option data-name="巧虎電影：英雄遊樂園" value="10429">
+            巧虎電影：英雄遊樂園
+           </option>
+           <option data-name="鬼船瑪麗號" value="10265">
+            鬼船瑪麗號
+           </option>
+           <option data-name="AI終結戰" value="10057">
+            AI終結戰
+           </option>
+           <option data-name="鎖命危機" value="9251">
+            鎖命危機
+           </option>
+           <option data-name="地下社會." value="5759">
+            地下社會.
+           </option>
+           <option data-name="一首搖滾上月球" value="4887">
+            一首搖滾上月球
+           </option>
+           <option data-name="錢不夠用2" value="3026">
+            錢不夠用2
+           </option>
+          </select>
+          <span>
+           選擇
+           <br/>
+           地區
+          </span>
+          <select class="movie_area" id="sbox_aid" name="area_id">
+          </select>
+          <div class="btn_serch gabtn" data-ga="['search box','search box_電影時刻','']" data-input="['select','sbox_mid','sbox_aid']">
+           查詢
+          </div>
+         </form>
+        </div>
+        <!--tab_serchbar  style1-->
+        <div class="top_change" data-change="1" style="display:none;">
+         <form action="https://movies.yahoo.com.tw/tv_channels.html" id="form_catechannel" method="get" style="display:inline;">
+          <span>
+           選擇
+           <br/>
+           分類
+          </span>
+          <select class="movie_theater" id="sbox_cid" name="tv_category_id">
+           <option value="">
+            請選擇分類
+           </option>
+           <option data-name="西片" value="1">
+            西片
+           </option>
+           <option data-name="國片" value="2">
+            國片
+           </option>
+           <option data-name="戲劇" value="3">
+            戲劇
+           </option>
+           <option data-name="體育" value="4">
+            體育
+           </option>
+           <option data-name="綜合" value="5">
+            綜合
+           </option>
+           <option data-name="知性" value="6">
+            知性
+           </option>
+           <option data-name="日本" value="7">
+            日本
+           </option>
+           <option data-name="音樂" value="8">
+            音樂
+           </option>
+           <option data-name="卡通" value="9">
+            卡通
+           </option>
+           <option data-name="新聞" value="10">
+            新聞
+           </option>
+           <option data-name="財經" value="11">
+            財經
+           </option>
+           <option data-name="宗教" value="12">
+            宗教
+           </option>
+          </select>
+          <span>
+           選擇
+           <br/>
+           頻道
+          </span>
+          <select class="movie_name" id="sbox_chid" name="channel">
+          </select>
+          <div class="btn_serch gabtn" data-ga="['search box','search box_電視時刻','']" data-input="['select','sbox_cid','sbox_chid']">
+           查詢
+          </div>
+         </form>
+         <form action="https://movies.yahoo.com.tw/tvtime_result.html" id="form_channelname" method="get" style="display:inline;">
+          <input autocomplete="off" class="tvserch" id="tv_channel_name" name="tv_channel_name" onblur="this.placeholder='電視節目查詢'" onfocus="this.placeholder=''" onkeypress="chlSearchForm(event);" placeholder="電視節目查詢" type="text"/>
+          <div class="btn_serch gabtn" data-ga="['search box','search box_電視節目查詢','']" data-input="['input','sbox_cname','']">
+           查詢
+          </div>
+         </form>
+        </div>
+        <!--tab_serchbar  style2-->
+        <div class="top_change" data-change="2" style="display:none;">
+         <form action="https://www.ezding.com.tw/page/booking/index.html?channel=yahoo&amp;campaign_code=yahoopc" id="form_movieticket" method="get">
+          <span>
+           選擇
+           <br/>
+           戲院
+          </span>
+          <select class="movie_theater" id="sbox_tid" name="cinemaId">
+           <option value="">
+            請選擇戲院
+           </option>
+           <option value="40288eb0050f542401050f554e7e0674">
+            台北信義威秀影城
+           </option>
+           <option value="46efa950eafa11e38b12987bdb90dba4">
+            台北樂聲影城
+           </option>
+           <option value="470e99e70b5611eaa91e06ba2bcebcfa">
+            MUVIE CINEMAS台北松仁威秀
+           </option>
+           <option value="40288eb0050f542401050f5681782dc5">
+            喜樂時代影城南港店
+           </option>
+           <option value="e9c365f27f4e11e494ae8b4ddf78b93a">
+            台北in89豪華數位影城
+           </option>
+           <option value="4c163aba9c5311e494ae8b4ddf78b93a">
+            台北新民生戲院
+           </option>
+           <option value="40288eb0050f542401050f55532606b5">
+            喜滿客絕色影城
+           </option>
+           <option value="5f60dacd-45b3-102d-8d74-e400529c">
+            台北京站威秀影城
+           </option>
+           <option value="40288eb0050f542401050f551a8a48c3">
+            台北日新威秀影城
+           </option>
+           <option value="40288eb0050f31210ada0f55676b1bbc">
+            台北美麗華大直影城
+           </option>
+           <option value="f644412efbb811e58858f2128151146f">
+            台北真善美劇院
+           </option>
+           <option value="b020ba50fbc811e58858f2128151146f">
+            梅花數位影城
+           </option>
+           <option value="cf2b5aa8132f11e6b767a1b123456789">
+            台北新光影城
+           </option>
+           <option value="40288eb0050f542401050f5566201ba4">
+            台北華威天母影城
+           </option>
+           <option value="737ece862a0111e18e86000bdb90dba4">
+            板橋大遠百威秀影城
+           </option>
+           <option value="73544d843cd311e69bb83d0f96c001c2">
+            林口MITSUI OUTLET PARK威秀影城
+           </option>
+           <option value="c072c5c43fc011e9a245782bcb259cad">
+            喜樂時代影城永和店
+           </option>
+           <option value="5d4b59f567ac11e7a6b1061be09fe071">
+            桃園in89統領影城
+           </option>
+           <option value="c256b670b10811e8959e782bcb259cad">
+            桃園統領威秀影城
+           </option>
+           <option value="43e1c5fc8abc4cb7ae03d061f892d7ab">
+            桃園新光影城
+           </option>
+           <option value="4f9fbbac7a2d11e18e86000bdb90dba4">
+            新竹巨城威秀影城
+           </option>
+           <option value="40288eb0050f542401050f5573651ca2">
+            新竹大遠百威秀影城
+           </option>
+           <option value="883ddebefe9e11e49e5e8d16c6a1d23a">
+            頭份尚順威秀影城
+           </option>
+           <option value="40288eb0050f542401050f5576601cdc">
+            台中Tiger City威秀影城
+           </option>
+           <option value="84599c0a220d11e18e86000bdb90dba4">
+            台中大遠百威秀影城
+           </option>
+           <option value="5307fea6405811e392f7000bdb90dba4">
+            台中華威台中影城
+           </option>
+           <option value="9fa318f9c99f4f6987a46efc5e3f50f2">
+            台中新光影城
+           </option>
+           <option value="9f1b3df8f0a44110ab9412513c546d33">
+            台中新時代凱擘影城
+           </option>
+           <option value="7ff29bea908122e9060e893bcb360cad">
+            台中豐原in89豪華影城
+           </option>
+           <option value="370b0003943222e8a7b2172be10fe182">
+            台南FOCUS威秀影城
+           </option>
+           <option value="c3ab0cdc8cad11e494ae8b4ddf78b93a">
+            台南南紡威秀影城
+           </option>
+           <option value="a6f9c512bec5463183d3d7eaec37fb42">
+            台南新光影城
+           </option>
+           <option value="5d4b59f597ac11e7a6b1091be09fe001">
+            台南真善美劇院
+           </option>
+           <option value="40288eb0050f542401050f557dfc1d65">
+            台南大遠百威秀影城
+           </option>
+           <option value="40288eb0050f542401050f5581582dc5">
+            喜滿客夢時代影城
+           </option>
+           <option value="40288eb0050f542401050f5582141dac">
+            高雄大遠百威秀影城
+           </option>
+           <option value="44f76448bf2511e59a5d4b53bcb866d6">
+            高雄in89駁二電影院
+           </option>
+           <option value="2c28121ae2c711e292f7000bdb90dba4">
+            中影屏東影城
+           </option>
+           <option value="e8bf57d61edb11e9a245782bcb259cad">
+            花蓮新天堂樂園威秀影城
+           </option>
+           <option value="6ff18bea897011e8959e782bcb259cad">
+            澎湖in89豪華影城
+           </option>
+          </select>
+          <span>
+           選擇
+           <br/>
+           片名
+          </span>
+          <select class="movie_name" id="sbox_tmid" name="movieId">
+          </select>
+          <span>
+           選擇
+           <br/>
+           日期
+          </span>
+          <select class="movie_day" name="showDate">
+          </select>
+          <span>
+           選擇
+           <br/>
+           場次
+          </span>
+          <select class="movie_screenings" name="session">
+          </select>
+          <span>
+           選擇
+           <br/>
+           數量
+          </span>
+          <select class="movie_amount" name="ticketQuantity">
+          </select>
+          <div class="btn_serch gabtn" data-ga="['search box','search box_快速訂票','']" data-input="['select','sbox_tid','sbox_tmid']">
+           查詢
+          </div>
+         </form>
+        </div>
+        <!--tab_serchbar  style3-->
+        <div class="top_change" data-change="3" style="display:none;">
+         <form action="https://movies.yahoo.com.tw/moviesearch_result.html" id="form_starsearch" method="get">
+          <input autocomplete="off" class="starserch" id="starserch" name="keyword" onblur="this.placeholder='電影/ 明星搜尋'" onfocus="this.placeholder=''" placeholder="電影 / 明星搜尋" type="text"/>
+          <div class="inputex" style="visibility:hidden">
+          </div>
+          <div class="btn_serch gabtn" data-ga="['search box','search box_電影明星搜尋','']" data-input="['input','starserch','']">
+           查詢
+          </div>
+         </form>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="content _c" id="container">
+      <div id="content_r">
+       <!--AD 300X250-->
+       <!-- if $exist diff with 0 will removed from module section -->
+       <div class="top_ad_300_250 r_box" data-ad="LREC" id="boxLREC">
+       </div>
+       <!--AD 300X100-->
+       <div class="ad_300_250 r_box" data-ad="NP1" id="boxNP1">
+       </div>
+       <!--電影排行榜-->
+       <div class="r_box _c">
+        <div class="title">
+         <span>
+          電影排行榜
+         </span>
+        </div>
+        <div class="r_box_inner">
+         <ul class="tabbox_btn_r">
+          <li class="select" data-id="list1">
+           台北票房榜
+          </li>
+          <li data-id="list2">
+           全美票房榜
+          </li>
+          <li data-id="list3">
+           預告片榜
+          </li>
+         </ul>
+         <div class="ranking_inner_r">
+          <div class="tab-content">
+           <div class="tab-pane" id="list1">
+            <div class="ranking_top_info_r _c">
+             <div class="ranking_top_info_img_r">
+              <a class="gabtn" data-ga="['電影排行榜','電影排行榜_台北票房榜','屍速列車：感染半島']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%B1%8D%E9%80%9F%E5%88%97%E8%BB%8A-%E6%84%9F%E6%9F%93%E5%8D%8A%E5%B3%B6-peninsula-10608">
+               <img alt="" src="https://movies.yahoo.com.tw/x/r/w420/i/o/production/movies/July2020/pKBfthQIekNEK9Gn4hMu-993x1418.JPG"/>
+              </a>
+             </div>
+             <div class="ranking_top_info_inner_r">
+              <a class="gabtn" data-ga="['電影排行榜','電影排行榜_台北票房榜','屍速列車：感染半島']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%B1%8D%E9%80%9F%E5%88%97%E8%BB%8A-%E6%84%9F%E6%9F%93%E5%8D%8A%E5%B3%B6-peninsula-10608">
+               屍速列車：感染半島
+              </a>
+              <span class="text_truncate_4 text_truncate_dot">
+               <p>
+                ★2020坎城影展正式入選
+               </p>
+               <p>
+                ★延尚昊導演率《屍速列車》製作團隊斥資220億打造精彩續作
+               </p>
+               <p>
+                ★姜棟元偕影后李貞賢將設法帶眾人逃出喪屍浩劫
+               </p>
+               <p>
+                ★發生在《屍速列車》四年後的故事…
+               </p>
+               <p>
+               </p>
+               <p>
+                4年前，從那場前所未見的災難逃脫的政錫（姜棟元 飾），被指派了無法拒絕的任務，再度重返完全遭外界孤立的朝鮮半島。政錫的任務是必須在限時內確保被指定的貨車，並逃離已成為廢墟的半島。過程中，喪失理性的631部隊和比4年前規模更大、更令人畏懼的活屍大軍們，不斷襲擊政錫一群人。
+               </p>
+               <p>
+               </p>
+               <p>
+                就在危急瞬間，倖存於廢墟之地的敏晶（李貞賢 飾）一家人幫助政錫逃過危機，他們一同把握逃出半島的最後機會。回到半島的人們、苟延殘喘的倖存者以及瘋狂至極的活屍，他們將展開激烈的生死決鬥……
+               </p>
+               <p>
+               </p>
+              </span>
+             </div>
+            </div>
+            <ul class="ranking_list_r">
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_台北票房榜','屍速列車：感染半島']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%B1%8D%E9%80%9F%E5%88%97%E8%BB%8A-%E6%84%9F%E6%9F%93%E5%8D%8A%E5%B3%B6-peninsula-10608">
+              <li class="select">
+               <div class="num">
+                1
+               </div>
+               <span>
+                屍速列車：感染半島
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_台北票房榜','追殺艾娃']" href="https://movies.yahoo.com.tw/movieinfo_main/%E8%BF%BD%E6%AE%BA%E8%89%BE%E5%A8%83-ava-10821">
+              <li class="">
+               <div class="num">
+                2
+               </div>
+               <span>
+                追殺艾娃
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_台北票房榜','怪胎']" href="https://movies.yahoo.com.tw/movieinfo_main/%E6%80%AA%E8%83%8E-i-weir-do-10733">
+              <li class="">
+               <div class="num">
+                3
+               </div>
+               <span>
+                怪胎
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_台北票房榜','鋼鐵雨：深潛行動']" href="https://movies.yahoo.com.tw/movieinfo_main/%E9%8B%BC%E9%90%B5%E9%9B%A8-%E6%B7%B1%E6%BD%9B%E8%A1%8C%E5%8B%95-steel-rain2-summit-10838">
+              <li class="">
+               <div class="num">
+                4
+               </div>
+               <span>
+                鋼鐵雨：深潛行動
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_台北票房榜','翻供']" href="https://movies.yahoo.com.tw/movieinfo_main/%E7%BF%BB%E4%BE%9B-innocence-10788">
+              <li class="">
+               <div class="num">
+                5
+               </div>
+               <span>
+                翻供
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_台北票房榜','超危險駕駛']" href="https://movies.yahoo.com.tw/movieinfo_main/%E8%B6%85%E5%8D%B1%E9%9A%AA%E9%A7%95%E9%A7%9B-unhinged-10712">
+              <li class="">
+               <div class="num">
+                6
+               </div>
+               <span>
+                超危險駕駛
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_台北票房榜','角落小夥伴電影版：魔法繪本裡的新朋友']" href="https://movies.yahoo.com.tw/movieinfo_main/%E8%A7%92%E8%90%BD%E5%B0%8F%E5%A4%A5%E4%BC%B4%E9%9B%BB%E5%BD%B1%E7%89%88-%E9%AD%94%E6%B3%95%E7%B9%AA%E6%9C%AC%E8%A3%A1%E7%9A%84%E6%96%B0%E6%9C%8B%E5%8F%8B-sumikkogurashi-good-to-be-in-the-corner-10647">
+              <li class="">
+               <div class="num">
+                7
+               </div>
+               <span>
+                角落小夥伴電影版：魔法繪本裡的新朋友
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_台北票房榜','記憶拼圖']" href="https://movies.yahoo.com.tw/movieinfo_main/%E8%A8%98%E6%86%B6%E6%8B%BC%E5%9C%96-20%E9%80%B1%E5%B9%B4%E6%95%B8%E4%BD%8D%E4%BF%AE%E5%BE%A9-memento-10849">
+              <li class="">
+               <div class="num">
+                8
+               </div>
+               <span>
+                記憶拼圖
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_台北票房榜','心靈咖啡館的驅魔師']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%BF%83%E9%9D%88%E5%92%96%E5%95%A1%E9%A4%A8%E7%9A%84%E9%A9%85%E9%AD%94%E5%B8%AB-the-real-exorcist-10830">
+              <li class="">
+               <div class="num">
+                9
+               </div>
+               <span>
+                心靈咖啡館的驅魔師
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_台北票房榜','6號鬼病床']" href="https://movies.yahoo.com.tw/movieinfo_main/6%E8%99%9F%E9%AC%BC%E7%97%85%E5%BA%8A-bed-number-6-10826">
+              <li class="">
+               <div class="num">
+                10
+               </div>
+               <span>
+                6號鬼病床
+               </span>
+              </li>
+             </a>
+            </ul>
+            <div class="rankin_time_r">
+             統計時間 : 2020-08-08~2020-08-09
+            </div>
+           </div>
+           <div class="tab-pane" id="list2">
+            <div class="ranking_top_info_r _c">
+             <div class="ranking_top_info_img_r">
+              <img alt="" src="/build/images/blank_poster.jpg"/>
+             </div>
+             <div class="ranking_top_info_inner_r">
+              <h2>
+               The Tax Collector
+              </h2>
+              <span>
+              </span>
+             </div>
+            </div>
+            <ul class="ranking_list_r">
+             <li class="select unclick">
+              <div class="num">
+               1
+              </div>
+              <span>
+               The Tax Collector
+              </span>
+             </li>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_全美票房榜','致命窺弒']" href="https://movies.yahoo.com.tw/movieinfo_main/%E8%87%B4%E5%91%BD%E7%AA%BA%E5%BC%92-the-rental-10753">
+              <li class="">
+               <div class="num">
+                2
+               </div>
+               <span>
+                致命窺弒
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_全美票房榜','屍速列車：感染半島']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%B1%8D%E9%80%9F%E5%88%97%E8%BB%8A-%E6%84%9F%E6%9F%93%E5%8D%8A%E5%B3%B6-peninsula-10608">
+              <li class="">
+               <div class="num">
+                3
+               </div>
+               <span>
+                屍速列車：感染半島
+               </span>
+              </li>
+             </a>
+             <li class="unclick">
+              <div class="num">
+               4
+              </div>
+              <span>
+               The Big Ugly
+              </span>
+             </li>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_全美票房榜','下一站，托斯卡尼']" href="https://movies.yahoo.com.tw/movieinfo_main/%E4%B8%8B%E4%B8%80%E7%AB%99-%E6%89%98%E6%96%AF%E5%8D%A1%E5%B0%BC-made-in-italy-10817">
+              <li class="">
+               <div class="num">
+                5
+               </div>
+               <span>
+                下一站，托斯卡尼
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_全美票房榜','謊畫情人']" href="https://movies.yahoo.com.tw/movieinfo_main/%E8%AC%8A%E7%95%AB%E6%83%85%E4%BA%BA-the-burnt-orange-heresy-10577">
+              <li class="">
+               <div class="num">
+                6
+               </div>
+               <span>
+                謊畫情人
+               </span>
+              </li>
+             </a>
+             <li class="unclick">
+              <div class="num">
+               7
+              </div>
+              <span>
+               Juvenile Delinquents: New World Order
+              </span>
+             </li>
+             <li class="unclick">
+              <div class="num">
+               8
+              </div>
+              <span>
+               The Grizzlies
+              </span>
+             </li>
+             <li class="unclick">
+              <div class="num">
+               9
+              </div>
+              <span>
+               What We Found
+              </span>
+             </li>
+             <li class="unclick">
+              <div class="num">
+               10
+              </div>
+              <span>
+               Killer Raccoons 2: Dark Christmas in the Dark
+              </span>
+             </li>
+            </ul>
+            <div class="rankin_time_r">
+             統計時間 : 2020-08-07~2020-08-09
+            </div>
+           </div>
+           <div class="tab-pane" id="list3">
+            <div class="ranking_top_info_r _c">
+             <div class="ranking_top_info_img_r">
+              <a class="gabtn" data-ga="['電影排行榜','電影排行榜_預告片榜','TENET天能']" href="https://movies.yahoo.com.tw/movieinfo_main/TENET%E5%A4%A9%E8%83%BD-tenet-10433">
+               <img alt="" src="https://movies.yahoo.com.tw/x/r/w420/i/o/production/movies/July2020/BcBbypwSLOrhbN6eMbcA-486x720.jpg"/>
+              </a>
+             </div>
+             <div class="ranking_top_info_inner_r">
+              <a class="gabtn" data-ga="['電影排行榜','電影排行榜_預告片榜','TENET天能']" href="https://movies.yahoo.com.tw/movieinfo_main/TENET%E5%A4%A9%E8%83%BD-tenet-10433">
+               TENET天能
+              </a>
+              <span class="text_truncate_4 text_truncate_dot">
+               <p>
+                諾蘭導演的全新鉅作《TENET天能》演員卡司包括約翰大衛華盛頓、羅伯派汀森、伊莉莎白戴比姬、亞倫泰勒強森，肯尼斯布萊納和米高肯恩。
+               </p>
+              </span>
+             </div>
+            </div>
+            <ul class="ranking_list_r">
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_預告片榜','TENET天能']" href="https://movies.yahoo.com.tw/movieinfo_main/TENET%E5%A4%A9%E8%83%BD-tenet-10433">
+              <li class="select">
+               <div class="num">
+                1
+               </div>
+               <span>
+                TENET天能
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_預告片榜','可不可以，你也剛好喜歡我']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%8F%AF%E4%B8%8D%E5%8F%AF%E4%BB%A5-%E4%BD%A0%E4%B9%9F%E5%89%9B%E5%A5%BD%E5%96%9C%E6%AD%A1%E6%88%91-do-you-love-me-as-i-love-you-10473">
+              <li class="">
+               <div class="num">
+                2
+               </div>
+               <span>
+                可不可以，你也剛好喜歡我
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_預告片榜','怪胎']" href="https://movies.yahoo.com.tw/movieinfo_main/%E6%80%AA%E8%83%8E-i-weir-do-10733">
+              <li class="">
+               <div class="num">
+                3
+               </div>
+               <span>
+                怪胎
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_預告片榜','鋼鐵雨：深潛行動']" href="https://movies.yahoo.com.tw/movieinfo_main/%E9%8B%BC%E9%90%B5%E9%9B%A8-%E6%B7%B1%E6%BD%9B%E8%A1%8C%E5%8B%95-steel-rain2-summit-10838">
+              <li class="">
+               <div class="num">
+                4
+               </div>
+               <span>
+                鋼鐵雨：深潛行動
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_預告片榜','逃出立法院']" href="https://movies.yahoo.com.tw/movieinfo_main/%E9%80%83%E5%87%BA%E7%AB%8B%E6%B3%95%E9%99%A2-get-the-hell-out-10535">
+              <li class="">
+               <div class="num">
+                5
+               </div>
+               <span>
+                逃出立法院
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_預告片榜','超危險駕駛']" href="https://movies.yahoo.com.tw/movieinfo_main/%E8%B6%85%E5%8D%B1%E9%9A%AA%E9%A7%95%E9%A7%9B-unhinged-10712">
+              <li class="">
+               <div class="num">
+                6
+               </div>
+               <span>
+                超危險駕駛
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_預告片榜','變種人']" href="https://movies.yahoo.com.tw/movieinfo_main/%E8%AE%8A%E7%A8%AE%E4%BA%BA-the-new-mutants-10452">
+              <li class="">
+               <div class="num">
+                7
+               </div>
+               <span>
+                變種人
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_預告片榜','看不見的證人']" href="https://movies.yahoo.com.tw/movieinfo_main/%E7%9C%8B%E4%B8%8D%E8%A6%8B%E7%9A%84%E8%AD%89%E4%BA%BA-invisible-evidence-10873">
+              <li class="">
+               <div class="num">
+                8
+               </div>
+               <span>
+                看不見的證人
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_預告片榜','北海小英雄']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%8C%97%E6%B5%B7%E5%B0%8F%E8%8B%B1%E9%9B%84-vic-viking-10806">
+              <li class="">
+               <div class="num">
+                9
+               </div>
+               <span>
+                北海小英雄
+               </span>
+              </li>
+             </a>
+             <a class="gabtn" data-ga="['電影排行榜','電影排行榜_預告片榜','天劫倒數']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%A4%A9%E5%8A%AB%E5%80%92%E6%95%B8-greenland-10850">
+              <li class="">
+               <div class="num">
+                10
+               </div>
+               <span>
+                天劫倒數
+               </span>
+              </li>
+             </a>
+            </ul>
+            <div class="rankin_time_r">
+             統計時間 : 2020-08-12
+            </div>
+           </div>
+          </div>
+          <div class="btn_plus_more gabtn rk" data-ga="['電影排行榜','電影排行榜_台北票房榜_看更多','']">
+           <a href="https://movies.yahoo.com.tw/chart.html">
+            <div class="plus">
+            </div>
+            看更多
+           </a>
+          </div>
+          <div class="btn_plus_more gabtn rk" data-ga="['電影排行榜','電影排行榜_全美票房榜_看更多','']">
+           <a href="https://movies.yahoo.com.tw/chart.html?cate=us">
+            <div class="plus">
+            </div>
+            看更多
+           </a>
+          </div>
+          <div class="btn_plus_more gabtn rk" data-ga="['電影排行榜','電影排行榜_預告片榜_看更多','']">
+           <a href="https://movies.yahoo.com.tw/chart.html?cate=trailer">
+            <div class="plus">
+            </div>
+            看更多
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+       <!--懶人卡-->
+       <div class="r_box _c">
+        <div class="title">
+         <span>
+          懶人卡
+         </span>
+        </div>
+        <div class="r_box_inner">
+         <div class="lazy_card_r">
+          <dl>
+           <dt>
+            <div class="lazy_card_inner_r">
+             <a class="gabtn" data-ga="['懶人卡','','']" href="https://tw.youcard.yahoo.com/cardstack/5147a660-db9d-11ea-b2b0-2d5daf8e1863" target="_blank">
+              <div class="foto">
+               <img alt="" src="https://img.ltn.com.tw/2014/new/aug/13/images/bigPic/600_41.jpg"/>
+              </div>
+              <div class="lazy_card_info_r">
+               <div class="lazy_txt">
+                才不會忘記你！緬懷羅賓威廉斯的10個電影角色
+               </div>
+               <span>
+                艾莫西
+               </span>
+              </div>
+             </a>
+            </div>
+           </dt>
+           <dd>
+            <div class="lazy_card_inner_r">
+             <a class="gabtn" data-ga="['懶人卡','','']" href="https://tw.youcard.yahoo.com/cardstack/40985010-da64-11ea-8f96-c1a57b548d4a" target="_blank">
+              <div class="foto">
+               <img alt="" src="https://movies.yahoo.com.tw/x/r/w123/i/o/production/movies/July2020/YfINby71ShR2n7vLJJtp-400x572.jpg"/>
+              </div>
+              <div class="lazy_card_info_r">
+               <div class="lazy_txt">
+                《全面啟動》十周年紀念版再度重映 七件你可能不知道的事
+               </div>
+               <span>
+                秋子
+               </span>
+              </div>
+             </a>
+            </div>
+           </dd>
+          </dl>
+         </div>
+         <div class="btn_plus_more">
+          <a class="gabtn" data-ga="['懶人卡','懶人卡_看更多','']" href="https://tw.youcard.yahoo.com/category/movie" target="_blank">
+           <div class="plus">
+           </div>
+           看更多
+          </a>
+         </div>
+        </div>
+       </div>
+       <!--AD 300X250-->
+       <div class="ad_300_250 r_box" data-ad="LREC3" id="boxLREC3">
+        <div id="tgtLREC3">
+        </div>
+       </div>
+       <!--FB-->
+       <div class="fb r_box">
+       </div>
+       <!--你最近瀏覽的電影-->
+       <div class="r_box _c">
+        <div class="title">
+         <span>
+          你最近瀏覽的電影
+         </span>
+        </div>
+        <div class="r_box_inner">
+         <ul class="recently_viewed">
+         </ul>
+        </div>
+       </div>
+       <div>
+       </div>
+      </div>
+      <div id="content_l">
+       <div class="title">
+        <h1>
+         上映中
+        </h1>
+       </div>
+       <div class="release_box">
+        <div class="release_time _c">
+         <span>
+          上映日期：2020-08-07
+         </span>
+         <p>
+          共94筆，目前顯示1~10筆
+         </p>
+        </div>
+        <ul class="release_list">
+         <li>
+          <div class="release_foto">
+           <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','拉麵狂']" href="https://movies.yahoo.com.tw/movieinfo_main/%E6%8B%89%E9%BA%B5%E7%8B%82-ramen-heads-9861">
+            <img alt="" src="https://movies.yahoo.com.tw/x/r/w420/i/o/production/movies/July2020/Z8XEpe9utvLsTl6VOX0r-504x720.JPG"/>
+           </a>
+          </div>
+          <div class="release_info">
+           <div class="release_info_text">
+            <div class="release_movie_name">
+             <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','拉麵狂']" href="https://movies.yahoo.com.tw/movieinfo_main/%E6%8B%89%E9%BA%B5%E7%8B%82-ramen-heads-9861">
+              拉麵狂
+             </a>
+             <div class="en">
+              <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','拉麵狂']" href="https://movies.yahoo.com.tw/movieinfo_main/%E6%8B%89%E9%BA%B5%E7%8B%82-ramen-heads-9861">
+               Ramen Heads
+              </a>
+             </div>
+             <dl class="levelbox">
+              <dt>
+               <div class="level_name">
+                期待度
+               </div>
+               <div class="leveltext">
+                <span>
+                 69%
+                </span>
+                網友想看
+               </div>
+              </dt>
+              <dd>
+               <div class="level_name">
+                滿意度
+               </div>
+               <div class="leveltext">
+                <span class="count" data-num="4.1" data-run="0">
+                 0
+                </span>
+                綜合評分
+               </div>
+              </dd>
+             </dl>
+            </div>
+            <div class="release_movie_time">
+             上映日期 ： 2020-08-07
+            </div>
+            <div class="release_text">
+             <span class="jq_text_overflow_180 jq_text_overflow_href_list" data-url="https://movies.yahoo.com.tw/movieinfo_main/%E6%8B%89%E9%BA%B5%E7%8B%82-ramen-heads-9861">
+              ★ 「拉麵夢幻隊」 ─ 拉麵王「中華蕎麥TOMI田」富田治、最強醬油拉麵「拉麵屋飯田商店」飯田將太、世界第一碗米其林一星拉麵「Tsuta蔦」大西祐貴，帶你一窺日本的拉麵世界
+★ 2017 Hot Docs加拿大國際紀錄片影展
+★ 2017 釜山國際影展
+★ 2017 美國丹佛電影節
+★ 2017 IDFA阿姆斯特丹國際紀錄片影展
+ 
+「世界上沒有比拉麵狂更瘋狂的人類！」─「日本一」拉麵王 富田治
+ 
+蟬聯四年日本拉麵大賽冠軍的現役拉麵王「中華蕎麥TOMI田」富田治，帶領我們進入日本拉麵的世界，揭露他是如何用一絲不苟的職人精神，打造一碗從湯頭到麵條都近乎完美的拉麵。本片藉由探訪日本拉麵名店職人「拉麵屋飯田商店」飯田將太、「Tsuta蔦」大西祐貴等名人，深入日本拉麵職人的生活，拍攝時間長達15個月，從不同的理念及作法到歷史淵源切入，讓人了解拉麵是如何成為讓日本人為之瘋狂的國民美食。
+             </span>
+            </div>
+           </div>
+           <div class="release_btn color_btnbox">
+            <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','拉麵狂']" href="https://movies.yahoo.com.tw/movieinfo_main/%E6%8B%89%E9%BA%B5%E7%8B%82-ramen-heads-9861">
+             電影介紹
+            </a>
+            <a class="btn_s_vedio gabtn" data-ga="['上映中','上映中_上映中第1頁','拉麵狂']" href="https://movies.yahoo.com.tw/video/%E6%8B%89%E9%BA%B5%E7%8B%82-%E4%B8%AD%E6%96%87%E9%A0%90%E5%91%8A-122505868.html?movie_id=9861">
+             預告片
+            </a>
+            <a class="btn_s_foto" href="https://movies.yahoo.com.tw/movieinfo_photos.html/id=9861">
+             劇照
+            </a>
+            <a class="btn_s_time gabtn" data-ga="['上映中','上映中_上映中第1頁','拉麵狂']" href="https://movies.yahoo.com.tw/movietime_result.html/id=9861">
+             時刻表
+            </a>
+           </div>
+          </div>
+         </li>
+         <li>
+          <div class="release_foto">
+           <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','原本以為只是手機掉了2：被囚禁的殺人魔']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%8E%9F%E6%9C%AC%E4%BB%A5%E7%82%BA%E5%8F%AA%E6%98%AF%E6%89%8B%E6%A9%9F%E6%8E%89%E4%BA%862-%E8%A2%AB%E5%9B%9A%E7%A6%81%E7%9A%84%E6%AE%BA%E4%BA%BA%E9%AD%94-stolen-identity-2-10713">
+            <img alt="" src="https://movies.yahoo.com.tw/x/r/w420/i/o/production/movies/July2020/BPtuXgdL8VM6bYoN8mX3-504x720.JPG"/>
+           </a>
+          </div>
+          <div class="release_info">
+           <div class="release_info_text">
+            <div class="release_movie_name">
+             <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','原本以為只是手機掉了2：被囚禁的殺人魔']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%8E%9F%E6%9C%AC%E4%BB%A5%E7%82%BA%E5%8F%AA%E6%98%AF%E6%89%8B%E6%A9%9F%E6%8E%89%E4%BA%862-%E8%A2%AB%E5%9B%9A%E7%A6%81%E7%9A%84%E6%AE%BA%E4%BA%BA%E9%AD%94-stolen-identity-2-10713">
+              原本以為只是手機掉了2：被囚禁的殺人魔
+             </a>
+             <div class="en">
+              <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','原本以為只是手機掉了2：被囚禁的殺人魔']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%8E%9F%E6%9C%AC%E4%BB%A5%E7%82%BA%E5%8F%AA%E6%98%AF%E6%89%8B%E6%A9%9F%E6%8E%89%E4%BA%862-%E8%A2%AB%E5%9B%9A%E7%A6%81%E7%9A%84%E6%AE%BA%E4%BA%BA%E9%AD%94-stolen-identity-2-10713">
+               Stolen Identity 2
+              </a>
+             </div>
+             <dl class="levelbox">
+              <dt>
+               <div class="level_name">
+                期待度
+               </div>
+               <div class="leveltext">
+                <span>
+                 91%
+                </span>
+                網友想看
+               </div>
+              </dt>
+              <dd>
+               <div class="level_name">
+                滿意度
+               </div>
+               <div class="leveltext">
+                <span class="count" data-num="3.6" data-run="0">
+                 0
+                </span>
+                綜合評分
+               </div>
+              </dd>
+             </dl>
+            </div>
+            <div class="release_movie_time">
+             上映日期 ： 2020-08-07
+            </div>
+            <div class="release_text">
+             <span class="jq_text_overflow_180 jq_text_overflow_href_list" data-url="https://movies.yahoo.com.tw/movieinfo_main/%E5%8E%9F%E6%9C%AC%E4%BB%A5%E7%82%BA%E5%8F%AA%E6%98%AF%E6%89%8B%E6%A9%9F%E6%8E%89%E4%BA%862-%E8%A2%AB%E5%9B%9A%E7%A6%81%E7%9A%84%E6%AE%BA%E4%BA%BA%E9%AD%94-stolen-identity-2-10713">
+              ★ 北川景子《原本以為只是手機掉了》精彩驚悚續作
+★ 千葉雄大 X成田凌 續演原角色，展現極富張力演技
+★「乃木坂46」前成員 白石麻衣飾演千葉雄大女友 
+★ 「手機情侶」北川景子、田中圭特別演出
+ 
+在那起以黑長髮女性為對象的連續殺人事件破案的幾個月後，竟然在案發現場再度發現身分不明的屍體，刑警加賀谷（千葉雄大 飾）因此前去詢問入獄服刑的連續殺人犯．浦野（成田凌 飾）。加賀谷從浦野口中得知，一名存在於暗網中的神祕人物「M」。而此時，竟有一名神祕男子，正在接近加賀谷的女友美乃里（白石麻衣 飾）……
+             </span>
+            </div>
+           </div>
+           <div class="release_btn color_btnbox">
+            <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','原本以為只是手機掉了2：被囚禁的殺人魔']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%8E%9F%E6%9C%AC%E4%BB%A5%E7%82%BA%E5%8F%AA%E6%98%AF%E6%89%8B%E6%A9%9F%E6%8E%89%E4%BA%862-%E8%A2%AB%E5%9B%9A%E7%A6%81%E7%9A%84%E6%AE%BA%E4%BA%BA%E9%AD%94-stolen-identity-2-10713">
+             電影介紹
+            </a>
+            <a class="btn_s_vedio gabtn" data-ga="['上映中','上映中_上映中第1頁','原本以為只是手機掉了2：被囚禁的殺人魔']" href="https://movies.yahoo.com.tw/video/%E5%8E%9F%E6%9C%AC%E4%BB%A5%E7%82%BA%E5%8F%AA%E6%98%AF%E6%89%8B%E6%A9%9F%E6%8E%89%E4%BA%862-%E8%A2%AB%E5%9B%9A%E7%A6%81%E7%9A%84%E6%AE%BA%E4%BA%BA%E9%AD%94-%E4%B8%AD%E6%96%87%E9%A0%90%E5%91%8A-053437911.html?movie_id=10713">
+             預告片
+            </a>
+            <a class="btn_s_foto" href="https://movies.yahoo.com.tw/movieinfo_photos.html/id=10713">
+             劇照
+            </a>
+            <a class="btn_s_time gabtn" data-ga="['上映中','上映中_上映中第1頁','原本以為只是手機掉了2：被囚禁的殺人魔']" href="https://movies.yahoo.com.tw/movietime_result.html/id=10713">
+             時刻表
+            </a>
+           </div>
+          </div>
+         </li>
+         <li>
+          <div class="release_foto">
+           <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','怪胎']" href="https://movies.yahoo.com.tw/movieinfo_main/%E6%80%AA%E8%83%8E-i-weir-do-10733">
+            <img alt="" src="https://movies.yahoo.com.tw/x/r/w420/i/o/production/movies/July2020/eCKLQ6Ezj7x4n1KDd3NZ-489x720.jpg"/>
+           </a>
+          </div>
+          <div class="release_info">
+           <div class="release_info_text">
+            <div class="release_movie_name">
+             <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','怪胎']" href="https://movies.yahoo.com.tw/movieinfo_main/%E6%80%AA%E8%83%8E-i-weir-do-10733">
+              怪胎
+             </a>
+             <div class="en">
+              <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','怪胎']" href="https://movies.yahoo.com.tw/movieinfo_main/%E6%80%AA%E8%83%8E-i-weir-do-10733">
+               i WEiR DO
+              </a>
+             </div>
+             <dl class="levelbox">
+              <dt>
+               <div class="level_name">
+                期待度
+               </div>
+               <div class="leveltext">
+                <span>
+                 83%
+                </span>
+                網友想看
+               </div>
+              </dt>
+              <dd>
+               <div class="level_name">
+                滿意度
+               </div>
+               <div class="leveltext">
+                <span class="count" data-num="4.1" data-run="0">
+                 0
+                </span>
+                綜合評分
+               </div>
+              </dd>
+             </dl>
+            </div>
+            <div class="release_movie_time">
+             上映日期 ： 2020-08-07
+            </div>
+            <div class="release_text">
+             <span class="jq_text_overflow_180 jq_text_overflow_href_list" data-url="https://movies.yahoo.com.tw/movieinfo_main/%E6%80%AA%E8%83%8E-i-weir-do-10733">
+              在愛情的世界裡，我們是彼此的怪胎。
+陳柏青是一名嚴重神經性強迫症患者，有非常嚴重的潔癖，非不得已要出門時都是全副武裝；穿防塵衣、戴手套、戴口罩，還會不停的洗手，所以他幾乎沒辦法正常社交生活。在一般人眼中，柏青就是個異於常人的怪胎。每月的15號是柏青唯一一天出門採買的日子，就在某個命運的15號，他遇見了與他「同病相憐」的另一個怪胎—陳靜。陳靜除了跟柏青一樣有嚴重的潔癖之外，她的皮膚只要在家以外的地方待上超過四小時就會嚴重過敏，全身長出紅斑。原本以為自己要永遠孤單活在這世界上的兩人，老天爺讓他們相遇，發展出一塵不染的愛情，彷彿擁有了彼此就不再害怕被世界遺棄。然而這段看似命中註定的關係，卻在柏青的強迫症突然消失後，漸漸的變了調…愛情的承諾，真的能永保新鮮嗎？
+             </span>
+            </div>
+           </div>
+           <div class="release_btn color_btnbox">
+            <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','怪胎']" href="https://movies.yahoo.com.tw/movieinfo_main/%E6%80%AA%E8%83%8E-i-weir-do-10733">
+             電影介紹
+            </a>
+            <a class="btn_s_vedio gabtn" data-ga="['上映中','上映中_上映中第1頁','怪胎']" href="https://movies.yahoo.com.tw/video/%E6%80%AA%E8%83%8E-%E6%8D%B7%E9%81%8B%E6%88%80%E6%84%9B%E7%AF%87-075620858.html?movie_id=10733">
+             預告片
+            </a>
+            <a class="btn_s_foto" href="https://movies.yahoo.com.tw/movieinfo_photos.html/id=10733">
+             劇照
+            </a>
+            <a class="btn_s_time gabtn" data-ga="['上映中','上映中_上映中第1頁','怪胎']" href="https://movies.yahoo.com.tw/movietime_result.html/id=10733">
+             時刻表
+            </a>
+           </div>
+          </div>
+         </li>
+         <li>
+          <div class="release_foto">
+           <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','哈囉少女']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%93%88%E5%9B%89%E5%B0%91%E5%A5%B3-girls-revenge-10780">
+            <img alt="" src="https://movies.yahoo.com.tw/x/r/w420/i/o/production/movies/June2020/jK8Jb9bkYoF6QcDuml6p-504x720.jpg"/>
+           </a>
+          </div>
+          <div class="release_info">
+           <div class="release_info_text">
+            <div class="release_movie_name">
+             <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','哈囉少女']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%93%88%E5%9B%89%E5%B0%91%E5%A5%B3-girls-revenge-10780">
+              哈囉少女
+             </a>
+             <div class="en">
+              <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','哈囉少女']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%93%88%E5%9B%89%E5%B0%91%E5%A5%B3-girls-revenge-10780">
+               Girl’s Revenge
+              </a>
+             </div>
+             <dl class="levelbox">
+              <dt>
+               <div class="level_name">
+                期待度
+               </div>
+               <div class="leveltext">
+                <span>
+                 76%
+                </span>
+                網友想看
+               </div>
+              </dt>
+              <dd>
+               <div class="level_name">
+                滿意度
+               </div>
+               <div class="leveltext">
+                <span class="count" data-num="4.0" data-run="0">
+                 0
+                </span>
+                綜合評分
+               </div>
+              </dd>
+             </dl>
+            </div>
+            <div class="release_movie_time">
+             上映日期 ： 2020-08-07
+            </div>
+            <div class="release_text">
+             <span class="jq_text_overflow_180 jq_text_overflow_href_list" data-url="https://movies.yahoo.com.tw/movieinfo_main/%E5%93%88%E5%9B%89%E5%B0%91%E5%A5%B3-girls-revenge-10780">
+              ★女生小圈圈　閨蜜還是敵人？
+★《甜蜜殺機》連奕琦監製　年度話題校園片
+★開美肌 婊心機　社群風暴將席捲花邊少女少男們
+ 
+神秘寡言的轉學生允蘅，初來乍到就被捲入暗潮洶湧的女孩心機；想連任校園親善大使的可茜，想方設法建立自己的姐妹勢力；率真直言的力加，看不慣可茜恩威並施的手段，挺身而出的同時卻也陷入鬥爭的漩渦，姊妹過招各鬥心機。一場生日派對後，少女被偷拍的性愛影片在網路上流傳，流言蜚語四起，少女花邊日記開始變調。
+ 
+直播、偷拍、肉搜，少男少女們的校園小圈圈不再平靜，一場風雨欲來的網路社群風暴即將襲來！為好友伸張正義的她，在越接近真相的同時，也揭露校園內令人坐立難安的真相……。
+             </span>
+            </div>
+           </div>
+           <div class="release_btn color_btnbox">
+            <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','哈囉少女']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%93%88%E5%9B%89%E5%B0%91%E5%A5%B3-girls-revenge-10780">
+             電影介紹
+            </a>
+            <a class="btn_s_vedio gabtn" data-ga="['上映中','上映中_上映中第1頁','哈囉少女']" href="https://movies.yahoo.com.tw/video/%E5%93%88%E5%9B%89%E5%B0%91%E5%A5%B3-%E4%B8%AD%E6%96%87%E9%A0%90%E5%91%8A-022155090.html?movie_id=10780">
+             預告片
+            </a>
+            <a class="btn_s_foto" href="https://movies.yahoo.com.tw/movieinfo_photos.html/id=10780">
+             劇照
+            </a>
+            <a class="btn_s_time gabtn" data-ga="['上映中','上映中_上映中第1頁','哈囉少女']" href="https://movies.yahoo.com.tw/movietime_result.html/id=10780">
+             時刻表
+            </a>
+           </div>
+          </div>
+         </li>
+         <li>
+          <div class="release_foto">
+           <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','陰眼']" href="https://movies.yahoo.com.tw/movieinfo_main/%E9%99%B0%E7%9C%BC-the-eyes-10795">
+            <img alt="" src="https://movies.yahoo.com.tw/x/r/w420/i/o/production/movies/July2020/O37AXosvw3HlOM5bdkbP-504x720.jpg"/>
+           </a>
+          </div>
+          <div class="release_info">
+           <div class="release_info_text">
+            <div class="release_movie_name">
+             <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','陰眼']" href="https://movies.yahoo.com.tw/movieinfo_main/%E9%99%B0%E7%9C%BC-the-eyes-10795">
+              陰眼
+             </a>
+             <div class="en">
+              <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','陰眼']" href="https://movies.yahoo.com.tw/movieinfo_main/%E9%99%B0%E7%9C%BC-the-eyes-10795">
+               The Eyes
+              </a>
+             </div>
+             <dl class="levelbox">
+              <dt>
+               <div class="level_name">
+                期待度
+               </div>
+               <div class="leveltext">
+                <span>
+                 93%
+                </span>
+                網友想看
+               </div>
+              </dt>
+              <dd>
+               <div class="level_name">
+                滿意度
+               </div>
+               <div class="leveltext">
+                <span class="count" data-num="3.9" data-run="0">
+                 0
+                </span>
+                綜合評分
+               </div>
+              </dd>
+             </dl>
+            </div>
+            <div class="release_movie_time">
+             上映日期 ： 2020-08-07
+            </div>
+            <div class="release_text">
+             <span class="jq_text_overflow_180 jq_text_overflow_href_list" data-url="https://movies.yahoo.com.tw/movieinfo_main/%E9%99%B0%E7%9C%BC-the-eyes-10795">
+              ★ 越南名導演再創恐怖片高峰
+★ 越南版《見鬼》挑戰你的恐懼底線！
+★ 來路不明的眼睛，將揭開家族的駭人祕密　
+ 
+經歷了一次攸關生死的車禍，知名女藝人失去了記憶，她的眼睛受到重傷必須接受他人捐贈的眼角膜重新恢復視力。而自從換上了新眼睛後，她就時常看到一個全身是血的女人，這讓她不禁好奇這雙眼睛原來的主人是誰，也不小心揭開了丈夫的駭人祕密…
+             </span>
+            </div>
+           </div>
+           <div class="release_btn color_btnbox">
+            <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','陰眼']" href="https://movies.yahoo.com.tw/movieinfo_main/%E9%99%B0%E7%9C%BC-the-eyes-10795">
+             電影介紹
+            </a>
+            <a class="btn_s_vedio gabtn" data-ga="['上映中','上映中_上映中第1頁','陰眼']" href="https://movies.yahoo.com.tw/video/%E9%99%B0%E7%9C%BC-%E4%B8%AD%E6%96%87%E9%A0%90%E5%91%8A-133434776.html?movie_id=10795">
+             預告片
+            </a>
+            <a class="btn_s_foto" href="https://movies.yahoo.com.tw/movieinfo_photos.html/id=10795">
+             劇照
+            </a>
+            <a class="btn_s_time gabtn" data-ga="['上映中','上映中_上映中第1頁','陰眼']" href="https://movies.yahoo.com.tw/movietime_result.html/id=10795">
+             時刻表
+            </a>
+           </div>
+          </div>
+         </li>
+         <li>
+          <div class="release_foto">
+           <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','家靈']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%AE%B6%E9%9D%88-relic-10798">
+            <img alt="" src="https://movies.yahoo.com.tw/x/r/w420/i/o/production/movies/July2020/owo17DRMLuNMQ9eg4LZj-509x720.jpg"/>
+           </a>
+          </div>
+          <div class="release_info">
+           <div class="release_info_text">
+            <div class="release_movie_name">
+             <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','家靈']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%AE%B6%E9%9D%88-relic-10798">
+              家靈
+             </a>
+             <div class="en">
+              <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','家靈']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%AE%B6%E9%9D%88-relic-10798">
+               Relic
+              </a>
+             </div>
+             <dl class="levelbox">
+              <dt>
+               <div class="level_name">
+                期待度
+               </div>
+               <div class="leveltext">
+                <span>
+                 80%
+                </span>
+                網友想看
+               </div>
+              </dt>
+              <dd>
+               <div class="level_name">
+                滿意度
+               </div>
+               <div class="leveltext">
+                <span class="count" data-num="3.4" data-run="0">
+                 0
+                </span>
+                綜合評分
+               </div>
+              </dd>
+             </dl>
+            </div>
+            <div class="release_movie_time">
+             上映日期 ： 2020-08-07
+            </div>
+            <div class="release_text">
+             <span class="jq_text_overflow_180 jq_text_overflow_href_list" data-url="https://movies.yahoo.com.tw/movieinfo_main/%E5%AE%B6%E9%9D%88-relic-10798">
+              ★今年最佳恐怖電影之一”～The Playlist
+★毛骨悚然！創下2020恐怖片新高點！”~Variety
+ 
+獨居老人艾德娜失蹤了，她的女兒凱伊和孫女小珊在接獲警方通報後，急忙從墨爾本趕回鄉間的祖厝。警方和當地居民組織了搜索隊在樹林裡展開搜尋，不料，艾德娜卻突然自行返家，原以為只是阿茲海默症病況加劇，艾德娜完全記不起這些天到底去了哪裡或是經歷過什麼事。平安返家的艾德娜卻好像變了一個人，她的行徑越來越古怪，甚至變得危險，不僅艾德娜感覺到屋裡有股神秘的力量在操控著她，就連凱伊和孫女小珊也逐漸迷失，這個「家」變得越來越暴戾……
+ 
+首執導演筒的娜塔莉艾瑞卡詹姆士靈感來自幼時經驗，身為日裔澳洲人的她，年幼時曾經回到日本探望罹患失智症的祖母，陰森的舊式日式住宅猶如日本恐怖電影印在她的腦海。她找來演過多部恐怖片的艾蜜莉莫提梅、《駭客任務》中的先知蘿蘋納文以及貝拉希斯寇特擔任主演，這是一部全女性的恐怖電影。本片獲得演員傑克葛倫霍製片公司的投資，在日舞影展的首映佳評如潮，奇特的結局被譽為2020年最佳恐怖電影之一。
+             </span>
+            </div>
+           </div>
+           <div class="release_btn color_btnbox">
+            <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','家靈']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%AE%B6%E9%9D%88-relic-10798">
+             電影介紹
+            </a>
+            <a class="btn_s_vedio gabtn" data-ga="['上映中','上映中_上映中第1頁','家靈']" href="https://movies.yahoo.com.tw/video/%E5%AE%B6%E9%9D%88-%E5%89%8D%E5%B0%8E%E9%A0%90%E5%91%8A-105143506.html?movie_id=10798">
+             預告片
+            </a>
+            <a class="btn_s_foto" href="https://movies.yahoo.com.tw/movieinfo_photos.html/id=10798">
+             劇照
+            </a>
+            <a class="btn_s_time gabtn" data-ga="['上映中','上映中_上映中第1頁','家靈']" href="https://movies.yahoo.com.tw/movietime_result.html/id=10798">
+             時刻表
+            </a>
+           </div>
+          </div>
+         </li>
+         <li>
+          <div class="release_foto">
+           <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','6號鬼病床']" href="https://movies.yahoo.com.tw/movieinfo_main/6%E8%99%9F%E9%AC%BC%E7%97%85%E5%BA%8A-bed-number-6-10826">
+            <img alt="" src="https://movies.yahoo.com.tw/x/r/w420/i/o/production/movies/July2020/7QShrvtJuBReECPmhv3m-494x720.jpg"/>
+           </a>
+          </div>
+          <div class="release_info">
+           <div class="release_info_text">
+            <div class="release_movie_name">
+             <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','6號鬼病床']" href="https://movies.yahoo.com.tw/movieinfo_main/6%E8%99%9F%E9%AC%BC%E7%97%85%E5%BA%8A-bed-number-6-10826">
+              6號鬼病床
+             </a>
+             <div class="en">
+              <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','6號鬼病床']" href="https://movies.yahoo.com.tw/movieinfo_main/6%E8%99%9F%E9%AC%BC%E7%97%85%E5%BA%8A-bed-number-6-10826">
+               Bed Number 6
+              </a>
+             </div>
+             <dl class="levelbox">
+              <dt>
+               <div class="level_name">
+                期待度
+               </div>
+               <div class="leveltext">
+                <span>
+                 96%
+                </span>
+                網友想看
+               </div>
+              </dt>
+              <dd>
+               <div class="level_name">
+                滿意度
+               </div>
+               <div class="leveltext">
+                <span class="count" data-num="2.9" data-run="0">
+                 0
+                </span>
+                綜合評分
+               </div>
+              </dd>
+             </dl>
+            </div>
+            <div class="release_movie_time">
+             上映日期 ： 2020-08-07
+            </div>
+            <div class="release_text">
+             <span class="jq_text_overflow_180 jq_text_overflow_href_list" data-url="https://movies.yahoo.com.tw/movieinfo_main/6%E8%99%9F%E9%AC%BC%E7%97%85%E5%BA%8A-bed-number-6-10826">
+              ★ 繼《安娜貝爾》《陰兒房》後，最驚悚恐怖懼作！
+★ 取材自真實駭人事件，揭發歐洲病院不為人知的黑歷史！
+ 
+走的進去，躺著出來..
+懷有身孕的女醫師碧昂卡（卡羅麗娜 飾）剛來到一家兒童病院的夜班任職，上工首日便聽聞前任醫師於院中墜樓身亡的消息。某日夜晚巡房，她遇見6號床上一位尋找母親的哭泣男童，從此成了她惡夢的開端。碧昂卡開始產生詭異幻覺、且接連遭逢怪事，甚至短暫失去意識差點跳下樓，她逐漸發現這間醫院隱瞞了的一個個可怕的駭人秘密….為了活下去，她必須找出這男孩身世，以及揭開這不可告人的恐怖真相…
+             </span>
+            </div>
+           </div>
+           <div class="release_btn color_btnbox">
+            <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','6號鬼病床']" href="https://movies.yahoo.com.tw/movieinfo_main/6%E8%99%9F%E9%AC%BC%E7%97%85%E5%BA%8A-bed-number-6-10826">
+             電影介紹
+            </a>
+            <a class="btn_s_vedio gabtn" data-ga="['上映中','上映中_上映中第1頁','6號鬼病床']" href="https://movies.yahoo.com.tw/video/6%E8%99%9F%E9%AC%BC%E7%97%85%E5%BA%8A-%E4%B8%AD%E6%96%87%E9%A0%90%E5%91%8A-135005870.html?movie_id=10826">
+             預告片
+            </a>
+            <a class="btn_s_foto" href="https://movies.yahoo.com.tw/movieinfo_photos.html/id=10826">
+             劇照
+            </a>
+            <a class="btn_s_time gabtn" data-ga="['上映中','上映中_上映中第1頁','6號鬼病床']" href="https://movies.yahoo.com.tw/movietime_result.html/id=10826">
+             時刻表
+            </a>
+           </div>
+          </div>
+         </li>
+         <li>
+          <div class="release_foto">
+           <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','心靈咖啡館的驅魔師']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%BF%83%E9%9D%88%E5%92%96%E5%95%A1%E9%A4%A8%E7%9A%84%E9%A9%85%E9%AD%94%E5%B8%AB-the-real-exorcist-10830">
+            <img alt="" src="https://movies.yahoo.com.tw/x/r/w420/i/o/production/movies/July2020/zL6QsrVSM4VsLxo6p2Ya-505x720.jpg"/>
+           </a>
+          </div>
+          <div class="release_info">
+           <div class="release_info_text">
+            <div class="release_movie_name">
+             <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','心靈咖啡館的驅魔師']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%BF%83%E9%9D%88%E5%92%96%E5%95%A1%E9%A4%A8%E7%9A%84%E9%A9%85%E9%AD%94%E5%B8%AB-the-real-exorcist-10830">
+              心靈咖啡館的驅魔師
+             </a>
+             <div class="en">
+              <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','心靈咖啡館的驅魔師']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%BF%83%E9%9D%88%E5%92%96%E5%95%A1%E9%A4%A8%E7%9A%84%E9%A9%85%E9%AD%94%E5%B8%AB-the-real-exorcist-10830">
+               The Real Exorcist
+              </a>
+             </div>
+             <dl class="levelbox">
+              <dt>
+               <div class="level_name">
+                期待度
+               </div>
+               <div class="leveltext">
+                <span>
+                 93%
+                </span>
+                網友想看
+               </div>
+              </dt>
+              <dd>
+               <div class="level_name">
+                滿意度
+               </div>
+               <div class="leveltext">
+                <span class="count" data-num="3.6" data-run="0">
+                 0
+                </span>
+                綜合評分
+               </div>
+              </dd>
+             </dl>
+            </div>
+            <div class="release_movie_time">
+             上映日期 ： 2020-08-07
+            </div>
+            <div class="release_text">
+             <span class="jq_text_overflow_180 jq_text_overflow_href_list" data-url="https://movies.yahoo.com.tw/movieinfo_main/%E5%BF%83%E9%9D%88%E5%92%96%E5%95%A1%E9%A4%A8%E7%9A%84%E9%A9%85%E9%AD%94%E5%B8%AB-the-real-exorcist-10830">
+              ★ 連霸日本五週票房冠軍！
+★ 橫掃7國電影節，榮獲46座獎項肯定
+★ 榮獲2020摩納哥國際電影節最佳影片、最佳女主角、最佳女配角、最佳視覺效果等四項大獎
+★ 打破心中的黑暗！關於存在都市內「救世主」的動人故事
+★ 隱身咖啡館的強大驅魔師，將以光明力量擊退邪惡勢力！
+ 
+在人多混雜的東京都內，小百合由於人們充滿惡意的想法而時常感到痛苦。這時，拯救她的是咖啡館「EXTRA」老闆一家人。一個月後，小百合進入這家店打工，她在店外掛起了「歡迎入內諮詢煩惱」的小告示，並開始在店內擔任諮詢煩惱的志工。
+ 
+某天，大學生小勇在替店長拿店內營收去存的路上，沒想到卻遭人搶劫。走投無路，有可能自殺的他走進了咖啡館，經小百合使用特殊的靈能力後，瞬間查出真正的犯人，事件順利解決。在那之後，小勇一邊幫忙小百合，同時一邊接觸到「眼所不能見」的世界。然而，對於懷抱著向神明報恩想法的小百合來說，惡魔卻開始向她伸出魔爪……
+             </span>
+            </div>
+           </div>
+           <div class="release_btn color_btnbox">
+            <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','心靈咖啡館的驅魔師']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%BF%83%E9%9D%88%E5%92%96%E5%95%A1%E9%A4%A8%E7%9A%84%E9%A9%85%E9%AD%94%E5%B8%AB-the-real-exorcist-10830">
+             電影介紹
+            </a>
+            <a class="btn_s_vedio gabtn" data-ga="['上映中','上映中_上映中第1頁','心靈咖啡館的驅魔師']" href="https://movies.yahoo.com.tw/video/%E5%BF%83%E9%9D%88%E5%92%96%E5%95%A1%E9%A4%A8%E7%9A%84%E9%A9%85%E9%AD%94%E5%B8%AB-%E4%B8%AD%E6%96%87%E9%A0%90%E5%91%8A-024318216.html?movie_id=10830">
+             預告片
+            </a>
+            <a class="btn_s_foto" href="https://movies.yahoo.com.tw/movieinfo_photos.html/id=10830">
+             劇照
+            </a>
+            <a class="btn_s_time gabtn" data-ga="['上映中','上映中_上映中第1頁','心靈咖啡館的驅魔師']" href="https://movies.yahoo.com.tw/movietime_result.html/id=10830">
+             時刻表
+            </a>
+           </div>
+          </div>
+         </li>
+         <li>
+          <div class="release_foto">
+           <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','Perfect World ~和你在一起的奇蹟~']" href="https://movies.yahoo.com.tw/movieinfo_main/Perfect-World-%E5%92%8C%E4%BD%A0%E5%9C%A8%E4%B8%80%E8%B5%B7%E7%9A%84%E5%A5%87%E8%B9%9F-perfect-world-10832">
+            <img alt="" src="https://movies.yahoo.com.tw/x/r/w420/i/o/production/movies/July2020/xYOkcJgW6urwXJaUlvDy-504x720.JPG"/>
+           </a>
+          </div>
+          <div class="release_info">
+           <div class="release_info_text">
+            <div class="release_movie_name">
+             <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','Perfect World ~和你在一起的奇蹟~']" href="https://movies.yahoo.com.tw/movieinfo_main/Perfect-World-%E5%92%8C%E4%BD%A0%E5%9C%A8%E4%B8%80%E8%B5%B7%E7%9A%84%E5%A5%87%E8%B9%9F-perfect-world-10832">
+              Perfect World ~和你在一起的奇蹟~
+             </a>
+             <div class="en">
+              <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','Perfect World ~和你在一起的奇蹟~']" href="https://movies.yahoo.com.tw/movieinfo_main/Perfect-World-%E5%92%8C%E4%BD%A0%E5%9C%A8%E4%B8%80%E8%B5%B7%E7%9A%84%E5%A5%87%E8%B9%9F-perfect-world-10832">
+               Perfect World
+              </a>
+             </div>
+             <dl class="levelbox">
+              <dt>
+               <div class="level_name">
+                期待度
+               </div>
+               <div class="leveltext">
+                <span>
+                 97%
+                </span>
+                網友想看
+               </div>
+              </dt>
+              <dd>
+               <div class="level_name">
+                滿意度
+               </div>
+               <div class="leveltext">
+                <span class="count" data-num="4.2" data-run="0">
+                 0
+                </span>
+                綜合評分
+               </div>
+              </dd>
+             </dl>
+            </div>
+            <div class="release_movie_time">
+             上映日期 ： 2020-08-07
+            </div>
+            <div class="release_text">
+             <span class="jq_text_overflow_180 jq_text_overflow_href_list" data-url="https://movies.yahoo.com.tw/movieinfo_main/Perfect-World-%E5%92%8C%E4%BD%A0%E5%9C%A8%E4%B8%80%E8%B5%B7%E7%9A%84%E5%A5%87%E8%B9%9F-perfect-world-10832">
+              ★改編自有賀理惠人氣同名漫畫作品，獲選為2016年最佳少女漫畫
+★三代目J Soul Brothers 岩田剛典 X 藍絲帶獎最佳女配角得主 杉咲花 動人共演
+★柴山健次導演：「我想細膩描繪出這故事所擁有的光輝與黑暗。」
+ 
+如果沒有你，這個世界將不再完美……
+任職於室內設計公司川奈愛未（杉咲花 飾），偶遇高中時代的前輩，也是她的初戀──鮎川樹（岩田剛典 飾）。卻沒想到樹在大學時期因為一場意外，造成脊椎受損，必須終生倚靠輪椅生活。愛未見到這般模樣的樹，覺得兩人沒有再次戀愛的可能，卻又同時發現自己對樹仍有情愫，而再度被樹吸引。樹雖然喜歡溫柔坦率的愛未，心裡卻始終抱持著「我再也無法讓任何人幸福」的想法，而放棄與女生交往的機會。在得知樹的想法後，愛未該如何面對自己對樹的心意？而愛未對樹的愛意，能否融化樹冰封已久的心，克服兩人面前的重重阻礙呢？
+             </span>
+            </div>
+           </div>
+           <div class="release_btn color_btnbox">
+            <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','Perfect World ~和你在一起的奇蹟~']" href="https://movies.yahoo.com.tw/movieinfo_main/Perfect-World-%E5%92%8C%E4%BD%A0%E5%9C%A8%E4%B8%80%E8%B5%B7%E7%9A%84%E5%A5%87%E8%B9%9F-perfect-world-10832">
+             電影介紹
+            </a>
+            <a class="btn_s_vedio no_select">
+             預告片
+            </a>
+            <a class="btn_s_foto no_select">
+             劇照
+            </a>
+            <a class="btn_s_time gabtn" data-ga="['上映中','上映中_上映中第1頁','Perfect World ~和你在一起的奇蹟~']" href="https://movies.yahoo.com.tw/movietime_result.html/id=10832">
+             時刻表
+            </a>
+           </div>
+          </div>
+         </li>
+         <li>
+          <div class="release_foto">
+           <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','地下社會']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%9C%B0%E4%B8%8B%E7%A4%BE%E6%9C%83-underground-10840">
+            <img alt="" src="https://movies.yahoo.com.tw/x/r/w420/i/o/production/movies/July2020/fpPRcUE4YxdI3csm1l0E-504x720.jpg"/>
+           </a>
+          </div>
+          <div class="release_info">
+           <div class="release_info_text">
+            <div class="release_movie_name">
+             <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','地下社會']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%9C%B0%E4%B8%8B%E7%A4%BE%E6%9C%83-underground-10840">
+              地下社會
+             </a>
+             <div class="en">
+              <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','地下社會']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%9C%B0%E4%B8%8B%E7%A4%BE%E6%9C%83-underground-10840">
+               Underground
+              </a>
+             </div>
+             <dl class="levelbox">
+              <dt>
+               <div class="level_name">
+                期待度
+               </div>
+               <div class="leveltext">
+                <span>
+                 80%
+                </span>
+                網友想看
+               </div>
+              </dt>
+              <dd>
+               <div class="level_name">
+                滿意度
+               </div>
+               <div class="leveltext">
+                <span class="count" data-num="4.3" data-run="0">
+                 0
+                </span>
+                綜合評分
+               </div>
+              </dd>
+             </dl>
+            </div>
+            <div class="release_movie_time">
+             上映日期 ： 2020-08-07
+            </div>
+            <div class="release_text">
+             <span class="jq_text_overflow_180 jq_text_overflow_href_list" data-url="https://movies.yahoo.com.tw/movieinfo_main/%E5%9C%B0%E4%B8%8B%E7%A4%BE%E6%9C%83-underground-10840">
+              ★坎城影展金棕櫚大獎得主  25週年紀念DCP大銀幕重現
+★最會得獎的塞爾維亞大師導演庫斯杜力卡 最癲狂的影史代表作
+ 
+有一種最忠貞的愛情，叫做革命。
+有一場最無望的革命，叫做愛情。
+ 
+世界大戰早已經結束，在地下，他們卻以為戰火仍在延燒....
+ 
+1944年，大轟炸廢墟裡，馬可和阿黑攜手對抗納粹，革命曾和他們的青春一樣熾熱且單純。直到女星娜塔莉站上舞台，兩個男人愛上的，竟是同一個她。是兄弟，又是對手，馬可救了阿黑，並將他藏在自家地下室裡，這一躲，就是二十年。
+ 
+世界大戰結束了，娜塔莉選擇了馬可，金錢結合權勢，他們在地上沈淪。馬可讓阿黑相信，戰爭還在繼續。他用大大的國家，把兄弟關在小小的地下室裡，放假警報，播放革命歌，別說欺騙很難，是相信太容易。在地上，馬可修改了歷史，將活著的兄弟塑造成死去的英雄，在地下，阿黑以為自己正創造歷史，革命的火種將由他延續。這個國家最大的謊言，是女人不愛我了，還是我就這樣過了一生？
+ 
+名導艾米爾庫斯杜力卡顛峰之作，獲坎城影展金棕櫚大獎肯定。穿出進入大歷史五十年。見證人類史最大的幻術。原來國家是集體的幻覺，世界戰爭了，政權興起了，虛構顛倒了真實。夢中婚禮。最好的朋友是最後的死敵。無望的戀人。戰火浮生。荒謬倒錯，魔幻寫實的極致，而在歷史的終端，兩個男人，終於在地平線上相遇，是對決，還是擁抱，是選擇原諒，還是僅僅遺忘？
+ 
+「多希望，有一天，我會再見到你。」
+ 
+【關於電影】                               
+ 
+★ 如果費里尼拍攝戰爭電影，一定會像《地下社會》。－綜藝報
+★ 整整三小時雷鳴般震懾的電影！史詩般喜劇。－倫敦時報 
+★ 足以喚醒心靈的傑作。每分每秒都貫徹著至高美學。－世界報。
+★ 騷動！大膽！過激！這曲獻給國家的輓歌用熱情征服了坎城。－洛杉磯時報 
+★ 巴洛克似華麗偉大的視覺力量。炸藥爆破螢幕的畫面表現。－法蘭克福每日評論報
+ 
+獲獎的功力無人能比，至今全世界還找不到第二人，斬獲二次坎城金棕櫚獎及一次最佳導演獎、威尼斯銀獅獎、柏林銀熊獎等大獎，堪稱電影界超重量級人物，他就是鼎鼎大名的艾米爾.庫斯杜力卡。庫斯杜力卡是當今最富盛名、也最受爭議的仍在拍片的南斯拉夫（Yugoslavia）導演。1954年11月24日出生於塞拉耶佛，他的父親如同其他上百萬的南斯拉夫人一般，放棄了自己的信仰而向共產主義低頭，身為獨子的庫斯杜力卡，卻選擇以行動譴責共產主義──致力當一名導演。1995年的《地下社會》適逢電影百年，具有更高度的野心──旨在將像南斯拉夫這般錯綜複雜的半世紀歷史以及庫斯杜力卡這般野心勃勃的整體創作濃縮於單一的劇情片中。《地下社會》達成了這兩個目標，成為一連串偉大的東歐荒謬混仿劇中的最後一部，也證明了：描繪共產主義制度下的生活絕非已經枯竭的題材。這部堪稱神作的政治史詩濃縮了他卓而不群的創作理念和藝術表現，並將其推向極致。為表現超現實色彩所運用的大量特技無論從構思或技術上都令人驚豔連連。
+ 
+狂歡的人們沒有察覺，他們所依附的土地已從大陸上分裂開去，在漫無邊際的水面上越漂越遠。庫斯杜力卡無言地告訴觀眾，這就是他祖國的命運。他無休無止的玩笑其實只是在緩和內心深切的創痛。此片也讓他的藝術創作攀上了高峰，39歲的導演再次登上坎城金棕櫚寶座，亦成為傳奇經典。
+             </span>
+            </div>
+           </div>
+           <div class="release_btn color_btnbox">
+            <a class="gabtn" data-ga="['上映中','上映中_上映中第1頁','地下社會']" href="https://movies.yahoo.com.tw/movieinfo_main/%E5%9C%B0%E4%B8%8B%E7%A4%BE%E6%9C%83-underground-10840">
+             電影介紹
+            </a>
+            <a class="btn_s_vedio gabtn" data-ga="['上映中','上映中_上映中第1頁','地下社會']" href="https://movies.yahoo.com.tw/video/%E5%9C%B0%E4%B8%8B%E7%A4%BE%E6%9C%83-%E4%B8%AD%E6%96%87%E9%A0%90%E5%91%8A-020314544.html?movie_id=10840">
+             預告片
+            </a>
+            <a class="btn_s_foto" href="https://movies.yahoo.com.tw/movieinfo_photos.html/id=10840">
+             劇照
+            </a>
+            <a class="btn_s_time gabtn" data-ga="['上映中','上映中_上映中第1頁','地下社會']" href="https://movies.yahoo.com.tw/movietime_result.html/id=10840">
+             時刻表
+            </a>
+           </div>
+          </div>
+         </li>
+        </ul>
+       </div>
+       <div class="page_numbox">
+        <ul>
+         <li class="num_ar">
+          ‹
+         </li>
+         <li class="prevtxt disabled">
+          <span>
+           上一頁
+          </span>
+         </li>
+         <li class="active">
+          <span>
+           1
+          </span>
+         </li>
+         <li>
+          <a href="http://movies.yahoo.com.tw/movie_intheaters.html?page=2">
+           2
+          </a>
+         </li>
+         <li>
+          <a href="http://movies.yahoo.com.tw/movie_intheaters.html?page=3">
+           3
+          </a>
+         </li>
+         <li>
+          <a href="http://movies.yahoo.com.tw/movie_intheaters.html?page=4">
+           4
+          </a>
+         </li>
+         <li>
+          <a href="http://movies.yahoo.com.tw/movie_intheaters.html?page=5">
+           5
+          </a>
+         </li>
+         <li>
+          <a href="http://movies.yahoo.com.tw/movie_intheaters.html?page=6">
+           6
+          </a>
+         </li>
+         <li>
+          <a href="http://movies.yahoo.com.tw/movie_intheaters.html?page=7">
+           7
+          </a>
+         </li>
+         <li>
+          <a href="http://movies.yahoo.com.tw/movie_intheaters.html?page=8">
+           8
+          </a>
+         </li>
+         <li>
+          <a href="http://movies.yahoo.com.tw/movie_intheaters.html?page=9">
+           9
+          </a>
+         </li>
+         <li>
+          <a href="http://movies.yahoo.com.tw/movie_intheaters.html?page=10">
+           10
+          </a>
+         </li>
+         <li class="nexttxt">
+          <a href="http://movies.yahoo.com.tw/movie_intheaters.html?page=2" rel="next">
+           下一頁
+          </a>
+         </li>
+         <li class="num_ar">
+          ›
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+    </div>
+   </main>
+   <footer class="clearfix" id="footer" style="display: block;">
+    <div id="loadbox">
+     <a class="gabtn" data-ga="['其他連結','其他連結_服務中心','頁尾_其他連結']" href="https://tw.help.yahoo.com/kb/helpcentral" target="_blank">
+      服務中心
+     </a>
+     |
+     <a class="gabtn" data-ga="['其他連結','其他連結_隱私權','頁尾_其他連結']" href="https://policies.yahoo.com/tw/zh-hant/yahoo/privacy/index.htm" target="_blank">
+      隱私權(更新)
+     </a>
+     |
+     <a class="gabtn" data-ga="['其他連結','其他連結_建議','頁尾_其他連結']" href="https://yahoo.uservoice.com/forums/600523" target="_blank">
+      建議
+     </a>
+     |
+     <a class="gabtn" data-ga="['其他連結','其他連結_關於我們的廣告','頁尾_其他連結']" href="https://policies.yahoo.com/tw/zh-hant/yahoo/privacy/adinfo/" target="_blank">
+      關於我們的廣告
+     </a>
+     |
+     <a class="gabtn" data-ga="['其他連結','其他連結_服務條款','頁尾_其他連結']" href="https://info.yahoo.com/legal/tw/yahoo/utos/zh-hant-tw/" target="_blank">
+      服務條款(更新)
+     </a>
+     |
+     <a href="" target="_blank">
+     </a>
+     由Yahoo奇摩電影 提供
+    </div>
+   </footer>
+  </div>
+  <!-- Javascript -->
+  <script src="https://s.yimg.com/ss/rapid3.js">
+  </script>
+  <script src="https://s.yimg.com/ss/rapidworker-1.2.js">
+  </script>
+  <!-- Native Ad -->
+  <script type="text/javascript">
+   const nativeAdAll = "bdd2eb9c-51e8-404a-921c-ae7090fc5fda";
+  const nativeAdOption = "";
+
+  window.native = window.native || [];
+  window.native.push(nativeAdAll);
+  if(nativeAdOption.length) {
+    window.native.push(nativeAdOption);
+  }
+  window.apiKey = "QS4CB5BPWQKCYKVVSR89";
+
+  (function(d) {
+    var script = d.createElement("script");
+    script.async = true;
+    script.src = "https://s.yimg.com/dy/ads/native.js";
+    d.body.appendChild(script);
+  })(document);
+  </script>
+  <script src="/build/js/app.js?id=5940a67a27b7f7de994c&amp;r=1555478321" type="text/javascript">
+  </script>
+  <noscript>
+   <img alt="" height="1" src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=7241469&amp;c7=https%3A%2F%2Fmovies.yahoo.com.tw%2Fmovie_intheaters.html&amp;c5=794026717&amp;cv=2.0&amp;cj=1" width="1"/>
+  </noscript>
+  <script>
+  </script>
+  <script type="application/javascript">
+   (function (w, d, t, r, u) {
+    w[u] = w[u] || []
+    w[u].push({
+      'projectId': '10000',
+      'properties': {
+        'pixelId': '428726',
+        'qstrings': {'country': 'tw', 'property': 'movie', 'tag': ''}
+      }
+    })
+    var s = d.createElement(t)
+    s.src = r
+    s.async = true
+    s.onload = s.onreadystatechange = function () {
+      var y, rs = this.readyState, c = w[u]
+      if (rs && rs != 'complete' && rs != 'loaded') {return}
+      try {
+        y = YAHOO.ywa.I13N.fireBeacon
+        w[u] = []
+        w[u].push = function (p) {y([p])}
+        y(c)
+      } catch (e) {}
+    }
+    var scr = d.getElementsByTagName(t)[0], par = scr.parentNode
+    par.insertBefore(s, scr)
+  })(window, document, 'script', 'https://s.yimg.com/wi/ytc.js', 'dotq')
+  </script>
+ </body>
+</html>
+
