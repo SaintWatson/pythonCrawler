@@ -7,11 +7,12 @@ paragraphs = soup.find_all('p')[3:78]
 
 checklist = []
 href = []
+header = 'https://zh.wikipedia.org'
 for paragraph in paragraphs:
     tags = paragraph.find_all('a')
     for tag in tags:
         title = tag.text
-        url = tag.get('href')
+        url = header + tag.get('href').replace('wiki', 'zh-tw').replace('/w/', '/wiki/')
         if '[' not in title and url not in checklist:
             checklist.append(url)
             href.append([title, url])
