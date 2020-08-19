@@ -11,13 +11,14 @@ with open('static.html', 'w') as fd:
 
 # Part.2 dynamic crawl
 from selenium import webdriver
-browser = webdriver.Chrome(executable_path='./chromedriver.exe')
+browser = webdriver.Chrome(executable_path='../tools/chromedriver.exe')
 browser.get(url)
 content = browser.page_source
-browser.close()
+browser.close() # only close the window, the driver is still work. 
+browser.quit() # close all the windows and also the driver.
 soup = BeautifulSoup(content, features='lxml')
 with open('dynamic.html', 'w') as fd:
     fd.write(str(soup.prettify()))
-    print('dynamic way get the full  response')
+    print('dynamic way get the full response')
 
 
