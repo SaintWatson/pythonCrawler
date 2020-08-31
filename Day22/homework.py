@@ -5,7 +5,6 @@ import time
 from datetime import datetime
 
 url = 'https://hahow.in/courses?page='
-time1 = datetime.now()
 
 options = Options()
 options.headless = True
