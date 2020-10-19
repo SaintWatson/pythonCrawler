@@ -20,7 +20,7 @@ browser = Chrome('../tools/chromedriver.exe', options = option)
 print('Open the webdriver...')
 browser.get(url)
 for i in range(scroll_times):
-    string = '\rLoading the page: [' + '#' * i + ' ' * (scroll_times-i) +']'
+    string = '\rLoading the page: [' + '#' * i + ' ' * (scroll_times-i-1) +']'
     sleep(sleep_time)
     stdout.write(string)
     stdout.flush()
